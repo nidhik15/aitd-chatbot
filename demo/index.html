@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <h1>College Feedback Analyzer</h1>
+  <input id="feedback" placeholder="Enter feedback..." style="width:300px">
+  <button onclick="analyze()">Analyze</button>
+  <pre id="result"></pre>
+  
+  <script>
+  async function analyze() {
+    const text = document.getElementById('feedback').value;
+    const res = await fetch('http://localhost:8000/predict', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({feedback_message: text})
+    });
+    const data = await res.json();
+    document.getElementById('result').textContent = JSON.stringify(data, null, 2);
+  }
+  </script>
+</body>
+</html>

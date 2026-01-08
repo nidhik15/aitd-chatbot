@@ -1,0 +1,499 @@
+id,feedback_message,valid_invalid,category,sentiment
+1,Nothing,Invalid,Uncategorized,Neutral
+2,I am satisfied with the security facilities,Valid,Security,Positive
+3,sports is average,Valid,Sports,Neutral
+4,administration is average,Valid,Administration,Neutral
+5,maintenance services are okay,Valid,Maintenance,Neutral
+6,Sample text,Invalid,Uncategorized,Neutral
+7,There are frequent issues with website,Valid,Website,Negative
+8,The canteen services are really good,Valid,Canteen,Positive
+9,,Invalid,Uncategorized,Positive
+10,academics staff is helpful and cooperative,Valid,Academics,Positive
+11,transport system is not working properly,Valid,Transport,Negative
+12,Random words,Invalid,Uncategorized,Positive
+13,Feedback,Invalid,Uncategorized,Negative
+14,canteen can be improved further,Valid,Canteen,Neutral
+15,academics management is poor,Valid,Academics,Negative
+16,Just checking,Invalid,Uncategorized,Negative
+17,Feedback,Invalid,Uncategorized,Neutral
+18,Overall experience with library is pleasant,Valid,Library,Positive
+19,website needs improvement,Valid,Website,Negative
+20,Just checking,Invalid,Uncategorized,Neutral
+21,----,Invalid,Uncategorized,Positive
+22,Sample text,Invalid,Uncategorized,Positive
+23,Just checking,Invalid,Uncategorized,Neutral
+24,hostel staff is helpful and cooperative,Valid,Hostel,Positive
+25,Overall experience with hostel is pleasant,Valid,Hostel,Positive
+26,administration system is not working properly,Valid,Administration,Negative
+27,Nothing,Invalid,Uncategorized,Negative
+28,Nothing,Invalid,Uncategorized,Neutral
+29,website staff is helpful and cooperative,Valid,Website,Positive
+30,sports staff is helpful and cooperative,Valid,Sports,Positive
+31,No comments,Invalid,Uncategorized,Neutral
+32,I am satisfied with the hostel facilities,Valid,Hostel,Positive
+33,hostel system is not working properly,Valid,Hostel,Negative
+34,Overall experience with academics is pleasant,Valid,Academics,Positive
+35,Test message,Invalid,Uncategorized,Negative
+36,I am satisfied with the library facilities,Valid,Library,Positive
+37,website is average,Valid,Website,Neutral
+38,library is average,Valid,Library,Neutral
+39,Test message,Invalid,Uncategorized,Neutral
+40,Sample text,Invalid,Uncategorized,Positive
+41,hostel services are okay,Valid,Hostel,Neutral
+42,Hello,Invalid,Uncategorized,Neutral
+43,Overall experience with sports is pleasant,Valid,Sports,Positive
+44,Random words,Invalid,Uncategorized,Positive
+45,I am satisfied with the canteen facilities,Valid,Canteen,Positive
+46,administration system works smoothly,Valid,Administration,Positive
+47,Test message,Invalid,Uncategorized,Negative
+48,No major issues with canteen,Valid,Canteen,Neutral
+49,security system is not working properly,Valid,Security,Negative
+50,Just checking,Invalid,Uncategorized,Negative
+51,----,Invalid,Uncategorized,Positive
+52,Just checking,Invalid,Uncategorized,Neutral
+53,----,Invalid,Uncategorized,Neutral
+54,maintenance system is not working properly,Valid,Maintenance,Negative
+55,I am satisfied with the sports facilities,Valid,Sports,Positive
+56,Test message,Invalid,Uncategorized,Negative
+57,Random words,Invalid,Uncategorized,Negative
+58,Test message,Invalid,Uncategorized,Neutral
+59,Test message,Invalid,Uncategorized,Negative
+60,security is average,Valid,Security,Neutral
+61,Hello,Invalid,Uncategorized,Negative
+62,library staff is helpful and cooperative,Valid,Library,Positive
+63,Feedback,Invalid,Uncategorized,Neutral
+64,website services are okay,Valid,Website,Neutral
+65,Test message,Invalid,Uncategorized,Positive
+66,I am not happy with the canteen services,Valid,Canteen,Negative
+67,No comments,Invalid,Uncategorized,Negative
+68,canteen system works smoothly,Valid,Canteen,Positive
+69,Just checking,Invalid,Uncategorized,Neutral
+70,Experience with transport is neither good nor bad,Valid,Transport,Neutral
+71,Random words,Invalid,Uncategorized,Neutral
+72,I am not happy with the maintenance services,Valid,Maintenance,Negative
+73,security needs improvement,Valid,Security,Negative
+74,security staff is helpful and cooperative,Valid,Security,Positive
+75,Feedback,Invalid,Uncategorized,Neutral
+76,Hello,Invalid,Uncategorized,Positive
+77,No major issues with canteen,Valid,Canteen,Neutral
+78,academics staff is helpful and cooperative,Valid,Academics,Positive
+79,I am satisfied with the transport facilities,Valid,Transport,Positive
+80,Feedback,Invalid,Uncategorized,Neutral
+81,Feedback,Invalid,Uncategorized,Positive
+82,,Invalid,Uncategorized,Neutral
+83,website management is poor,Valid,Website,Negative
+84,Random words,Invalid,Uncategorized,Neutral
+85,Feedback,Invalid,Uncategorized,Positive
+86,hostel management is poor,Valid,Hostel,Negative
+87,No comments,Invalid,Uncategorized,Negative
+88,,Invalid,Uncategorized,Neutral
+89,library management is poor,Valid,Library,Negative
+90,Just checking,Invalid,Uncategorized,Positive
+91,,Invalid,Uncategorized,Neutral
+92,website system is not working properly,Valid,Website,Negative
+93,I am satisfied with the hostel facilities,Valid,Hostel,Positive
+94,Hello,Invalid,Uncategorized,Neutral
+95,Overall experience with administration is pleasant,Valid,Administration,Positive
+96,maintenance can be improved further,Valid,Maintenance,Neutral
+97,Random words,Invalid,Uncategorized,Negative
+98,academics staff is helpful and cooperative,Valid,Academics,Positive
+99,Nothing,Invalid,Uncategorized,Positive
+100,Random words,Invalid,Uncategorized,Positive
+101,The academics services are really good,Valid,Academics,Positive
+102,library is average,Valid,Library,Neutral
+103,Feedback,Invalid,Uncategorized,Positive
+104,Nothing,Invalid,Uncategorized,Neutral
+105,canteen can be improved further,Valid,Canteen,Neutral
+106,Just checking,Invalid,Uncategorized,Neutral
+107,Hello,Invalid,Uncategorized,Neutral
+108,,Invalid,Uncategorized,Negative
+109,The maintenance services are really good,Valid,Maintenance,Positive
+110,transport is average,Valid,Transport,Neutral
+111,No major issues with administration,Valid,Administration,Neutral
+112,Just checking,Invalid,Uncategorized,Neutral
+113,sports needs improvement,Valid,Sports,Negative
+114,transport staff is helpful and cooperative,Valid,Transport,Positive
+115,----,Invalid,Uncategorized,Negative
+116,Nothing,Invalid,Uncategorized,Positive
+117,Nothing,Invalid,Uncategorized,Positive
+118,Just checking,Invalid,Uncategorized,Neutral
+119,academics can be improved further,Valid,Academics,Neutral
+120,----,Invalid,Uncategorized,Positive
+121,No comments,Invalid,Uncategorized,Neutral
+122,----,Invalid,Uncategorized,Negative
+123,Test message,Invalid,Uncategorized,Positive
+124,chatbot staff is helpful and cooperative,Valid,Chatbot,Positive
+125,Hello,Invalid,Uncategorized,Positive
+126,Overall experience with maintenance is pleasant,Valid,Maintenance,Positive
+127,security system works smoothly,Valid,Security,Positive
+128,website management is poor,Valid,Website,Negative
+129,Test message,Invalid,Uncategorized,Negative
+130,No comments,Invalid,Uncategorized,Positive
+131,,Invalid,Uncategorized,Negative
+132,I am satisfied with the academics facilities,Valid,Academics,Positive
+133,----,Invalid,Uncategorized,Positive
+134,The administration services are really good,Valid,Administration,Positive
+135,The canteen services are really good,Valid,Canteen,Positive
+136,security is average,Valid,Security,Neutral
+137,security staff is helpful and cooperative,Valid,Security,Positive
+138,Just checking,Invalid,Uncategorized,Negative
+139,,Invalid,Uncategorized,Negative
+140,academics management is poor,Valid,Academics,Negative
+141,I am not happy with the security services,Valid,Security,Negative
+142,Feedback,Invalid,Uncategorized,Neutral
+143,I am satisfied with the transport facilities,Valid,Transport,Positive
+144,security services are okay,Valid,Security,Neutral
+145,Random words,Invalid,Uncategorized,Negative
+146,sports is average,Valid,Sports,Neutral
+147,Overall experience with transport is pleasant,Valid,Transport,Positive
+148,I am not happy with the security services,Valid,Security,Negative
+149,The maintenance services are really good,Valid,Maintenance,Positive
+150,chatbot system works smoothly,Valid,Chatbot,Positive
+151,----,Invalid,Uncategorized,Neutral
+152,----,Invalid,Uncategorized,Negative
+153,I am satisfied with the website facilities,Valid,Website,Positive
+154,Nothing,Invalid,Uncategorized,Negative
+155,Just checking,Invalid,Uncategorized,Negative
+156,The chatbot services are really good,Valid,Chatbot,Positive
+157,website management is poor,Valid,Website,Negative
+158,No comments,Invalid,Uncategorized,Positive
+159,,Invalid,Uncategorized,Positive
+160,The academics services are really good,Valid,Academics,Positive
+161,No comments,Invalid,Uncategorized,Positive
+162,No major issues with library,Valid,Library,Neutral
+163,maintenance staff is helpful and cooperative,Valid,Maintenance,Positive
+164,sports system works smoothly,Valid,Sports,Positive
+165,----,Invalid,Uncategorized,Neutral
+166,I am not happy with the library services,Valid,Library,Negative
+167,The maintenance services are really good,Valid,Maintenance,Positive
+168,There are frequent issues with security,Valid,Security,Negative
+169,Sample text,Invalid,Uncategorized,Neutral
+170,canteen management is poor,Valid,Canteen,Negative
+171,I am not happy with the library services,Valid,Library,Negative
+172,hostel is average,Valid,Hostel,Neutral
+173,library is average,Valid,Library,Neutral
+174,transport system is not working properly,Valid,Transport,Negative
+175,Hello,Invalid,Uncategorized,Negative
+176,Just checking,Invalid,Uncategorized,Negative
+177,,Invalid,Uncategorized,Positive
+178,chatbot can be improved further,Valid,Chatbot,Neutral
+179,website can be improved further,Valid,Website,Neutral
+180,Sample text,Invalid,Uncategorized,Neutral
+181,I am not happy with the sports services,Valid,Sports,Negative
+182,----,Invalid,Uncategorized,Neutral
+183,Overall experience with academics is pleasant,Valid,Academics,Positive
+184,Experience with maintenance is neither good nor bad,Valid,Maintenance,Neutral
+185,maintenance services are okay,Valid,Maintenance,Neutral
+186,----,Invalid,Uncategorized,Negative
+187,Test message,Invalid,Uncategorized,Negative
+188,----,Invalid,Uncategorized,Negative
+189,sports needs improvement,Valid,Sports,Negative
+190,Hello,Invalid,Uncategorized,Neutral
+191,transport management is poor,Valid,Transport,Negative
+192,academics system is not working properly,Valid,Academics,Negative
+193,hostel system is not working properly,Valid,Hostel,Negative
+194,Just checking,Invalid,Uncategorized,Negative
+195,Hello,Invalid,Uncategorized,Negative
+196,sports management is poor,Valid,Sports,Negative
+197,----,Invalid,Uncategorized,Neutral
+198,administration management is poor,Valid,Administration,Negative
+199,----,Invalid,Uncategorized,Positive
+200,academics can be improved further,Valid,Academics,Neutral
+201,transport is average,Valid,Transport,Neutral
+202,I am satisfied with the chatbot facilities,Valid,Chatbot,Positive
+203,Nothing,Invalid,Uncategorized,Positive
+204,No major issues with security,Valid,Security,Neutral
+205,library services are okay,Valid,Library,Neutral
+206,administration system is not working properly,Valid,Administration,Negative
+207,Just checking,Invalid,Uncategorized,Positive
+208,Sample text,Invalid,Uncategorized,Positive
+209,Test message,Invalid,Uncategorized,Positive
+210,Sample text,Invalid,Uncategorized,Negative
+211,Random words,Invalid,Uncategorized,Negative
+212,,Invalid,Uncategorized,Negative
+213,----,Invalid,Uncategorized,Positive
+214,Experience with hostel is neither good nor bad,Valid,Hostel,Neutral
+215,----,Invalid,Uncategorized,Negative
+216,Just checking,Invalid,Uncategorized,Neutral
+217,Overall experience with website is pleasant,Valid,Website,Positive
+218,transport can be improved further,Valid,Transport,Neutral
+219,I am not happy with the canteen services,Valid,Canteen,Negative
+220,No comments,Invalid,Uncategorized,Negative
+221,library is average,Valid,Library,Neutral
+222,No comments,Invalid,Uncategorized,Positive
+223,Sample text,Invalid,Uncategorized,Positive
+224,transport system works smoothly,Valid,Transport,Positive
+225,security system is not working properly,Valid,Security,Negative
+226,Nothing,Invalid,Uncategorized,Neutral
+227,Nothing,Invalid,Uncategorized,Neutral
+228,sports staff is helpful and cooperative,Valid,Sports,Positive
+229,Sample text,Invalid,Uncategorized,Negative
+230,Hello,Invalid,Uncategorized,Negative
+231,No comments,Invalid,Uncategorized,Negative
+232,academics system is not working properly,Valid,Academics,Negative
+233,security management is poor,Valid,Security,Negative
+234,security is average,Valid,Security,Neutral
+235,Hello,Invalid,Uncategorized,Negative
+236,Experience with library is neither good nor bad,Valid,Library,Neutral
+237,Random words,Invalid,Uncategorized,Neutral
+238,chatbot staff is helpful and cooperative,Valid,Chatbot,Positive
+239,Random words,Invalid,Uncategorized,Negative
+240,There are frequent issues with maintenance,Valid,Maintenance,Negative
+241,The maintenance services are really good,Valid,Maintenance,Positive
+242,canteen system works smoothly,Valid,Canteen,Positive
+243,No comments,Invalid,Uncategorized,Neutral
+244,No major issues with security,Valid,Security,Neutral
+245,,Invalid,Uncategorized,Neutral
+246,Feedback,Invalid,Uncategorized,Negative
+247,,Invalid,Uncategorized,Neutral
+248,Experience with security is neither good nor bad,Valid,Security,Neutral
+249,Test message,Invalid,Uncategorized,Positive
+250,Test message,Invalid,Uncategorized,Neutral
+251,Nothing,Invalid,Uncategorized,Positive
+252,sports is average,Valid,Sports,Neutral
+253,I am not happy with the security services,Valid,Security,Negative
+254,website needs improvement,Valid,Website,Negative
+255,transport system is not working properly,Valid,Transport,Negative
+256,Test message,Invalid,Uncategorized,Negative
+257,Hello,Invalid,Uncategorized,Negative
+258,I am not happy with the chatbot services,Valid,Chatbot,Negative
+259,Just checking,Invalid,Uncategorized,Positive
+260,Sample text,Invalid,Uncategorized,Positive
+261,library system is not working properly,Valid,Library,Negative
+262,Hello,Invalid,Uncategorized,Negative
+263,transport needs improvement,Valid,Transport,Negative
+264,transport management is poor,Valid,Transport,Negative
+265,No major issues with administration,Valid,Administration,Neutral
+266,Sample text,Invalid,Uncategorized,Positive
+267,I am not happy with the hostel services,Valid,Hostel,Negative
+268,Sample text,Invalid,Uncategorized,Neutral
+269,hostel management is poor,Valid,Hostel,Negative
+270,administration can be improved further,Valid,Administration,Neutral
+271,Experience with transport is neither good nor bad,Valid,Transport,Neutral
+272,No major issues with website,Valid,Website,Neutral
+273,Nothing,Invalid,Uncategorized,Positive
+274,Test message,Invalid,Uncategorized,Positive
+275,Just checking,Invalid,Uncategorized,Negative
+276,Random words,Invalid,Uncategorized,Positive
+277,,Invalid,Uncategorized,Negative
+278,No comments,Invalid,Uncategorized,Positive
+279,library system is not working properly,Valid,Library,Negative
+280,Test message,Invalid,Uncategorized,Positive
+281,chatbot services are okay,Valid,Chatbot,Neutral
+282,Feedback,Invalid,Uncategorized,Neutral
+283,academics is average,Valid,Academics,Neutral
+284,sports needs improvement,Valid,Sports,Negative
+285,Random words,Invalid,Uncategorized,Neutral
+286,Test message,Invalid,Uncategorized,Neutral
+287,Test message,Invalid,Uncategorized,Negative
+288,Random words,Invalid,Uncategorized,Negative
+289,Sample text,Invalid,Uncategorized,Positive
+290,Sample text,Invalid,Uncategorized,Negative
+291,----,Invalid,Uncategorized,Neutral
+292,No comments,Invalid,Uncategorized,Negative
+293,Feedback,Invalid,Uncategorized,Neutral
+294,library needs improvement,Valid,Library,Negative
+295,No major issues with security,Valid,Security,Neutral
+296,Just checking,Invalid,Uncategorized,Neutral
+297,Nothing,Invalid,Uncategorized,Negative
+298,,Invalid,Uncategorized,Positive
+299,Just checking,Invalid,Uncategorized,Neutral
+300,Sample text,Invalid,Uncategorized,Negative
+301,canteen is average,Valid,Canteen,Neutral
+302,Sample text,Invalid,Uncategorized,Positive
+303,sports needs improvement,Valid,Sports,Negative
+304,There are frequent issues with security,Valid,Security,Negative
+305,No major issues with administration,Valid,Administration,Neutral
+306,Random words,Invalid,Uncategorized,Positive
+307,Experience with administration is neither good nor bad,Valid,Administration,Neutral
+308,hostel needs improvement,Valid,Hostel,Negative
+309,website management is poor,Valid,Website,Negative
+310,No comments,Invalid,Uncategorized,Negative
+311,hostel is average,Valid,Hostel,Neutral
+312,No comments,Invalid,Uncategorized,Negative
+313,Hello,Invalid,Uncategorized,Negative
+314,sports management is poor,Valid,Sports,Negative
+315,Nothing,Invalid,Uncategorized,Positive
+316,Random words,Invalid,Uncategorized,Negative
+317,website system is not working properly,Valid,Website,Negative
+318,Random words,Invalid,Uncategorized,Negative
+319,Just checking,Invalid,Uncategorized,Positive
+320,There are frequent issues with website,Valid,Website,Negative
+321,Test message,Invalid,Uncategorized,Negative
+322,I am satisfied with the security facilities,Valid,Security,Positive
+323,Hello,Invalid,Uncategorized,Neutral
+324,website system works smoothly,Valid,Website,Positive
+325,Feedback,Invalid,Uncategorized,Positive
+326,There are frequent issues with library,Valid,Library,Negative
+327,security can be improved further,Valid,Security,Neutral
+328,sports is average,Valid,Sports,Neutral
+329,No comments,Invalid,Uncategorized,Negative
+330,website system is not working properly,Valid,Website,Negative
+331,chatbot staff is helpful and cooperative,Valid,Chatbot,Positive
+332,Overall experience with chatbot is pleasant,Valid,Chatbot,Positive
+333,I am satisfied with the website facilities,Valid,Website,Positive
+334,Experience with sports is neither good nor bad,Valid,Sports,Neutral
+335,I am not happy with the administration services,Valid,Administration,Negative
+336,----,Invalid,Uncategorized,Negative
+337,Test message,Invalid,Uncategorized,Negative
+338,canteen is average,Valid,Canteen,Neutral
+339,website needs improvement,Valid,Website,Negative
+340,sports staff is helpful and cooperative,Valid,Sports,Positive
+341,security services are okay,Valid,Security,Neutral
+342,Just checking,Invalid,Uncategorized,Negative
+343,Hello,Invalid,Uncategorized,Negative
+344,chatbot services are okay,Valid,Chatbot,Neutral
+345,Overall experience with canteen is pleasant,Valid,Canteen,Positive
+346,No comments,Invalid,Uncategorized,Neutral
+347,hostel is average,Valid,Hostel,Neutral
+348,Nothing,Invalid,Uncategorized,Positive
+349,Sample text,Invalid,Uncategorized,Positive
+350,Just checking,Invalid,Uncategorized,Negative
+351,sports staff is helpful and cooperative,Valid,Sports,Positive
+352,,Invalid,Uncategorized,Positive
+353,----,Invalid,Uncategorized,Neutral
+354,maintenance system is not working properly,Valid,Maintenance,Negative
+355,No major issues with hostel,Valid,Hostel,Neutral
+356,Nothing,Invalid,Uncategorized,Neutral
+357,library is average,Valid,Library,Neutral
+358,website can be improved further,Valid,Website,Neutral
+359,canteen management is poor,Valid,Canteen,Negative
+360,Feedback,Invalid,Uncategorized,Positive
+361,Experience with security is neither good nor bad,Valid,Security,Neutral
+362,The security services are really good,Valid,Security,Positive
+363,chatbot staff is helpful and cooperative,Valid,Chatbot,Positive
+364,The chatbot services are really good,Valid,Chatbot,Positive
+365,Just checking,Invalid,Uncategorized,Positive
+366,Feedback,Invalid,Uncategorized,Positive
+367,website is average,Valid,Website,Neutral
+368,Hello,Invalid,Uncategorized,Neutral
+369,The library services are really good,Valid,Library,Positive
+370,Random words,Invalid,Uncategorized,Neutral
+371,canteen can be improved further,Valid,Canteen,Neutral
+372,Test message,Invalid,Uncategorized,Positive
+373,Test message,Invalid,Uncategorized,Positive
+374,I am not happy with the sports services,Valid,Sports,Negative
+375,Random words,Invalid,Uncategorized,Neutral
+376,academics system is not working properly,Valid,Academics,Negative
+377,hostel staff is helpful and cooperative,Valid,Hostel,Positive
+378,There are frequent issues with library,Valid,Library,Negative
+379,chatbot system is not working properly,Valid,Chatbot,Negative
+380,Hello,Invalid,Uncategorized,Neutral
+381,Overall experience with administration is pleasant,Valid,Administration,Positive
+382,Test message,Invalid,Uncategorized,Positive
+383,No comments,Invalid,Uncategorized,Neutral
+384,The sports services are really good,Valid,Sports,Positive
+385,No comments,Invalid,Uncategorized,Positive
+386,library staff is helpful and cooperative,Valid,Library,Positive
+387,There are frequent issues with transport,Valid,Transport,Negative
+388,administration system works smoothly,Valid,Administration,Positive
+389,Sample text,Invalid,Uncategorized,Negative
+390,Feedback,Invalid,Uncategorized,Neutral
+391,Feedback,Invalid,Uncategorized,Negative
+392,Experience with transport is neither good nor bad,Valid,Transport,Neutral
+393,Random words,Invalid,Uncategorized,Positive
+394,----,Invalid,Uncategorized,Neutral
+395,Feedback,Invalid,Uncategorized,Neutral
+396,Just checking,Invalid,Uncategorized,Negative
+397,Experience with hostel is neither good nor bad,Valid,Hostel,Neutral
+398,academics is average,Valid,Academics,Neutral
+399,No major issues with security,Valid,Security,Neutral
+400,Just checking,Invalid,Uncategorized,Positive
+401,,Invalid,Uncategorized,Neutral
+402,Nothing,Invalid,Uncategorized,Positive
+403,----,Invalid,Uncategorized,Neutral
+404,Sample text,Invalid,Uncategorized,Neutral
+405,Just checking,Invalid,Uncategorized,Positive
+406,----,Invalid,Uncategorized,Negative
+407,Hello,Invalid,Uncategorized,Positive
+408,Experience with canteen is neither good nor bad,Valid,Canteen,Neutral
+409,There are frequent issues with security,Valid,Security,Negative
+410,The hostel services are really good,Valid,Hostel,Positive
+411,Experience with maintenance is neither good nor bad,Valid,Maintenance,Neutral
+412,No comments,Invalid,Uncategorized,Negative
+413,No major issues with chatbot,Valid,Chatbot,Neutral
+414,,Invalid,Uncategorized,Positive
+415,No comments,Invalid,Uncategorized,Positive
+416,There are frequent issues with sports,Valid,Sports,Negative
+417,administration staff is helpful and cooperative,Valid,Administration,Positive
+418,Just checking,Invalid,Uncategorized,Negative
+419,I am satisfied with the library facilities,Valid,Library,Positive
+420,Test message,Invalid,Uncategorized,Neutral
+421,Test message,Invalid,Uncategorized,Neutral
+422,transport staff is helpful and cooperative,Valid,Transport,Positive
+423,Random words,Invalid,Uncategorized,Neutral
+424,I am satisfied with the chatbot facilities,Valid,Chatbot,Positive
+425,Experience with hostel is neither good nor bad,Valid,Hostel,Neutral
+426,I am satisfied with the hostel facilities,Valid,Hostel,Positive
+427,Sample text,Invalid,Uncategorized,Positive
+428,Feedback,Invalid,Uncategorized,Neutral
+429,Nothing,Invalid,Uncategorized,Negative
+430,There are frequent issues with maintenance,Valid,Maintenance,Negative
+431,Random words,Invalid,Uncategorized,Negative
+432,No comments,Invalid,Uncategorized,Neutral
+433,administration staff is helpful and cooperative,Valid,Administration,Positive
+434,Nothing,Invalid,Uncategorized,Negative
+435,No comments,Invalid,Uncategorized,Positive
+436,hostel can be improved further,Valid,Hostel,Neutral
+437,I am satisfied with the canteen facilities,Valid,Canteen,Positive
+438,Just checking,Invalid,Uncategorized,Positive
+439,administration system is not working properly,Valid,Administration,Negative
+440,Random words,Invalid,Uncategorized,Negative
+441,Feedback,Invalid,Uncategorized,Positive
+442,No major issues with administration,Valid,Administration,Neutral
+443,Nothing,Invalid,Uncategorized,Positive
+444,----,Invalid,Uncategorized,Neutral
+445,sports management is poor,Valid,Sports,Negative
+446,Random words,Invalid,Uncategorized,Positive
+447,Just checking,Invalid,Uncategorized,Neutral
+448,Feedback,Invalid,Uncategorized,Positive
+449,Experience with administration is neither good nor bad,Valid,Administration,Neutral
+450,administration staff is helpful and cooperative,Valid,Administration,Positive
+451,Feedback,Invalid,Uncategorized,Negative
+452,website system works smoothly,Valid,Website,Positive
+453,Test message,Invalid,Uncategorized,Neutral
+454,academics services are okay,Valid,Academics,Neutral
+455,,Invalid,Uncategorized,Neutral
+456,Experience with administration is neither good nor bad,Valid,Administration,Neutral
+457,Test message,Invalid,Uncategorized,Neutral
+458,website is average,Valid,Website,Neutral
+459,chatbot can be improved further,Valid,Chatbot,Neutral
+460,The library services are really good,Valid,Library,Positive
+461,Overall experience with academics is pleasant,Valid,Academics,Positive
+462,Feedback,Invalid,Uncategorized,Negative
+463,Experience with security is neither good nor bad,Valid,Security,Neutral
+464,Sample text,Invalid,Uncategorized,Positive
+465,I am satisfied with the transport facilities,Valid,Transport,Positive
+466,,Invalid,Uncategorized,Positive
+467,Test message,Invalid,Uncategorized,Neutral
+468,sports management is poor,Valid,Sports,Negative
+469,Sample text,Invalid,Uncategorized,Positive
+470,Test message,Invalid,Uncategorized,Neutral
+471,chatbot services are okay,Valid,Chatbot,Neutral
+472,Random words,Invalid,Uncategorized,Negative
+473,Random words,Invalid,Uncategorized,Positive
+474,Nothing,Invalid,Uncategorized,Negative
+475,Sample text,Invalid,Uncategorized,Negative
+476,Random words,Invalid,Uncategorized,Positive
+477,Random words,Invalid,Uncategorized,Positive
+478,library needs improvement,Valid,Library,Negative
+479,administration management is poor,Valid,Administration,Negative
+480,There are frequent issues with hostel,Valid,Hostel,Negative
+481,Just checking,Invalid,Uncategorized,Negative
+482,maintenance management is poor,Valid,Maintenance,Negative
+483,Random words,Invalid,Uncategorized,Negative
+484,maintenance system is not working properly,Valid,Maintenance,Negative
+485,Hello,Invalid,Uncategorized,Neutral
+486,,Invalid,Uncategorized,Positive
+487,canteen can be improved further,Valid,Canteen,Neutral
+488,----,Invalid,Uncategorized,Neutral
+489,canteen management is poor,Valid,Canteen,Negative
+490,Hello,Invalid,Uncategorized,Neutral
+491,academics system works smoothly,Valid,Academics,Positive
+492,academics is average,Valid,Academics,Neutral
+493,Overall experience with canteen is pleasant,Valid,Canteen,Positive
+494,canteen management is poor,Valid,Canteen,Negative
+495,No comments,Invalid,Uncategorized,Positive
+496,----,Invalid,Uncategorized,Negative
+497,Hello,Invalid,Uncategorized,Neutral
+498,security needs improvement,Valid,Security,Negative

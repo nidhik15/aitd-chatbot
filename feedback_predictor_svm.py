@@ -16,6 +16,9 @@ from nltk.stem import WordNetLemmatizer
 import requests
 import json
 
+from sklearn.ensemble import RandomForestClassifier
+
+
 # Gemma constants
 OLLAMA_URL = "http://localhost:11434/api/chat"
 GEMMA_SYSTEM = """
@@ -209,6 +212,8 @@ class CollegeFeedbackPredictor:
             return
         
         self.train_all_models(df)
+        self.train_category_model(df)
+
     
     def _load_models(self):
         # Only load what we use
@@ -216,6 +221,10 @@ class CollegeFeedbackPredictor:
         # self.cat_vec = joblib.load('models/category_vec.pkl')
         self.sent_model = joblib.load('models/sentiment_model.pkl')
         self.sent_vec = joblib.load('models/sentiment_vec.pkl')
+        if os.path.exists("models/category_model.pkl"):
+            self.cat_model = joblib.load("models/category_model.pkl")
+            self.cat_vec = joblib.load("models/category_vec.pkl")
+
 
     
     def train_all_models(self, df):
@@ -249,7 +258,52 @@ class CollegeFeedbackPredictor:
         print("🎉 Sentiment model saved!")
 
 
+
     
+
+
+
+    # ================= CATEGORY RANDOM FOREST =================
+
+    def train_category_model(self, df):
+        print("\n⚡ TRAINING CATEGORY RANDOM FOREST:\n")
+
+        df_valid = df[df['valid_num'] == 1]
+
+        Xc = df_valid['clean_feedback']
+        yc = df_valid['category']
+
+        self.cat_vec = TfidfVectorizer(max_features=1000, ngram_range=(1,2))
+        Xc_tfidf = self.cat_vec.fit_transform(Xc)
+
+        self.cat_model = RandomForestClassifier(
+            n_estimators=200,
+            random_state=42
+        )
+
+        self.cat_model.fit(Xc_tfidf, yc)
+
+        joblib.dump(self.cat_model, "models/category_model.pkl")
+        joblib.dump(self.cat_vec, "models/category_vec.pkl")
+
+        print("🎉 Category Random Forest saved!")
+
+
+    def load_category_model(self):
+        if os.path.exists("models/category_model.pkl"):
+            self.cat_model = joblib.load("models/category_model.pkl")
+            self.cat_vec = joblib.load("models/category_vec.pkl")
+            return True
+        return False
+
+
+
+
+
+
+
+
+
     def predict(self, feedback_message, user_type="student", verbose=False):
         if not self.models_trained:
             return {"error": "Models not trained"}
@@ -288,12 +342,17 @@ class CollegeFeedbackPredictor:
         sent_tfidf = self.sent_vec.transform([clean])
         sentiment = self.sent_model.predict(sent_tfidf)[0]
         sent_prob = self.sent_model.predict_proba(sent_tfidf)[0].max()
+                # Category prediction (Random Forest)
+        cat_tfidf = self.cat_vec.transform([clean])
+        category = self.cat_model.predict(cat_tfidf)[0]
+
 # ADD at the end of predict() after sentiment calculation
         return {
             'original_text': original,
             'corrected_text': corrected,
             'valid_invalid': 'Valid',
             'sentiment': sentiment,
+            'category': category,
             'confidence': f"{sent_prob:.2f}",
             'timestamp': ts
         }
@@ -312,5 +371,6 @@ if __name__ == "__main__":
             if result['valid_invalid'] == 'Invalid':
                 print(f"📊 {result['valid_invalid']} ({result.get('criteria_passed', 'N/A')})\n")
             else:
-                print(f"📊 {result['valid_invalid']}  | {result['sentiment']} | Criteria: {result.get('criteria_passed', 'N/A')}\n")
+                print(f"📊 {result['valid_invalid']} | Sentiment: {result['sentiment']} | Category: {result['category']} | Confidence: {result['confidence']}\n")
+
                 

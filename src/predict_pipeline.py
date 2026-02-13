@@ -7,8 +7,8 @@ class CollegeFeedbackAnalyzer:
     def __init__(self):
         self.valid_model = joblib.load('models/validity_svm.pkl')
         self.valid_vec = joblib.load('models/validity_vec.pkl')
-        self.cat_model = joblib.load('models/category_svm.pkl')
-        self.cat_vec = joblib.load('models/category_vec.pkl')
+        # self.cat_model = joblib.load('models/category_svm.pkl')
+        # self.cat_vec = joblib.load('models/category_vec.pkl')
         self.sent_model = joblib.load('models/sentiment_svm.pkl')
         self.sent_vec = joblib.load('models/sentiment_vec.pkl')
 
@@ -26,7 +26,7 @@ class CollegeFeedbackAnalyzer:
                 'id': None,
                 'feedback_message': feedback_message,
                 'valid_invalid': 'Invalid',
-                'category': 'Uncategorized',
+                # 'category': 'Uncategorized',
                 'sentiment': 'Neutral',
                 'user_type': user_type,
                 'timestamp': timestamp,
@@ -34,8 +34,8 @@ class CollegeFeedbackAnalyzer:
             }
         
         # 2. Category Classification
-        cat_vec = self.cat_vec.transform([clean])
-        category = self.cat_model.predict(cat_vec)[0]
+        # cat_vec = self.cat_vec.transform([clean])
+        # category = self.cat_model.predict(cat_vec)[0]
         
         # 3. Sentiment Analysis
         sent_vec = self.sent_vec.transform([clean])
@@ -45,7 +45,7 @@ class CollegeFeedbackAnalyzer:
             'id': pd.Timestamp.now().timestamp(),  # Auto ID
             'feedback_message': feedback_message,
             'valid_invalid': 'Valid',
-            'category': category,
+            # 'category': category,
             'sentiment': sentiment,
             'user_type': user_type,
             'timestamp': timestamp

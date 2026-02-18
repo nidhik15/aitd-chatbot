@@ -36,22 +36,46 @@ If there are no spelling mistakes, return the input exactly.
 """
 
 def correct_with_gemma(text: str) -> str:
-    """Spell-correct using Ollama model gemma-spellcheck:latest. Fallback to original on error."""
     payload = {
         "model": "gemma-spellcheck:latest",
-        "prompt": text,
+        "messages": [
+            {
+                "role": "system",
+                "content": """
+You are a strict spell correction engine.
+
+Rules:
+- Correct spelling mistakes only.
+- Do not rephrase.
+- Do not change grammar.
+- Do not add words.
+- Do not remove words.
+- Keep valid college-related words unchanged
+  (canteen, library, admin, portal, syllabus, faculty, hostel, etc.)
+- Output ONLY the corrected sentence.
+If there are no spelling mistakes, return the input exactly.
+"""
+            },
+            {
+                "role": "user",
+                "content": text
+            }
+        ],
         "stream": False,
-        "options": {"temperature": 0.0}
+        "options": {
+            "temperature": 0.0,
+            "top_p": 0.0
+        }
     }
 
     try:
-        resp = requests.post("http://localhost:11434/api/generate", json=payload, timeout=60)
+        resp = requests.post(OLLAMA_URL, json=payload, timeout=60)
         resp.raise_for_status()
-        data = resp.json()
-        return data.get("response", "").strip() or text
+        return resp.json()["message"]["content"].strip()
     except Exception as e:
-        print(f"⚠️  Gemma error: {e}")
+        print(f"⚠️ Gemma error: {e}")
         return text
+
 
 
 
@@ -193,8 +217,16 @@ class CollegeFeedbackPredictor:
         print(f"✅ Loaded {len(df)} rows | Columns: {df.columns.tolist()}")
         
         # Ignore category column (keep in CSV)
+        # Normalize case first
+        df['valid_invalid'] = df['valid_invalid'].str.strip().str.lower()
+        df['sentiment'] = df['sentiment'].str.strip().str.lower()
+
         df['clean_feedback'] = df['feedback_message'].apply(self.clean_text)
-        df['valid_num'] = df['valid_invalid'].map({'Valid': 1, 'Invalid': 0}).fillna(0)
+
+        # Map lowercase values
+        df['valid_num'] = df['valid_invalid'].map({'valid': 1, 'invalid': 0}).fillna(0)
+
+
         
         print(f"✅ {len(df)} rows ready (sentiment only)")
         return df
@@ -350,7 +382,7 @@ class CollegeFeedbackPredictor:
         return {
             'original_text': original,
             'corrected_text': corrected,
-            'valid_invalid': 'Valid',
+            'valid_invalid': 'valid',
             'sentiment': sentiment,
             'category': category,
             'confidence': f"{sent_prob:.2f}",

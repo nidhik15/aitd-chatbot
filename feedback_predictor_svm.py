@@ -15,6 +15,9 @@ from nltk.sentiment import SentimentIntensityAnalyzer
 from nltk.stem import WordNetLemmatizer
 import requests
 import json
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix, classification_report
+from sklearn.model_selection import cross_val_score
+
 
 # Gemma constants
 OLLAMA_URL = "http://localhost:11434/api/chat"
@@ -33,24 +36,45 @@ If there are no spelling mistakes, return the input exactly.
 """
 
 def correct_with_gemma(text: str) -> str:
-    """Spell-correct using Ollama model gemma-spellcheck:latest. Fallback to original on error."""
     payload = {
         "model": "gemma-spellcheck:latest",
-        "prompt": text,
+        "messages": [
+            {
+                "role": "system",
+                "content": """
+You are a strict spell correction engine.
+
+Rules:
+- Correct spelling mistakes only.
+- Do not rephrase.
+- Do not change grammar.
+- Do not add words.
+- Do not remove words.
+- Keep valid college-related words unchanged
+  (canteen, library, admin, portal, syllabus, faculty, hostel, etc.)
+- Output ONLY the corrected sentence.
+If there are no spelling mistakes, return the input exactly.
+"""
+            },
+            {
+                "role": "user",
+                "content": text
+            }
+        ],
         "stream": False,
-        "options": {"temperature": 0.0}
+        "options": {
+            "temperature": 0.0,
+            "top_p": 0.0
+        }
     }
 
     try:
-        resp = requests.post("http://localhost:11434/api/generate", json=payload, timeout=60)
+        resp = requests.post(OLLAMA_URL, json=payload, timeout=60)
         resp.raise_for_status()
-        data = resp.json()
-        return data.get("response", "").strip() or text
+        return resp.json()["message"]["content"].strip()
     except Exception as e:
-        print(f"⚠️  Gemma error: {e}")
+        print(f"⚠️ Gemma error: {e}")
         return text
-
-
 
 def validate_with_gemma(text: str) -> str:
     payload = {
@@ -183,32 +207,46 @@ class CollegeFeedbackPredictor:
         csv_path = 'data/training_data.csv'
         if not os.path.exists(csv_path):
             print(f"❌ Create {csv_path}")
-            print("Format: id,feedback_message,valid_invalid,category,sentiment")
             return None
         
         df = pd.read_csv(csv_path)
         print(f"✅ Loaded {len(df)} rows | Columns: {df.columns.tolist()}")
-        
-        # Ignore category column (keep in CSV)
+
+        df['valid_invalid'] = df['valid_invalid'].str.strip().str.lower()
+        df['sentiment'] = df['sentiment'].str.strip().str.lower()
+        # Fix common typos in sentiment labels
+        df['sentiment'] = df['sentiment'].replace({
+            'neutra': 'neutral',
+            'negitive': 'negative',
+            'positve': 'positive'
+        })
+
+
+        # Preprocessing
         df['clean_feedback'] = df['feedback_message'].apply(self.clean_text)
-        df['valid_num'] = df['valid_invalid'].map({'Valid': 1, 'Invalid': 0}).fillna(0)
-        
-        print(f"✅ {len(df)} rows ready (sentiment only)")
+        df['valid_num'] = df['valid_invalid'].map({'valid': 1, 'invalid': 0}).fillna(0)
+
+        # ✅ SAVE ONLY PREPROCESSED VERSION
+        cleaned_df = df[['id', 'clean_feedback', 'valid_num', 'sentiment']]
+        cleaned_df.to_csv('data/cleaned_training_data.csv', index=False)
+
+        print("💾 Saved minimal preprocessed dataset")
         return df
 
-    
     def load_or_train_models(self):
-        if os.path.exists('models/validity_model.pkl'):
+        if os.path.exists('models/sentiment_model.pkl') and \
+        os.path.exists('models/sentiment_vec.pkl'):
             print("⚡ Loading saved SVM models...\n")
             self._load_models()
             self.models_trained = True
             return
-        
+
         df = self.load_data()
         if df is None:
             return
-        
+
         self.train_all_models(df)
+
     
     def _load_models(self):
         # Only load what we use
@@ -228,23 +266,62 @@ class CollegeFeedbackPredictor:
         ys = df_valid['sentiment']
         
         if len(ys.unique()) < 2:
-            print("⚠️ Single sentiment class")
-        else:
-            Xs_train, Xs_test, ys_train, ys_test = train_test_split(
-                Xs, ys, test_size=0.2, random_state=42, stratify=ys
-            )
-            
-            self.sent_vec = TfidfVectorizer(max_features=800, ngram_range=(1,2))
-            Xs_train_tfidf = self.sent_vec.fit_transform(Xs_train)
-            Xs_test_tfidf = self.sent_vec.transform(Xs_test)
-            
-            self.sent_model = SVC(kernel='rbf', probability=True, random_state=42)
-            self.sent_model.fit(Xs_train_tfidf, ys_train)
-            print(f"✅ {self.sent_model.score(Xs_test_tfidf, ys_test):.1%}")
-        
-        # Save sentiment only
+            print("❌ Cannot train sentiment model: only one class found.")
+            self.models_trained = False
+            return
+
+        Xs_train, Xs_test, ys_train, ys_test = train_test_split(
+            Xs, ys, test_size=0.2, random_state=42, stratify=ys
+        )
+
+        self.sent_vec = TfidfVectorizer(max_features=800, ngram_range=(1,2))
+        Xs_train_tfidf = self.sent_vec.fit_transform(Xs_train)
+        Xs_test_tfidf = self.sent_vec.transform(Xs_test)
+
+        self.sent_model = SVC(kernel='rbf', probability=True, random_state=42)
+        print("\n📊 Performing 5-Fold Cross Validation...")
+
+        temp_model = SVC(kernel='rbf', probability=True, random_state=42)
+
+        cv_value = min(5, len(ys_train))
+
+        cv_scores = cross_val_score(
+            temp_model,
+            Xs_train_tfidf,
+            ys_train,
+            cv=cv_value
+        )
+
+
+        print("Cross-validation scores:", cv_scores)
+        print("Mean CV Accuracy:", cv_scores.mean())
+
+        self.sent_model.fit(Xs_train_tfidf, ys_train)
+        # Predictions
+        y_pred = self.sent_model.predict(Xs_test_tfidf)
+
+        # Metrics
+        accuracy = accuracy_score(ys_test, y_pred)
+        precision = precision_score(ys_test, y_pred, average='weighted')
+        recall = recall_score(ys_test, y_pred, average='weighted')
+        f1 = f1_score(ys_test, y_pred, average='weighted')
+        cm = confusion_matrix(ys_test, y_pred)
+
+        print("\n📊 Model Evaluation (Test Set):")
+        print(f"Accuracy : {accuracy:.4f}")
+        print(f"Precision: {precision:.4f}")
+        print(f"Recall   : {recall:.4f}")
+        print(f"F1 Score : {f1:.4f}")
+
+        print("\nConfusion Matrix:")
+        print(cm)
+
+        print("\nClassification Report:")
+        print(classification_report(ys_test, y_pred))
+
         joblib.dump(self.sent_model, 'models/sentiment_model.pkl')
         joblib.dump(self.sent_vec, 'models/sentiment_vec.pkl')
+
         self.models_trained = True
         print("🎉 Sentiment model saved!")
 
@@ -264,9 +341,6 @@ class CollegeFeedbackPredictor:
         if verbose:
             print(f"👩‍🎓 Original: '{original}'")
             print(f"✨ Corrected: '{corrected}'")
-
-        # 2) 7-rule validity on corrected text
-        validation_result = validate_with_gemma(corrected)
 
         # 2) 7-rule validity on corrected text
         validation_result = validate_with_gemma(corrected)
@@ -292,12 +366,11 @@ class CollegeFeedbackPredictor:
         return {
             'original_text': original,
             'corrected_text': corrected,
-            'valid_invalid': 'Valid',
+            'valid_invalid': 'valid',
             'sentiment': sentiment,
             'confidence': f"{sent_prob:.2f}",
             'timestamp': ts
         }
-
 
 if __name__ == "__main__":
     predictor = CollegeFeedbackPredictor()

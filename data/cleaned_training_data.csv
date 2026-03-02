@@ -1,0 +1,3001 @@
+id,clean_feedback,valid_num,sentiment
+1,library feel calm morning,1,positive
+2,book loose page,1,negative
+3,reading area feel average today,1,neutral
+4,found reference book quickly,1,positive
+5,library chair make noise,1,negative
+6,study table okay,1,neutral
+7,staff helped locate journal,1,positive
+8,ac weak library corner,1,negative
+9,library look organized,1,positive
+10,silence maintained day,1,neutral
+11,poha tasted fresh,1,positive
+12,tea watery,1,negative
+13,lunch decent today,1,neutral
+14,cold coffee tasted nice,1,positive
+15,rice felt half cooked,1,negative
+16,snack option limited,1,neutral
+17,evening snack tasty,1,positive
+18,curry felt oily,1,negative
+19,juice tasted refreshing,1,positive
+20,food counter moved slowly,1,neutral
+21,teacher explained concept clearly,1,positive
+22,note shared late,1,negative
+23,class felt normal today,1,neutral
+24,extra example helped lot,1,positive
+25,practice question confusing,1,negative
+26,revision pace felt okay,1,neutral
+27,mock test boosted confidence,1,positive
+28,much syllabus one class,1,negative
+29,weekly quiz useful,1,positive
+30,assignment feel manageable,1,neutral
+31,office staff guided properly,1,positive
+32,misplaced form,1,negative
+33,reception busy,1,neutral
+34,approval process smooth,1,positive
+35,wait long stamp,1,negative
+36,help desk seemed crowded,1,neutral
+37,handled request politely,1,positive
+38,document got delayed,1,negative
+39,explained rule clearly,1,positive
+40,counter staff looked tired,1,neutral
+41,website load faster,1,positive
+42,login page sometimes freeze,1,negative
+43,portal feel average,1,neutral
+44,dashboard look clean,1,positive
+45,upload failed,1,negative
+46,menu layout feel okay,1,neutral
+47,profile saved successfully,1,positive
+48,search bar responds slowly,1,negative
+49,notification helpful,1,positive
+50,navigation decent,1,neutral
+51,classroom light bright,1,positive
+52,chair broken,1,negative
+53,hall feel normal today,1,neutral
+54,washroom look cleaner,1,positive
+55,water cooler area dirty,1,negative
+56,parking feel okay,1,neutral
+57,garden space look nice,1,positive
+58,staircase rail feel loose,1,negative
+59,study light work well,1,positive
+60,corridor feel crowded,1,neutral
+61,found journal easily,1,positive
+62,book issuing took long,1,negative
+63,reading room feel quiet,1,neutral
+64,library seating comfortable,1,positive
+65,shelf look messy,1,negative
+66,library timing work fine,1,neutral
+67,idli soft today,1,positive
+68,bread tasted dry,1,negative
+69,tea tasted okay,1,neutral
+70,lunch combo satisfying,1,positive
+71,sambar felt bland,1,negative
+72,juice counter felt average,1,neutral
+73,practice session helped revision,1,positive
+74,many topic,1,negative
+75,class flow felt normal,1,neutral
+76,faculty answered doubt well,1,positive
+77,recorded lecture issue,1,negative
+78,homework load feel okay,1,neutral
+79,processed request fast,1,positive
+80,office closed early,1,negative
+81,waiting area felt crowded,1,neutral
+82,reception staff kind,1,positive
+83,reply came late,1,negative
+84,office timing feel fine,1,neutral
+85,fee receipt downloaded fine,1,positive
+86,password reset failed,1,negative
+87,portal speed feel okay,1,neutral
+88,website layout feel simple,1,positive
+89,page took long refresh,1,negative
+90,font size look fine,1,neutral
+91,class board look new,1,positive
+92,washroom floor wet,1,negative
+93,lab feel average today,1,neutral
+94,walking path look clean,1,positive
+95,switch dont work,1,negative
+96,seating area feel okay,1,neutral
+97,library feel peaceful,1,positive
+98,snack tasted stale,1,negative
+99,extra tutorial helpful,1,positive
+100,office staff seemed stressed,1,neutral
+101,library air feel fresh today,1,positive
+102,magazine outdated,1,negative
+103,reading corner feel okay,1,neutral
+104,found past paper quickly,1,positive
+105,book return queue long,1,negative
+106,library timing seems fine,1,neutral
+107,staff helped find note,1,positive
+108,study lamp flicker sometimes,1,negative
+109,library shelf look neat,1,positive
+110,noise level felt normal,1,neutral
+111,masala dosa tasted good,1,positive
+112,coffee bitter,1,negative
+113,lunch felt average today,1,neutral
+114,fruit bowl fresh,1,positive
+115,gravy felt watery,1,negative
+116,snack counter seems okay,1,neutral
+117,evening tea tasted nice,1,positive
+118,rice serving felt le,1,negative
+119,cold drink refreshing,1,positive
+120,menu choice feel limited,1,neutral
+121,faculty explained topic clearly,1,positive
+122,note hard follow,1,negative
+123,class pace felt normal,1,neutral
+124,extra practice helped lot,1,positive
+125,many assignment week,1,negative
+126,syllabus coverage feel okay,1,neutral
+127,mock exam improved confidence,1,positive
+128,doubt session rushed,1,negative
+129,revision worksheet useful,1,positive
+130,homework load feel manageable,1,neutral
+131,office staff polite,1,positive
+132,document got misplaced,1,negative
+133,waiting area felt crowded,1,neutral
+134,guided properly,1,positive
+135,approval took long,1,negative
+136,reception desk seemed busy,1,neutral
+137,clarified doubt calmly,1,positive
+138,visit twice signature,1,negative
+139,form submission went smoothly,1,positive
+140,office environment feel okay,1,neutral
+141,website open faster,1,positive
+142,login failed,1,negative
+143,portal design feel average,1,neutral
+144,dashboard look clean,1,positive
+145,upload option hang sometimes,1,negative
+146,menu layout fine,1,neutral
+147,profile saved without issue,1,positive
+148,search feature feel slow,1,negative
+149,notification work properly,1,positive
+150,navigation feel decent,1,neutral
+151,classroom fan work well,1,positive
+152,bench broken,1,negative
+153,hall feel normal today,1,neutral
+154,garden area look clean,1,positive
+155,water tap leaking,1,negative
+156,parking space feel okay,1,neutral
+157,washroom smell better,1,positive
+158,staircase light dim,1,negative
+159,study room feel comfortable,1,positive
+160,corridor feel crowded,1,neutral
+161,found journal without delay,1,positive
+162,book torn cover,1,negative
+163,reading desk feel fine,1,neutral
+164,library staff guided nicely,1,positive
+165,book issue counter slow,1,negative
+166,library temperature feel okay,1,neutral
+167,idli sambar tasted nice,1,positive
+168,chapati felt hard,1,negative
+169,breakfast felt average,1,neutral
+170,pasta served hot,1,positive
+171,snack tasted stale,1,negative
+172,juice counter feel normal,1,neutral
+173,practice question cleared doubt,1,positive
+174,recorded lecture audio issue,1,negative
+175,class flow seems fine,1,neutral
+176,weekly test helped revision,1,positive
+177,much theory one class,1,negative
+178,assignment timing feel okay,1,neutral
+179,processed request quickly,1,positive
+180,office closed early today,1,negative
+181,help desk felt busy,1,neutral
+182,reception staff helpful,1,positive
+183,reply came late,1,negative
+184,office hour seem fine,1,neutral
+185,fee receipt downloaded smoothly,1,positive
+186,password reset didnt work,1,negative
+187,portal speed feel normal,1,neutral
+188,website layout feel simple,1,positive
+189,page refresh took long,1,negative
+190,font size look okay,1,neutral
+191,classroom board look clean,1,positive
+192,washroom floor slippery,1,negative
+193,lab feel average today,1,neutral
+194,walking path look neat,1,positive
+195,plug point dont work,1,negative
+196,seating area feel fine,1,neutral
+197,library feel quiet today,1,positive
+198,tea tasted bland,1,negative
+199,extra tutorial helped revision,1,positive
+200,office staff seemed stressed,1,neutral
+201,library feel airy today,1,positive
+202,book smell damp,1,negative
+203,reading desk feel normal,1,neutral
+204,found project reference easily,1,positive
+205,book renewal took time,1,negative
+206,library crowd feel manageable,1,neutral
+207,staff suggested good study material,1,positive
+208,one corner feel noisy,1,negative
+209,library layout look neat,1,positive
+210,silence level feel okay,1,neutral
+211,upma tasted nice,1,positive
+212,sambar thin,1,negative
+213,lunch felt average,1,neutral
+214,fresh fruit good,1,positive
+215,cutlet tasted stale,1,negative
+216,serving speed feel fine,1,neutral
+217,evening coffee good,1,positive
+218,rice portion felt small,1,negative
+219,cold drink chilled well,1,positive
+220,menu feel repetitive,1,neutral
+221,concept explained clearly,1,positive
+222,slide much text,1,negative
+223,class duration felt okay,1,neutral
+224,extra problem helped practice,1,positive
+225,topic moved fast,1,negative
+226,syllabus pace seems fine,1,neutral
+227,mock test useful,1,positive
+228,doubt session felt rushed,1,negative
+229,revision note helped lot,1,positive
+230,assignment load feel normal,1,neutral
+231,office staff supportive,1,positive
+232,misplaced file,1,negative
+233,waiting area feel okay,1,neutral
+234,form approval quick,1,positive
+235,follow twice,1,negative
+236,reception counter busy,1,neutral
+237,answered query patiently,1,positive
+238,document delayed,1,negative
+239,process explained clearly,1,positive
+240,office atmosphere feel normal,1,neutral
+241,website load quickly,1,positive
+242,login page crashed,1,negative
+243,portal design feel okay,1,neutral
+244,dashboard easy read,1,positive
+245,upload button froze,1,negative
+246,navigation feel average,1,neutral
+247,profile update worked fine,1,positive
+248,search take time sometimes,1,negative
+249,alert useful,1,positive
+250,layout look decent,1,neutral
+251,classroom ventilation feel good,1,positive
+252,desk shaky,1,negative
+253,hall temperature feel normal,1,neutral
+254,garden look well maintained,1,positive
+255,washroom tap leaking,1,negative
+256,parking feel manageable,1,neutral
+257,common area feel clean,1,positive
+258,stair feel worn,1,negative
+259,study room comfortable,1,positive
+260,corridor noise feel average,1,neutral
+261,found journal easily today,1,positive
+262,book cover torn,1,negative
+263,reading light feel fine,1,neutral
+264,library staff helpful,1,positive
+265,book issue counter slow,1,negative
+266,library temperature feel okay,1,neutral
+267,masala dosa tasted good,1,positive
+268,tea lukewarm,1,negative
+269,breakfast felt okay,1,neutral
+270,pulao flavorful,1,positive
+271,snack felt dry,1,negative
+272,juice stall feel normal,1,neutral
+273,practice worksheet cleared doubt,1,positive
+274,audio lecture unclear,1,negative
+275,class pace feel fine,1,neutral
+276,weekly test improved confidence,1,positive
+277,many slide one class,1,negative
+278,homework feel manageable,1,neutral
+279,processed request fast,1,positive
+280,office opened late today,1,negative
+281,help desk seemed busy,1,neutral
+282,reception guided properly,1,positive
+283,reply took long,1,negative
+284,office timing feel okay,1,neutral
+285,fee payment went smoothly,1,positive
+286,password change failed,1,negative
+287,portal speed feel average,1,neutral
+288,website look clean,1,positive
+289,page loading slow,1,negative
+290,font size feel fine,1,neutral
+291,class board clear,1,positive
+292,washroom smell bad,1,negative
+293,lab feel normal today,1,neutral
+294,campus path look neat,1,positive
+295,ceiling fan dont work,1,negative
+296,seating feel okay,1,neutral
+297,library feel peaceful,1,positive
+298,coffee tasted burnt,1,negative
+299,extra class helped revision,1,positive
+300,office staff looked tired,1,neutral
+301,library feel quiet afternoon,1,positive
+302,book missing label,1,negative
+303,reading table feel okay,1,neutral
+304,found exam guide quickly,1,positive
+305,book renewal system felt slow,1,negative
+306,library crowd seems normal,1,neutral
+307,staff helped past paper,1,positive
+308,one shelf look messy,1,negative
+309,library ambience feel nice,1,positive
+310,noise level manageable,1,neutral
+311,vegetable pulao tasted good,1,positive
+312,tea sweet,1,negative
+313,lunch felt normal today,1,neutral
+314,fruit salad fresh,1,positive
+315,paneer curry felt bland,1,negative
+316,serving speed feel okay,1,neutral
+317,evening snack crispy,1,positive
+318,rice undercooked,1,negative
+319,lemon juice refreshing,1,positive
+320,menu choice seem average,1,neutral
+321,concept explanation clear,1,positive
+322,slide hard read,1,negative
+323,class duration feel fine,1,neutral
+324,practice problem helped lot,1,positive
+325,much homework week,1,negative
+326,topic coverage feel okay,1,neutral
+327,mock exam helped revision,1,positive
+328,doubt clearing rushed,1,negative
+329,revision class useful,1,positive
+330,assignment load feel average,1,neutral
+331,office staff responded kindly,1,positive
+332,lost application,1,negative
+333,waiting area feel normal,1,neutral
+334,form approval smooth,1,positive
+335,wait long line,1,negative
+336,reception desk busy,1,neutral
+337,explained procedure clearly,1,positive
+338,document delayed,1,negative
+339,process felt simple,1,positive
+340,office atmosphere seems okay,1,neutral
+341,website load quickly today,1,positive
+342,login failed twice,1,negative
+343,portal design feel normal,1,neutral
+344,dashboard look neat,1,positive
+345,upload option lagged,1,negative
+346,navigation feel okay,1,neutral
+347,profile change saved fine,1,positive
+348,search take longer sometimes,1,negative
+349,alert working properly,1,positive
+350,layout feel average,1,neutral
+351,classroom lighting feel good,1,positive
+352,bench squeak,1,negative
+353,hall temperature feel fine,1,neutral
+354,garden area look pleasant,1,positive
+355,washroom door dont close properly,1,negative
+356,parking feel normal,1,neutral
+357,common space look clean,1,positive
+358,staircase tile feel loose,1,negative
+359,study area feel comfortable,1,positive
+360,corridor noise manageable,1,neutral
+361,found reference material easily,1,positive
+362,book page torn,1,negative
+363,reading lamp feel okay,1,neutral
+364,library staff polite,1,positive
+365,book counter moved slowly,1,negative
+366,library air feel normal,1,neutral
+367,upma tasted fresh,1,positive
+368,coffee felt watery,1,negative
+369,breakfast felt average,1,neutral
+370,noodle flavorful,1,positive
+371,snack tasted cold,1,negative
+372,juice stall seems okay,1,neutral
+373,practice test cleared doubt,1,positive
+374,recorded class buffering,1,negative
+375,class flow feel normal,1,neutral
+376,weekly quiz helped learning,1,positive
+377,much content one lecture,1,negative
+378,homework load feel fine,1,neutral
+379,handled request fast,1,positive
+380,office opened late,1,negative
+381,help desk felt crowded,1,neutral
+382,reception staff friendly,1,positive
+383,reply came many day,1,negative
+384,office timing feel normal,1,neutral
+385,fee page worked smoothly,1,positive
+386,password reset failed,1,negative
+387,portal speed feel okay,1,neutral
+388,website look cleaner,1,positive
+389,page refresh slow,1,negative
+390,font style feel fine,1,neutral
+391,classroom board clear,1,positive
+392,washroom smell unpleasant,1,negative
+393,lab feel average today,1,neutral
+394,campus walkway look clean,1,positive
+395,ceiling light dont work,1,negative
+396,seating feel normal,1,neutral
+397,library feel peaceful today,1,positive
+398,tea tasted flat,1,negative
+399,extra tutorial helped lot,1,positive
+400,office staff seemed busy,1,neutral
+401,library feel fresh morning,1,positive
+402,reference book outdated,1,negative
+403,reading section feel okay today,1,neutral
+404,found lab manual quickly,1,positive
+405,book return took longer usual,1,negative
+406,library crowd seems normal,1,neutral
+407,staff helped locate journal,1,positive
+408,one study corner feel noisy,1,negative
+409,library ambience pleasant,1,positive
+410,noise level feel manageable,1,neutral
+411,vegetable sandwich tasted good,1,positive
+412,tea served cold,1,negative
+413,lunch felt average today,1,neutral
+414,fruit bowl nicely cut,1,positive
+415,dal tasted watery,1,negative
+416,serving speed feel fine,1,neutral
+417,evening coffee tasted nice,1,positive
+418,rice felt undercooked,1,negative
+419,lime juice refreshing,1,positive
+420,menu variety feel okay,1,neutral
+421,faculty explained problem clearly,1,positive
+422,slide confusing,1,negative
+423,class pace feel normal,1,neutral
+424,extra worksheet helped revision,1,positive
+425,many topic one lecture,1,negative
+426,syllabus progress feel okay,1,neutral
+427,mock test helpful,1,positive
+428,doubt session ended early,1,negative
+429,revision class cleared doubt,1,positive
+430,assignment workload feel average,1,neutral
+431,office staff cooperative,1,positive
+432,misplaced document,1,negative
+433,waiting hall felt crowded,1,neutral
+434,form verification quick,1,positive
+435,wait long approval,1,negative
+436,reception area feel busy,1,neutral
+437,answered query well,1,positive
+438,response delayed,1,negative
+439,process felt smooth today,1,positive
+440,office atmosphere feel okay,1,neutral
+441,website load faster,1,positive
+442,login page froze,1,negative
+443,portal layout feel average,1,neutral
+444,dashboard look simple,1,positive
+445,upload option failed,1,negative
+446,navigation feel fine,1,neutral
+447,profile change saved properly,1,positive
+448,search bar responds slowly,1,negative
+449,notification useful,1,positive
+450,website design feel okay,1,neutral
+451,classroom fan work properly,1,positive
+452,desk damaged,1,negative
+453,hall feel normal today,1,neutral
+454,garden area look clean,1,positive
+455,washroom tap leaking,1,negative
+456,parking feel manageable,1,neutral
+457,common space feel tidy,1,positive
+458,stair rail feel loose,1,negative
+459,study room feel calm,1,positive
+460,corridor noise feel average,1,neutral
+461,found textbook easily,1,positive
+462,book binding weak,1,negative
+463,reading light feel fine,1,neutral
+464,library staff helpful,1,positive
+465,book counter moved slowly,1,negative
+466,library temperature feel okay,1,neutral
+467,masala dosa crispy,1,positive
+468,coffee tasted burnt,1,negative
+469,breakfast felt okay,1,neutral
+470,fried rice tasty,1,positive
+471,snack felt stale,1,negative
+472,juice counter feel normal,1,neutral
+473,practice paper helped revision,1,positive
+474,audio class unclear,1,negative
+475,class flow feel fine,1,neutral
+476,weekly quiz boosted confidence,1,positive
+477,many slide one class,1,negative
+478,homework feel manageable,1,neutral
+479,processed request fast,1,positive
+480,office opened late today,1,negative
+481,help desk seemed busy,1,neutral
+482,reception guided properly,1,positive
+483,reply took longer expected,1,negative
+484,office timing feel fine,1,neutral
+485,fee receipt downloaded smoothly,1,positive
+486,password reset didnt work,1,negative
+487,portal speed feel average,1,neutral
+488,website layout feel clean,1,positive
+489,page loading slow,1,negative
+490,font size look okay,1,neutral
+491,class board look neat,1,positive
+492,washroom smell bad,1,negative
+493,lab feel normal today,1,neutral
+494,campus path look tidy,1,positive
+495,plug point dont work,1,negative
+496,seating feel fine,1,neutral
+497,library feel peaceful,1,positive
+498,tea tasted weak,1,negative
+499,extra class helped revision,1,positive
+500,office staff looked tired,1,neutral
+501,library feel quiet evening,1,positive
+502,book faded print,1,negative
+503,reading area feel okay,1,neutral
+504,found project guide easily,1,positive
+505,book renewal system slow,1,negative
+506,library crowd feel manageable,1,neutral
+507,staff helped reference,1,positive
+508,one shelf look dusty,1,negative
+509,library lighting feel pleasant,1,positive
+510,noise level feel normal,1,neutral
+511,vegetable cutlet tasted good,1,positive
+512,tea tasted weak,1,negative
+513,lunch felt average today,1,neutral
+514,fruit juice fresh,1,positive
+515,dal salty,1,negative
+516,serving speed feel okay,1,neutral
+517,evening snack crispy,1,positive
+518,rice felt dry,1,negative
+519,cold coffee tasted nice,1,positive
+520,menu choice feel limited,1,neutral
+521,teacher explained problem clearly,1,positive
+522,note confusing week,1,negative
+523,class duration feel normal,1,neutral
+524,extra example helped revision,1,positive
+525,much homework assigned,1,negative
+526,topic pace feel okay,1,neutral
+527,mock exam helped preparation,1,positive
+528,doubt clearing felt rushed,1,negative
+529,revision worksheet useful,1,positive
+530,assignment load feel average,1,neutral
+531,office staff helpful today,1,positive
+532,misplaced receipt,1,negative
+533,waiting hall felt crowded,1,neutral
+534,form submission smooth,1,positive
+535,approval took longer expected,1,negative
+536,reception desk feel busy,1,neutral
+537,clarified doubt politely,1,positive
+538,response came late,1,negative
+539,process felt simple,1,positive
+540,office environment feel okay,1,neutral
+541,website open quickly,1,positive
+542,login failed,1,negative
+543,portal layout feel normal,1,neutral
+544,dashboard look neat,1,positive
+545,upload button lagged,1,negative
+546,navigation feel fine,1,neutral
+547,profile updated successfully,1,positive
+548,search feature slow,1,negative
+549,alert helpful,1,positive
+550,website design feel average,1,neutral
+551,classroom ventilation feel good,1,positive
+552,bench shaky,1,negative
+553,hall temperature feel normal,1,neutral
+554,garden area look nice,1,positive
+555,washroom mirror dirty,1,negative
+556,parking feel okay,1,neutral
+557,common area feel clean,1,positive
+558,stair feel worn,1,negative
+559,study space feel calm,1,positive
+560,corridor noise feel average,1,neutral
+561,found reference book easily,1,positive
+562,page torn,1,negative
+563,reading lamp feel fine,1,neutral
+564,library staff guided nicely,1,positive
+565,book issue counter slow,1,negative
+566,library temperature feel okay,1,neutral
+567,idli tasted soft today,1,positive
+568,coffee felt watery,1,negative
+569,breakfast felt okay,1,neutral
+570,pasta served hot,1,positive
+571,snack tasted stale,1,negative
+572,juice stall feel normal,1,neutral
+573,practice test cleared doubt,1,positive
+574,recorded lecture buffering,1,negative
+575,class flow feel fine,1,neutral
+576,weekly quiz helped learning,1,positive
+577,many topic one class,1,negative
+578,homework feel manageable,1,neutral
+579,processed request fast,1,positive
+580,office closed early,1,negative
+581,help desk seemed crowded,1,neutral
+582,reception staff friendly,1,positive
+583,reply came late,1,negative
+584,office timing feel normal,1,neutral
+585,fee page worked smoothly,1,positive
+586,password reset failed,1,negative
+587,portal speed feel okay,1,neutral
+588,website look cleaner,1,positive
+589,page loading slow,1,negative
+590,font style feel fine,1,neutral
+591,classroom board clear,1,positive
+592,washroom smell unpleasant,1,negative
+593,lab feel average today,1,neutral
+594,campus walkway look clean,1,positive
+595,ceiling light dont work,1,negative
+596,seating feel normal,1,neutral
+597,library feel peaceful today,1,positive
+598,tea tasted flat,1,negative
+599,extra tutorial helped lot,1,positive
+600,office staff seemed busy,1,neutral
+601,library feel calm morning,1,positive
+602,book loose binding,1,negative
+603,reading desk feel okay today,1,neutral
+604,found reference note quickly,1,positive
+605,book issuing took longer,1,negative
+606,library crowd feel average,1,neutral
+607,staff helped find journal,1,positive
+608,one corner feel stuffy,1,negative
+609,library ambience feel pleasant,1,positive
+610,noise level feel manageable,1,neutral
+611,vegetable sandwich tasted fresh,1,positive
+612,tea weak,1,negative
+613,lunch felt normal today,1,neutral
+614,fruit bowl tasted good,1,positive
+615,dal felt undercooked,1,negative
+616,serving speed feel fine,1,neutral
+617,evening snack crunchy,1,positive
+618,rice tasted dry,1,negative
+619,cold coffee refreshing,1,positive
+620,menu variety feel average,1,neutral
+621,faculty explained topic clearly,1,positive
+622,note hard understand,1,negative
+623,class duration feel okay,1,neutral
+624,extra worksheet helped practice,1,positive
+625,much homework given,1,negative
+626,topic pace feel fine,1,neutral
+627,mock exam boosted confidence,1,positive
+628,doubt clearing felt rushed,1,negative
+629,revision session helpful,1,positive
+630,assignment load feel normal,1,neutral
+631,office staff guided properly,1,positive
+632,misplaced application,1,negative
+633,waiting hall felt busy,1,neutral
+634,form approval quick,1,positive
+635,wait long,1,negative
+636,reception counter feel crowded,1,neutral
+637,answered query politely,1,positive
+638,response delayed,1,negative
+639,process felt smooth today,1,positive
+640,office atmosphere feel okay,1,neutral
+641,website open faster,1,positive
+642,login page froze,1,negative
+643,portal layout feel average,1,neutral
+644,dashboard look simple,1,positive
+645,upload option failed,1,negative
+646,navigation feel fine,1,neutral
+647,profile updated correctly,1,positive
+648,search take time sometimes,1,negative
+649,notification helpful,1,positive
+650,website design feel okay,1,neutral
+651,classroom fan work well,1,positive
+652,desk wobble,1,negative
+653,hall temperature feel normal,1,neutral
+654,garden area look tidy,1,positive
+655,washroom tap leaking,1,negative
+656,parking feel manageable,1,neutral
+657,common space feel clean,1,positive
+658,stair rail feel loose,1,negative
+659,study room feel calm,1,positive
+660,corridor noise feel average,1,neutral
+661,found textbook easily today,1,positive
+662,page missing,1,negative
+663,reading light feel fine,1,neutral
+664,library staff kind,1,positive
+665,book counter slow,1,negative
+666,library temperature feel okay,1,neutral
+667,masala dosa tasted good,1,positive
+668,coffee tasted burnt,1,negative
+669,breakfast felt okay,1,neutral
+670,fried rice flavorful,1,positive
+671,snack tasted stale,1,negative
+672,juice counter feel normal,1,neutral
+673,practice paper cleared doubt,1,positive
+674,recorded lecture audio issue,1,negative
+675,class flow feel fine,1,neutral
+676,weekly quiz helped revision,1,positive
+677,many slide one lecture,1,negative
+678,homework feel manageable,1,neutral
+679,processed request fast,1,positive
+680,office opened late today,1,negative
+681,help desk seemed busy,1,neutral
+682,reception guided properly,1,positive
+683,reply came late,1,negative
+684,office timing feel fine,1,neutral
+685,fee receipt downloaded smoothly,1,positive
+686,password reset didnt work,1,negative
+687,portal speed feel average,1,neutral
+688,website layout feel clean,1,positive
+689,page loading slow,1,negative
+690,font size look okay,1,neutral
+691,class board look neat,1,positive
+692,washroom smell bad,1,negative
+693,lab feel normal today,1,neutral
+694,campus path look tidy,1,positive
+695,plug point dont work,1,negative
+696,seating feel fine,1,neutral
+697,library feel peaceful,1,positive
+698,tea tasted weak,1,negative
+699,extra class helped revision,1,positive
+700,office staff looked tired,1,neutral
+701,website load quickly,1,positive
+702,payment page crashed,1,negative
+703,portal response feel normal,1,neutral
+704,dashboard chart look clear,1,positive
+705,otp took long,1,negative
+706,menu layout feel okay,1,neutral
+707,projector work smoothly,1,positive
+708,ac cooling properly,1,negative
+709,lab seating feel normal,1,neutral
+710,waiting area look clean,1,positive
+711,drinking water taste odd,1,negative
+712,elevator speed feel fine,1,neutral
+713,librarian suggested good book,1,positive
+714,shelf messy,1,negative
+715,study table feel okay,1,neutral
+716,quiet zone help focus,1,positive
+717,computer terminal slow,1,negative
+718,library lighting feel fine,1,neutral
+719,idli tasted soft,1,positive
+720,sambar salty,1,negative
+721,snack quantity feel normal,1,neutral
+722,pasta tasted delicious,1,positive
+723,milkshake watery,1,negative
+724,billing queue feel average,1,neutral
+725,teacher explained concept well,1,positive
+726,slide confusing,1,negative
+727,class timing feel okay,1,neutral
+728,group discussion helped learning,1,positive
+729,exam instruction unclear,1,negative
+730,syllabus pace feel normal,1,neutral
+731,certificate issued quickly,1,positive
+732,document misplaced,1,negative
+733,office crowd feel average,1,neutral
+734,staff guided properly,1,positive
+735,approval process took long,1,negative
+736,reception ambience feel okay,1,neutral
+737,website notification work well,1,positive
+738,search result lag,1,negative
+739,interface feel normal,1,neutral
+740,profile page load fast,1,positive
+741,file upload failed twice,1,negative
+742,text spacing look fine,1,neutral
+743,reading room feel fresh,1,positive
+744,magazine missing,1,negative
+745,library crowd feel okay,1,neutral
+746,reference desk helped,1,positive
+747,book return counter slow,1,negative
+748,library chair feel fine,1,neutral
+749,chapati tasted soft,1,positive
+750,curry lacked flavor,1,negative
+751,lunch buffet satisfying,1,positive
+752,soup tasted bland,1,negative
+753,meal portion feel normal,1,neutral
+754,dessert delicious,1,positive
+755,paneer felt rubbery,1,negative
+756,table arrangement feel okay,1,neutral
+757,faculty cleared doubt,1,positive
+758,recorded video blurry,1,negative
+759,revision pace feel fine,1,neutral
+760,practice test boosted confidence,1,positive
+761,assignment deadline sudden,1,negative
+762,course outline feel normal,1,neutral
+763,staff processed form quickly,1,positive
+764,office printer broken,1,negative
+765,queue length feel average,1,neutral
+766,help desk solved issue,1,positive
+767,lost receipt,1,negative
+768,office seating feel okay,1,neutral
+769,website payment succeeded,1,positive
+770,captcha kept refreshing,1,negative
+771,page layout feel normal,1,neutral
+772,download link worked fine,1,positive
+773,server error appeared,1,negative
+774,button spacing feel okay,1,neutral
+775,classroom light bright,1,positive
+776,projector cable loose,1,negative
+777,lab temperature feel normal,1,neutral
+778,garden bench look clean,1,positive
+779,door handle broken,1,negative
+780,walkway space feel fine,1,neutral
+781,found required journal fast,1,positive
+782,rack dusty,1,negative
+783,library silence feel okay,1,neutral
+784,staff guided patiently,1,positive
+785,barcode scanner failed,1,negative
+786,reading corner feel fine,1,neutral
+787,biryani tasted great,1,positive
+788,curd sour,1,negative
+789,dinner crowd feel average,1,neutral
+790,fresh juice refreshing,1,positive
+791,bread felt stale,1,negative
+792,counter spacing feel okay,1,neutral
+793,online quiz result updated,1,positive
+794,lecture audio cracked,1,negative
+795,study schedule feel normal,1,neutral
+796,extra class useful,1,positive
+797,many test week,1,negative
+798,course load feel fine,1,neutral
+799,office staff smiled today,1,positive
+800,reception felt crowded,1,neutral
+801,website dashboard load fast,1,positive
+802,login failed twice,1,negative
+803,portal usage feel normal,1,neutral
+804,profile edit saved correctly,1,positive
+805,verification email delayed,1,negative
+806,menu icon feel okay,1,neutral
+807,payment receipt generated,1,positive
+808,search bar lagged,1,negative
+809,notification arrived time,1,positive
+810,font clarity feel normal,1,neutral
+811,classroom air feel fresh,1,positive
+812,ceiling fan make noise,1,negative
+813,lab chair feel okay,1,neutral
+814,corridor look clean,1,positive
+815,water cooler working,1,negative
+816,parking space feel average,1,neutral
+817,common hall smell fresh,1,positive
+818,washroom mirror cracked,1,negative
+819,study area feel calm,1,positive
+820,stairway width feel normal,1,neutral
+821,library catalog helped search,1,positive
+822,book outdated,1,negative
+823,reading atmosphere feel okay,1,neutral
+824,digital section useful,1,positive
+825,printer jammed,1,negative
+826,library spacing feel fine,1,neutral
+827,found thesis copy easily,1,positive
+828,ac cold,1,negative
+829,silent zone help focus,1,positive
+830,library crowd feel average,1,neutral
+831,upma tasted good,1,positive
+832,tea lukewarm,1,negative
+833,breakfast rush feel normal,1,neutral
+834,noodle flavorful,1,positive
+835,sauce tasted odd,1,negative
+836,table cleanliness feel okay,1,neutral
+837,fresh fruit available,1,positive
+838,paper cup missing,1,negative
+839,milk chilled well,1,positive
+840,serving size feel average,1,neutral
+841,faculty shared extra note,1,positive
+842,slide unreadable,1,negative
+843,class engagement feel normal,1,neutral
+844,tutorial session helped,1,positive
+845,project guideline unclear,1,negative
+846,study load feel okay,1,neutral
+847,revision worksheet useful,1,positive
+848,recorded class missing,1,negative
+849,practice problem helped,1,positive
+850,topic coverage feel average,1,neutral
+851,application approved quickly,1,positive
+852,token system confusing,1,negative
+853,waiting room feel normal,1,neutral
+854,staff responded politely,1,positive
+855,file got misplaced,1,negative
+856,office lighting feel okay,1,neutral
+857,help desk resolved issue,1,positive
+858,counter unattended,1,negative
+859,process smooth today,1,positive
+860,office noise feel average,1,neutral
+861,website graph look clean,1,positive
+862,session expired suddenly,1,negative
+863,navigation speed feel normal,1,neutral
+864,report download worked,1,positive
+865,attachment upload failed,1,negative
+866,color theme feel okay,1,neutral
+867,profile alert helpful,1,positive
+868,form submit lagged,1,negative
+869,homepage load quickly,1,positive
+870,button size feel normal,1,neutral
+871,classroom window open smoothly,1,positive
+872,floor tile cracked,1,negative
+873,lab lighting feel okay,1,neutral
+874,garden flower look fresh,1,positive
+875,handwash dispenser empty,1,negative
+876,rest area feel normal,1,neutral
+877,notice board updated,1,positive
+878,switchboard spark,1,negative
+879,reading hall feel peaceful,1,positive
+880,entrance space feel average,1,neutral
+881,found archive quickly,1,positive
+882,cd scratched,1,negative
+883,library layout feel normal,1,neutral
+884,staff arranged book neatly,1,positive
+885,issue slip missing,1,negative
+886,desk spacing feel okay,1,neutral
+887,reference guide helpful,1,positive
+888,scanner working,1,negative
+889,quiet corner available,1,positive
+890,reading time feel average,1,neutral
+891,veg pulao tasted nice,1,positive
+892,gravy watery,1,negative
+893,lunch crowd feel normal,1,neutral
+894,ice cream creamy,1,positive
+895,chutney tasted sour,1,negative
+896,tray return feel okay,1,neutral
+897,fresh salad served,1,positive
+898,spoon missing,1,negative
+899,cold drink chilled well,1,positive
+900,dining space feel average,1,neutral
+901,extra handout helpful,1,positive
+902,lecture audio kept breaking,1,negative
+903,class pace feel normal,1,neutral
+904,problem solving session helped,1,positive
+905,many topic one class,1,negative
+906,daily schedule feel okay,1,neutral
+907,faculty cleared doubt patiently,1,positive
+908,slide loaded slowly,1,negative
+909,practice test improved score,1,positive
+910,syllabus coverage feel average,1,neutral
+911,reception handled form quickly,1,positive
+912,counter closed unexpectedly,1,negative
+913,office queue feel normal,1,neutral
+914,staff explained procedure clearly,1,positive
+915,approval got delayed,1,negative
+916,waiting area feel okay,1,neutral
+917,document processed smoothly,1,positive
+918,help desk gave wrong info,1,negative
+919,office visit went well,1,positive
+920,timing feel average today,1,neutral
+921,website chart load fast,1,positive
+922,login page keep refreshing,1,negative
+923,portal design feel normal,1,neutral
+924,download button work fine,1,positive
+925,otp arrived late,1,negative
+926,header layout feel okay,1,neutral
+927,profile sync completed,1,positive
+928,search result inaccurate,1,negative
+929,notification show clearly,1,positive
+930,color contrast feel average,1,neutral
+931,classroom smell fresh,1,positive
+932,projector bulb flicker,1,negative
+933,lab temperature feel normal,1,neutral
+934,campus bench look clean,1,positive
+935,water tap dripping,1,negative
+936,hall spacing feel okay,1,neutral
+937,common wash area neat,1,positive
+938,door hinge broken,1,negative
+939,study corner feel quiet,1,positive
+940,entry gate feel average,1,neutral
+941,found magazine easily,1,positive
+942,shelf look messy,1,negative
+943,reading silence feel normal,1,neutral
+944,library staff supportive,1,positive
+945,book return machine failed,1,negative
+946,table height feel okay,1,neutral
+947,reference desk helped,1,positive
+948,barcode scanner slow,1,negative
+949,study pod useful,1,positive
+950,library lighting feel average,1,neutral
+951,paneer wrap tasted great,1,positive
+952,tea sugar,1,negative
+953,breakfast line feel normal,1,neutral
+954,fried snack crispy,1,positive
+955,grilled sandwich burnt,1,negative
+956,counter speed feel okay,1,neutral
+957,fresh juice option good,1,positive
+958,plate clean,1,negative
+959,hot coffee nice,1,positive
+960,dining noise feel average,1,neutral
+961,extra example clarified concept,1,positive
+962,recorded lecture missing slide,1,negative
+963,group activity feel normal,1,neutral
+964,weekly recap helped revision,1,positive
+965,assignment instruction unclear,1,negative
+966,study hour feel okay,1,neutral
+967,faculty feedback useful,1,positive
+968,online quiz crashed,1,negative
+969,mock test boosted confidence,1,positive
+970,class interaction feel average,1,neutral
+971,staff accepted document,1,positive
+972,office phone reachable,1,negative
+973,help counter feel normal,1,neutral
+974,guided patiently,1,positive
+975,token number skipped,1,negative
+976,office seating feel okay,1,neutral
+977,request closed successfully,1,positive
+978,form entry mistake,1,negative
+979,process completed smoothly,1,positive
+980,office mood feel average,1,neutral
+981,website report generated,1,positive
+982,page froze suddenly,1,negative
+983,scroll speed feel normal,1,neutral
+984,dashboard icon clear,1,positive
+985,attachment opening,1,negative
+986,sidebar feel okay,1,neutral
+987,history tab useful,1,positive
+988,auto logout happened,1,negative
+989,homepage design nice,1,positive
+990,text size feel average,1,neutral
+991,lab equipment arranged well,1,positive
+992,ceiling paint peeling,1,negative
+993,workshop feel normal,1,neutral
+994,outdoor seating look neat,1,positive
+995,drain smell near block,1,negative
+996,walkway width feel okay,1,neutral
+997,notice board clean,1,positive
+998,emergency light broken,1,negative
+999,study hall feel peaceful,1,positive
+1000,campus crowd feel average,1,neutral
+1001,library quiet morning,1,positive
+1002,canteen rice felt undercooked today,1,negative
+1003,lecture easy follow,1,positive
+1004,office staff guided properly,1,positive
+1005,website login took longer usual,1,neutral
+1006,classroom fan working properly,1,negative
+1007,found required textbook quickly,1,positive
+1008,samosa tasted fresh crispy,1,positive
+1009,assignment explained clearly,1,positive
+1010,wait long signature,1,negative
+1011,portal layout look simple clean,1,positive
+1012,water cooler functioning,1,negative
+1013,reading area feel comfortable,1,positive
+1014,curry spicy today,1,neutral
+1015,doubt clearing session helpful,1,positive
+1016,misplaced application form,1,negative
+1017,website search feature work fine,1,positive
+1018,washroom need better cleaning,1,negative
+1019,library seating arrangement good,1,positive
+1020,tea hot enough,1,negative
+1021,faculty explained concept patiently,1,positive
+1022,administration process feel slow,1,negative
+1023,portal loaded without error,1,positive
+1024,bench broken,1,negative
+1025,reference book well arranged,1,positive
+1026,snack tasted average today,1,neutral
+1027,practice problem improved understanding,1,positive
+1028,office closed working hour,1,negative
+1029,website interface feel smooth,1,positive
+1030,parking space feel limited,1,neutral
+1031,library staff helpful,1,positive
+1032,lunch portion small,1,negative
+1033,class discussion engaging,1,positive
+1034,processed request quickly,1,positive
+1035,dashboard load quickly,1,positive
+1036,projector clear,1,negative
+1037,found journal easily today,1,positive
+1038,juice tasted fresh,1,positive
+1039,weekly test improved confidence,1,positive
+1040,office response delayed,1,negative
+1041,portal notification useful,1,positive
+1042,classroom light flicker,1,negative
+1043,library atmosphere feel peaceful,1,positive
+1044,bread slightly dry,1,neutral
+1045,extra revision class beneficial,1,positive
+1046,staff answered rudely today,1,negative
+1047,website saved data properly,1,positive
+1048,lab equipment need maintenance,1,negative
+1049,study table spacious,1,positive
+1050,lunch tasted good today,1,positive
+1051,note provided useful,1,positive
+1052,queue moved slowly counter,1,negative
+1053,portal work smoothly mobile,1,positive
+1054,classroom feel warm afternoon,1,neutral
+1055,library book good condition,1,positive
+1056,sambar watery today,1,negative
+1057,teacher clarified doubt clearly,1,positive
+1058,document approval took long,1,negative
+1059,website design look modern,1,positive
+1060,restroom floor wet,1,negative
+1061,library well maintained,1,positive
+1062,snack counter crowded,1,neutral
+1063,assignment instruction clear,1,positive
+1064,lost previous record,1,negative
+1065,portal performance improved recently,1,positive
+1066,chair feel uncomfortable,1,negative
+1067,found previous year paper easily,1,positive
+1068,cold drink tasted flat,1,negative
+1069,mock test helped preparation,1,positive
+1070,office staff explained politely,1,positive
+1071,search bar work quickly,1,positive
+1072,ceiling visible crack,1,negative
+1073,library feel calm evening,1,positive
+1074,tea tasted average,1,neutral
+1075,group study session productive,1,positive
+1076,response time slower usual,1,neutral
+1077,website rarely crash,1,positive
+1078,water tap leaking,1,negative
+1079,book issue counter efficient,1,positive
+1080,food served cold today,1,negative
+1081,faculty support encouraging,1,positive
+1082,handled query properly,1,positive
+1083,portal keep logged securely,1,positive
+1084,ac noisy lab,1,negative
+1085,library rule clearly displayed,1,positive
+1086,meal option felt limited,1,neutral
+1087,course material easy understand,1,positive
+1088,office seemed understaffed,1,neutral
+1089,website easy navigate,1,positive
+1090,floor tile loose near stair,1,negative
+1091,reading zone feel organized,1,positive
+1092,lunch combo satisfying,1,positive
+1093,extra practice sheet helped lot,1,positive
+1094,delayed issuing id card,1,negative
+1095,fee receipt downloaded quickly,1,positive
+1096,corridor lighting dim,1,neutral
+1097,library staff guided well,1,positive
+1098,evening snack tasty,1,positive
+1099,concept explanation clear,1,positive
+1100,office closed earlier expected,1,negative
+1101,website load without lag day,1,positive
+1102,classroom window dont close properly,1,negative
+1103,library catalog system easy use,1,positive
+1104,idli served cold today,1,negative
+1105,lecture pace comfortable,1,positive
+1106,office staff seemed helpful today,1,positive
+1107,portal layout feel slightly crowded,1,neutral
+1108,washroom mirror need cleaning,1,negative
+1109,found quiet corner study,1,positive
+1110,meal tasted average afternoon,1,neutral
+1111,faculty provided clear example,1,positive
+1112,approval process confusing,1,negative
+1113,website work well phone,1,positive
+1114,projector brightness low,1,negative
+1115,library timing convenient,1,positive
+1116,soup tasted really good today,1,positive
+1117,assignment deadline reasonable,1,neutral
+1118,handled request efficiently,1,positive
+1119,login page responded quickly,1,positive
+1120,desk rough edge,1,negative
+1121,reference section well maintained,1,positive
+1122,snack counter felt disorganized,1,negative
+1123,revision class cleared doubt,1,positive
+1124,office response time decent,1,neutral
+1125,portal rarely show error,1,positive
+1126,parking area need better lighting,1,neutral
+1127,library atmosphere support concentration,1,positive
+1128,rice quality felt poor today,1,negative
+1129,teacher encouraged participation,1,positive
+1130,misplaced submitted form,1,negative
+1131,website navigation straightforward,1,positive
+1132,water dispenser empty,1,negative
+1133,book arrangement make searching easy,1,positive
+1134,juice tasted sweet,1,neutral
+1135,extra practice session useful,1,positive
+1136,staff spoke politely counter,1,positive
+1137,portal update timely,1,positive
+1138,lab chair feel unstable,1,negative
+1139,library staff respond quickly,1,positive
+1140,meal portion satisfying,1,positive
+1141,class example relatable,1,positive
+1142,queue shorter usual,1,positive
+1143,website interface feel smooth today,1,positive
+1144,restroom smell unpleasant,1,negative
+1145,study material easy access,1,positive
+1146,tea tasted slightly bitter,1,neutral
+1147,weekly quiz improved focus,1,positive
+1148,document verification took time,1,negative
+1149,portal dashboard informative,1,positive
+1150,classroom feel well ventilated,1,positive
+1151,library provides enough seating,1,positive
+1152,snack option feel repetitive,1,neutral
+1153,faculty feedback constructive,1,positive
+1154,office closed scheduled time,1,negative
+1155,website rarely freeze,1,positive
+1156,switch loose,1,negative
+1157,reading hall feel spacious,1,positive
+1158,food tasted fresh today,1,positive
+1159,lesson recap helped revision,1,positive
+1160,help desk unavailable,1,negative
+1161,portal notification clear,1,positive
+1162,ceiling fan make noise,1,negative
+1163,library clean organized,1,positive
+1164,lunch tasted average overall,1,neutral
+1165,course explanation detailed,1,positive
+1166,staff processed document quickly,1,positive
+1167,website search result accurate,1,positive
+1168,floor look slippery near entrance,1,negative
+1169,found required journal without issue,1,positive
+1170,curry felt salty,1,negative
+1171,practice test helpful,1,positive
+1172,response office delayed,1,negative
+1173,portal run smoothly overall,1,positive
+1174,class board need cleaning,1,neutral
+1175,library rule clearly mentioned,1,positive
+1176,evening snack tasted good,1,positive
+1177,teacher explained topic patiently,1,positive
+1178,resolved issue properly,1,positive
+1179,website login seamless,1,positive
+1180,lab equipment feel outdated,1,neutral
+1181,library lighting sufficient,1,positive
+1182,food slightly oily,1,neutral
+1183,assignment improved understanding,1,positive
+1184,office counter felt crowded,1,neutral
+1185,portal saved change instantly,1,positive
+1186,bench feel shaky,1,negative
+1187,reading area peaceful,1,positive
+1188,tea served fresh,1,positive
+1189,faculty interaction motivating,1,positive
+1190,delayed approval,1,negative
+1191,website speed improved,1,positive
+1192,washroom tap leaking,1,negative
+1193,library collection diverse,1,positive
+1194,meal tasted bland today,1,negative
+1195,extra class clarified doubt,1,positive
+1196,office staff seemed neutral,1,neutral
+1197,portal design feel modern,1,positive
+1198,corridor wall need repainting,1,neutral
+1199,book return process simple,1,positive
+1200,canteen service quick today,1,positive
+1201,faculty explained topic real example,1,positive
+1202,office staff asked come back later,1,negative
+1203,website dashboard feel organized,1,positive
+1204,classroom feel stuffy noon,1,neutral
+1205,library good collection reference book,1,positive
+1206,canteen dosa crispy fresh,1,positive
+1207,assignment instruction confusing,1,negative
+1208,resolved certificate issue quickly,1,positive
+1209,portal took time load today,1,neutral
+1210,light working corridor,1,negative
+1211,library environment perfect studying,1,positive
+1212,meal tasted slightly salty,1,neutral
+1213,teacher gave useful feedback project,1,positive
+1214,office queue management need improvement,1,negative
+1215,website interface easy understand,1,positive
+1216,lab computer running slowly,1,negative
+1217,found study material without difficulty,1,positive
+1218,snack served fresh hot,1,positive
+1219,revision session improved clarity,1,positive
+1220,help desk response delayed,1,negative
+1221,portal work smoothly time,1,positive
+1222,washroom cleanliness average,1,neutral
+1223,library seating comfortable,1,positive
+1224,food portion size felt small today,1,negative
+1225,class discussion encouraged participation,1,positive
+1226,staff explained procedure patiently,1,positive
+1227,website rarely show loading error,1,positive
+1228,classroom desk damaged,1,negative
+1229,library staff cooperative,1,positive
+1230,tea quality decent today,1,neutral
+1231,practice assignment helped understanding,1,positive
+1232,office closed earlier mentioned,1,negative
+1233,portal notification system helpful,1,positive
+1234,parking area feel congested,1,neutral
+1235,library catalog search accurate,1,positive
+1236,lunch tasted good overall,1,positive
+1237,faculty cleared doubt effectively,1,positive
+1238,document processing took long,1,negative
+1239,website performance feel stable,1,positive
+1240,classroom ventilation need improvement,1,negative
+1241,found previous year question paper easily,1,positive
+1242,curry tasted bit bland,1,neutral
+1243,extra tutorial session beneficial,1,positive
+1244,office staff seemed unresponsive,1,negative
+1245,portal saved information correctly,1,positive
+1246,lab chair comfortable,1,positive
+1247,library noise level low,1,positive
+1248,snack counter service slow,1,negative
+1249,lesson recap helpful,1,positive
+1250,handled query professionally,1,positive
+1251,website design feel clean,1,positive
+1252,wall visible crack,1,negative
+1253,library provides good study resource,1,positive
+1254,food tasted average today,1,neutral
+1255,teacher provided clear instruction,1,positive
+1256,queue moved faster expected,1,positive
+1257,portal rarely log unexpectedly,1,positive
+1258,restroom maintenance need attention,1,negative
+1259,library lighting adequate,1,positive
+1260,juice tasted refreshing today,1,positive
+1261,weekly test helped improve performance,1,positive
+1262,staff misplaced document,1,negative
+1263,website search function work accurately,1,positive
+1264,floor near stair feel slippery,1,negative
+1265,reading area feel organized,1,positive
+1266,lunch menu feel repetitive,1,neutral
+1267,faculty encouraged interactive learning,1,positive
+1268,office process felt smooth today,1,positive
+1269,portal update appear time,1,positive
+1270,ceiling fan need servicing,1,neutral
+1271,library book return system efficient,1,positive
+1272,sambar tasted good today,1,positive
+1273,assignment feedback detailed,1,positive
+1274,help desk unavailable,1,negative
+1275,website run fine without glitch,1,positive
+1276,classroom switch faulty,1,negative
+1277,library peaceful study zone,1,positive
+1278,tea slightly cold,1,negative
+1279,course material well structured,1,positive
+1280,office seemed crowded morning,1,neutral
+1281,portal layout feel user friendly,1,positive
+1282,water dispenser need refilling often,1,neutral
+1283,library staff responded kindly,1,positive
+1284,snack tasted stale today,1,negative
+1285,extra practice improved understanding,1,positive
+1286,processed application quickly,1,positive
+1287,website speed satisfactory,1,positive
+1288,classroom board need replacement,1,negative
+1289,library resource sufficient,1,positive
+1290,lunch served hot fresh,1,positive
+1291,faculty explained complex topic clearly,1,positive
+1292,office response felt slow today,1,negative
+1293,portal work consistently well,1,positive
+1294,corridor lighting dim evening,1,neutral
+1295,library arrangement make book easy find,1,positive
+1296,food tasted slightly oily,1,neutral
+1297,revision worksheet useful,1,positive
+1298,staff resolved issue promptly,1,positive
+1299,website rarely crash,1,positive
+1300,parking area need better organization,1,neutral
+1301,library study room well maintained,1,positive
+1302,canteen food felt oily today,1,negative
+1303,lecture covered important point,1,positive
+1304,office staff attentive query,1,positive
+1305,website homepage look clean,1,positive
+1306,classroom fan make noise,1,neutral
+1307,found required research paper easily,1,positive
+1308,tea served lukewarm,1,negative
+1309,practice session improved confidence,1,positive
+1310,document verification process smooth,1,positive
+1311,portal load fine laptop,1,positive
+1312,washroom need better ventilation,1,negative
+1313,library peaceful exam,1,positive
+1314,lunch tasted average today,1,neutral
+1315,teacher explained doubt patiently,1,positive
+1316,office response slower expected,1,negative
+1317,website navigation feel intuitive,1,positive
+1318,desk scratch,1,neutral
+1319,library collection updated regularly,1,positive
+1320,snack counter service quick,1,positive
+1321,assignment helped revise concept,1,positive
+1322,staff misplaced request slip,1,negative
+1323,portal rarely show login error,1,positive
+1324,classroom lighting feel dull,1,negative
+1325,library staff assisted politely,1,positive
+1326,food portion size decent,1,neutral
+1327,faculty gave practical example,1,positive
+1328,office queue manageable today,1,neutral
+1329,website performance feel stable,1,positive
+1330,lab computer need updating,1,negative
+1331,reading area comfortable,1,positive
+1332,curry tasted fresh today,1,positive
+1333,class discussion interactive,1,positive
+1334,delayed form approval,1,negative
+1335,portal design feel modern,1,positive
+1336,water cooler empty afternoon,1,negative
+1337,library rule clearly displayed,1,positive
+1338,juice tasted slightly sour,1,negative
+1339,extra tutorial helpful,1,positive
+1340,office staff handled request properly,1,positive
+1341,website save progress automatically,1,positive
+1342,parking space feel limited,1,neutral
+1343,library seating sufficient,1,positive
+1344,meal tasted good today,1,positive
+1345,teacher clarified complex topic well,1,positive
+1346,document processing confusing,1,negative
+1347,portal rarely crash,1,positive
+1348,corridor light working,1,negative
+1349,library environment support concentration,1,positive
+1350,snack option limited today,1,neutral
+1351,weekly test improved understanding,1,positive
+1352,staff responded calmly concern,1,positive
+1353,website layout feel organized,1,positive
+1354,classroom ventilation could improve,1,neutral
+1355,found reference material quickly,1,positive
+1356,rice undercooked today,1,negative
+1357,faculty interaction encouraging,1,positive
+1358,office seemed overcrowded,1,neutral
+1359,portal search result accurate,1,positive
+1360,restroom floor slippery,1,negative
+1361,library clean quiet,1,positive
+1362,lunch menu felt repetitive,1,neutral
+1363,assignment feedback constructive,1,positive
+1364,processed request quickly,1,positive
+1365,website work smoothly overall,1,positive
+1366,lab chair feel uncomfortable,1,negative
+1367,library book issue process fast,1,positive
+1368,tea tasted good today,1,positive
+1369,practice problem improved clarity,1,positive
+1370,office response time long,1,negative
+1371,portal keep data secure,1,positive
+1372,classroom board faded,1,neutral
+1373,library lighting bright enough,1,positive
+1374,snack tasted stale evening,1,negative
+1375,extra revision class useful,1,positive
+1376,staff provided clear instruction,1,positive
+1377,website dashboard informative,1,positive
+1378,ceiling fan need maintenance,1,neutral
+1379,library atmosphere feel calm,1,positive
+1380,food served hot today,1,positive
+1381,teacher addressed doubt clearly,1,positive
+1382,office closed time,1,negative
+1383,portal speed improved recently,1,positive
+1384,water tap leaking near entrance,1,negative
+1385,library resource sufficient exam,1,positive
+1386,juice tasted refreshing,1,positive
+1387,class note easy follow,1,positive
+1388,queue moved slowly counter,1,negative
+1389,website interface feel user friendly,1,positive
+1390,parking area need better marking,1,neutral
+1391,library study zone well arranged,1,positive
+1392,curry tasted average today,1,neutral
+1393,faculty explained topic clearly,1,positive
+1394,delayed certificate issue,1,negative
+1395,portal work fine mobile,1,positive
+1396,bench feel unstable,1,negative
+1397,library staff cooperative,1,positive
+1398,lunch combo satisfying,1,positive
+1399,revision exercise improved confidence,1,positive
+1400,office handled document efficiently,1,positive
+1401,website load quickly even peak hour,1,positive
+1402,classroom feel warm afternoon,1,neutral
+1403,library enough copy main textbook,1,positive
+1404,canteen chapati hard today,1,negative
+1405,lecture structured well,1,positive
+1406,office staff clarified doubt patiently,1,positive
+1407,portal design feel slightly outdated,1,neutral
+1408,light flickering hallway,1,negative
+1409,library reading area comfortable,1,positive
+1410,snack tasted fresh evening,1,positive
+1411,assignment helped understand topic better,1,positive
+1412,document approval took longer expected,1,negative
+1413,website search option work efficiently,1,positive
+1414,washroom cleanliness average today,1,neutral
+1415,library staff friendly helpful,1,positive
+1416,rice tasted slightly stale,1,negative
+1417,faculty encouraged interactive discussion,1,positive
+1418,office counter crowded,1,neutral
+1419,portal save change without error,1,positive
+1420,lab equipment need servicing,1,negative
+1421,found reference book without difficulty,1,positive
+1422,tea tasted good fresh,1,positive
+1423,revision worksheet useful,1,positive
+1424,misplaced submitted document,1,negative
+1425,website layout feel simple navigate,1,positive
+1426,parking area feel cramped morning hour,1,neutral
+1427,library quiet study hour,1,positive
+1428,food portion size smaller usual,1,negative
+1429,teacher explained example clearly,1,positive
+1430,office processed application smoothly,1,positive
+1431,portal rarely log unexpectedly,1,positive
+1432,classroom desk feel shaky,1,negative
+1433,library arrangement make book easy find,1,positive
+1434,juice tasted refreshing today,1,positive
+1435,weekly test improved performance,1,positive
+1436,staff responded late query,1,negative
+1437,website performance improved recently,1,positive
+1438,restroom floor wet morning,1,negative
+1439,library study table spacious,1,positive
+1440,snack counter service average,1,neutral
+1441,class discussion engaging,1,positive
+1442,office staff seemed stressed today,1,neutral
+1443,portal dashboard display information clearly,1,positive
+1444,corridor lighting need improvement,1,neutral
+1445,library provides peaceful environment,1,positive
+1446,meal tasted good overall,1,positive
+1447,faculty cleared doubt effectively,1,positive
+1448,approval process felt confusing,1,negative
+1449,website work smoothly mobile device,1,positive
+1450,water cooler working properly,1,negative
+1451,library collection well maintained,1,positive
+1452,tea slightly cold today,1,negative
+1453,extra tutorial clarified difficult topic,1,positive
+1454,office queue moved faster usual,1,positive
+1455,portal interface feel clean modern,1,positive
+1456,switch functioning,1,negative
+1457,library noise level minimal,1,positive
+1458,lunch menu felt repetitive week,1,neutral
+1459,teacher provided constructive feedback,1,positive
+1460,delayed issuing id card,1,negative
+1461,website login seamless today,1,positive
+1462,classroom ventilation sufficient,1,positive
+1463,found required journal easily,1,positive
+1464,snack tasted slightly oily,1,neutral
+1465,practice session improved clarity,1,positive
+1466,office staff handled request professionally,1,positive
+1467,portal update timely,1,positive
+1468,lab chair need repair,1,negative
+1469,library rule clearly displayed,1,positive
+1470,curry tasted average today,1,neutral
+1471,assignment improved understanding,1,positive
+1472,office response time slow,1,negative
+1473,website navigation feel intuitive,1,positive
+1474,parking area need better organization,1,neutral
+1475,library seating comfortable,1,positive
+1476,evening snack fresh,1,positive
+1477,faculty explained complex topic clearly,1,positive
+1478,misplaced application copy,1,negative
+1479,portal search result accurate,1,positive
+1480,classroom board faded,1,neutral
+1481,library environment support concentration,1,positive
+1482,food served hot today,1,positive
+1483,revision session helpful,1,positive
+1484,office closed earlier expected,1,negative
+1485,website rarely crash,1,positive
+1486,water tap leaking near lab,1,negative
+1487,library staff guided properly,1,positive
+1488,tea tasted bland morning,1,negative
+1489,weekly quiz boosted confidence,1,positive
+1490,staff resolved issue promptly,1,positive
+1491,portal keep profile updated correctly,1,positive
+1492,bench need replacement,1,neutral
+1493,library lighting bright clear,1,positive
+1494,lunch combo satisfying today,1,positive
+1495,teacher encouraged active participation,1,positive
+1496,document verification delayed,1,negative
+1497,website design feel user friendly,1,positive
+1498,restroom maintenance need attention,1,negative
+1499,library atmosphere feel calm evening,1,positive
+1500,canteen service quick today,1,positive
+1501,academic session today engaging,1,positive
+1502,office staff took long respond,1,negative
+1503,website dashboard feel smooth use,1,positive
+1504,classroom chair slightly uncomfortable,1,neutral
+1505,library updated edition available,1,positive
+1506,canteen noodle undercooked,1,negative
+1507,faculty explained topic step step,1,positive
+1508,administration handled request efficiently,1,positive
+1509,portal load quickly device,1,positive
+1510,washroom area need better cleaning,1,negative
+1511,library reading space feel calm,1,positive
+1512,tea tasted average today,1,neutral
+1513,assignment improved understanding,1,positive
+1514,misplaced submitted form,1,negative
+1515,website navigation clear simple,1,positive
+1516,lab computer outdated,1,negative
+1517,found required book without delay,1,positive
+1518,lunch served fresh hot,1,positive
+1519,revision class clarified doubt,1,positive
+1520,office queue manageable today,1,neutral
+1521,portal search work accurately,1,positive
+1522,corridor light dim,1,neutral
+1523,library staff cooperative,1,positive
+1524,food portion felt small today,1,negative
+1525,teacher encouraged interactive learning,1,positive
+1526,administration process felt smooth,1,positive
+1527,website rarely show error,1,positive
+1528,water cooler empty afternoon,1,negative
+1529,library seating arrangement good,1,positive
+1530,snack option felt limited,1,neutral
+1531,practice worksheet helpful,1,positive
+1532,staff delayed issuing certificate,1,negative
+1533,portal performance stable,1,positive
+1534,parking area feel congested,1,neutral
+1535,library environment support focus,1,positive
+1536,juice tasted slightly sour,1,negative
+1537,faculty gave clear explanation,1,positive
+1538,office counter seemed overcrowded,1,neutral
+1539,website design look modern,1,positive
+1540,restroom floor wet,1,negative
+1541,library collection diverse,1,positive
+1542,meal tasted good overall,1,positive
+1543,weekly test improved confidence,1,positive
+1544,responded late query,1,negative
+1545,portal update appear time,1,positive
+1546,classroom board need replacement,1,negative
+1547,library noise level minimal,1,positive
+1548,tea slightly cold today,1,negative
+1549,assignment feedback constructive,1,positive
+1550,office handled document properly,1,positive
+1551,website work smoothly mobile,1,positive
+1552,ceiling fan make noise class,1,neutral
+1553,library study table spacious,1,positive
+1554,lunch menu felt repetitive week,1,neutral
+1555,teacher clarified difficult concept,1,positive
+1556,document approval delayed,1,negative
+1557,portal layout feel organized,1,positive
+1558,lab chair need maintenance,1,negative
+1559,library staff guided kindly,1,positive
+1560,curry tasted fresh today,1,positive
+1561,extra tutorial helped revision,1,positive
+1562,office seemed understaffed,1,neutral
+1563,website search bar work quickly,1,positive
+1564,water tap leaking near washroom,1,negative
+1565,library lighting bright enough,1,positive
+1566,snack counter service slow,1,negative
+1567,class discussion productive,1,positive
+1568,processed application quickly,1,positive
+1569,portal rarely log unexpectedly,1,positive
+1570,classroom ventilation could improve,1,neutral
+1571,library book return process simple,1,positive
+1572,food tasted slightly bland today,1,neutral
+1573,faculty interaction motivating,1,positive
+1574,office closed working hour ended,1,negative
+1575,website speed improved recently,1,positive
+1576,desk feel unstable,1,negative
+1577,library resource sufficient exam,1,positive
+1578,lunch combo satisfying,1,positive
+1579,practice problem improved clarity,1,positive
+1580,queue moved slowly counter,1,negative
+1581,portal interface feel user friendly,1,positive
+1582,parking area need better marking,1,neutral
+1583,library atmosphere feel peaceful,1,positive
+1584,juice tasted refreshing today,1,positive
+1585,teacher provided useful example,1,positive
+1586,misplaced request slip,1,negative
+1587,website run without glitch,1,positive
+1588,restroom cleanliness average,1,neutral
+1589,library arrangement make book easy find,1,positive
+1590,tea quality decent today,1,neutral
+1591,revision session beneficial,1,positive
+1592,office response felt slow,1,negative
+1593,portal dashboard display data clearly,1,positive
+1594,corridor lighting need attention,1,neutral
+1595,library seating feel comfortable,1,positive
+1596,food served hot fresh,1,positive
+1597,faculty cleared doubt effectively,1,positive
+1598,document verification process confusing,1,negative
+1599,website login seamless today,1,positive
+1600,water cooler functioning properly,1,positive
+1601,library study environment feel comfortable,1,positive
+1602,canteen food salty today,1,negative
+1603,lecture slightly rushed,1,neutral
+1604,office staff guided clearly,1,positive
+1605,website load quickly without error,1,positive
+1606,classroom light working,1,negative
+1607,library enough seating space,1,positive
+1608,tea tasted fresh morning,1,positive
+1609,assignment helped practice well,1,positive
+1610,document approval took longer usual,1,negative
+1611,portal interface feel smooth,1,positive
+1612,washroom cleanliness need improvement,1,negative
+1613,found reference material easily,1,positive
+1614,snack counter service average,1,neutral
+1615,faculty explained concept patiently,1,positive
+1616,office seemed overcrowded today,1,neutral
+1617,website search option work efficiently,1,positive
+1618,parking space feel limited morning,1,neutral
+1619,library staff supportive,1,positive
+1620,lunch tasted slightly bland,1,neutral
+1621,class discussion improved understanding,1,positive
+1622,misplaced submitted document,1,negative
+1623,portal dashboard easy navigate,1,positive
+1624,desk feel unstable,1,negative
+1625,library lighting sufficient studying,1,positive
+1626,curry tasted good today,1,positive
+1627,revision class clarified doubt,1,positive
+1628,office processed form quickly,1,positive
+1629,website performance improved,1,positive
+1630,lab computer run slowly,1,negative
+1631,library environment calm quiet,1,positive
+1632,food portion size felt small,1,negative
+1633,teacher encouraged active participation,1,positive
+1634,queue moved slowly office counter,1,negative
+1635,portal rarely crash,1,positive
+1636,restroom floor wet today,1,negative
+1637,library arrangement make book easy find,1,positive
+1638,juice tasted refreshing,1,positive
+1639,weekly quiz boosted confidence,1,positive
+1640,office response time acceptable,1,neutral
+1641,website design feel modern,1,positive
+1642,corridor light dim,1,neutral
+1643,library provides updated edition,1,positive
+1644,snack tasted slightly stale,1,negative
+1645,practice worksheet helpful,1,positive
+1646,delayed issuing certificate,1,negative
+1647,portal save data correctly,1,positive
+1648,water cooler empty afternoon,1,negative
+1649,library study table spacious,1,positive
+1650,lunch menu felt repetitive,1,neutral
+1651,faculty gave clear explanation,1,positive
+1652,office staff handled request professionally,1,positive
+1653,website login seamless,1,positive
+1654,ceiling fan make noise class,1,neutral
+1655,library noise level minimal,1,positive
+1656,tea served cold today,1,negative
+1657,extra tutorial improved clarity,1,positive
+1658,office seemed understaffed,1,neutral
+1659,portal search result accurate,1,positive
+1660,classroom ventilation need improvement,1,negative
+1661,library staff guided kindly,1,positive
+1662,food tasted good overall,1,positive
+1663,assignment easy follow,1,positive
+1664,document verification delayed,1,negative
+1665,website run smoothly mobile,1,positive
+1666,bench need replacement,1,neutral
+1667,library collection diverse,1,positive
+1668,snack counter felt crowded,1,neutral
+1669,teacher clarified complex topic well,1,positive
+1670,responded late email,1,negative
+1671,portal layout feel organized,1,positive
+1672,lab chair feel uncomfortable,1,negative
+1673,library reading area feel peaceful,1,positive
+1674,lunch combo satisfying,1,positive
+1675,revision exercise improved understanding,1,positive
+1676,office closed earlier scheduled,1,negative
+1677,website speed satisfactory,1,positive
+1678,water tap leaking near washroom,1,negative
+1679,library rule clearly displayed,1,positive
+1680,tea tasted average today,1,neutral
+1681,faculty interaction motivating,1,positive
+1682,queue counter manageable,1,neutral
+1683,portal update timely,1,positive
+1684,classroom board faded,1,neutral
+1685,library resource sufficient exam,1,positive
+1686,juice tasted slightly sour,1,negative
+1687,practice test useful,1,positive
+1688,office handled document efficiently,1,positive
+1689,website rarely log unexpectedly,1,positive
+1690,parking area need better organization,1,neutral
+1691,library atmosphere support concentration,1,positive
+1692,food oily today,1,negative
+1693,teacher provided constructive feedback,1,positive
+1694,approval process felt confusing,1,negative
+1695,portal interface feel user friendly,1,positive
+1696,restroom cleanliness average,1,negative
+1697,library book return process efficient,1,positive
+1698,evening snack tasted good,1,positive
+1699,extra practice session improved confidence,1,positive
+1700,office staff polite helpful,1,positive
+1701,website load page without delay,1,positive
+1702,classroom projector working,1,negative
+1703,library seating arrangement comfortable,1,positive
+1704,breakfast tasted fresh warm,1,positive
+1705,faculty cleared doubt effectively,1,positive
+1706,office response slightly delayed,1,neutral
+1707,portal notification clear timely,1,positive
+1708,classroom window broken,1,negative
+1709,library digital resource helpful,1,positive
+1710,snack quality felt average today,1,neutral
+1711,assignment encouraged critical thinking,1,positive
+1712,staff misplaced id application,1,negative
+1713,website interface visually appealing,1,positive
+1714,air conditioning functioning properly,1,negative
+1715,library catalog system work efficiently,1,positive
+1716,lunch well prepared tasty,1,positive
+1717,teacher provided useful example,1,positive
+1718,office staff answered query politely,1,positive
+1719,portal login process quick,1,positive
+1720,classroom chair damaged,1,negative
+1721,library atmosphere feel welcoming,1,positive
+1722,tea slightly sweet,1,neutral
+1723,practical session informative,1,positive
+1724,administrative procedure felt complicated,1,negative
+1725,website rarely show error message,1,positive
+1726,water supply interrupted briefly,1,neutral
+1727,library staff maintain discipline well,1,positive
+1728,food service quick today,1,positive
+1729,course material well structured,1,positive
+1730,office took time verify record,1,neutral
+1731,portal design feel intuitive,1,positive
+1732,lab equipment need maintenance,1,negative
+1733,library study room well maintained,1,positive
+1734,snack tasted delicious today,1,positive
+1735,teacher explained topic clearly,1,positive
+1736,office queue system work smoothly,1,positive
+1737,website update reflect immediately,1,positive
+1738,washroom door need repair,1,negative
+1739,library provides peaceful study zone,1,positive
+1740,lunch felt moderately satisfying,1,neutral
+1741,mock test improved exam readiness,1,positive
+1742,office staff seemed unorganized today,1,negative
+1743,portal accessibility reliable,1,positive
+1744,fan rotating properly,1,neutral
+1745,library shelf neatly arranged,1,positive
+1746,beverage served right temperature,1,positive
+1747,faculty provided timely feedback,1,positive
+1748,document submission process smooth,1,positive
+1749,website dashboard load quickly,1,positive
+1750,classroom cleanliness could better,1,negative
+1751,library provides distraction free environment,1,positive
+1752,breakfast option felt limited today,1,neutral
+1753,faculty explained topic depth,1,positive
+1754,office processing time reasonable,1,neutral
+1755,website interface easy understand,1,positive
+1756,classroom wall need repainting,1,neutral
+1757,library reference section well organized,1,positive
+1758,food tasted undercooked today,1,negative
+1759,group discussion enhanced learning,1,positive
+1760,administrative support helpful,1,positive
+1761,portal performance stable,1,positive
+1762,restroom hygiene satisfactory,1,positive
+1763,library provides enough charging point,1,positive
+1764,snack service bit slow,1,neutral
+1765,teacher used interactive teaching method,1,positive
+1766,office staff unclear instruction,1,negative
+1767,website load properly browser,1,positive
+1768,desk rough edge,1,negative
+1769,library study cabin comfortable,1,positive
+1770,lunch tasted average today,1,neutral
+1771,assignment challenging useful,1,positive
+1772,document approval completed time,1,positive
+1773,portal navigation user friendly,1,positive
+1774,classroom lighting bright clear,1,positive
+1775,library atmosphere encourages focus,1,positive
+1776,tea strong flavor today,1,neutral
+1777,faculty resolved doubt patiently,1,positive
+1778,office staff responded promptly,1,positive
+1779,website rarely experience downtime,1,positive
+1780,water dispenser functioning,1,negative
+1781,library book arrangement systematic,1,positive
+1782,food presentation looked appealing,1,positive
+1783,practice problem improved skill,1,positive
+1784,administrative process slightly confusing,1,neutral
+1785,portal interface update smooth,1,positive
+1786,classroom bench uncomfortable,1,negative
+1787,library offer wide range journal,1,positive
+1788,snack tasted fresh crispy,1,positive
+1789,teacher encouraged question class,1,positive
+1790,office delayed issuing id card,1,negative
+1791,website security feel reliable,1,positive
+1792,parking area clean today,1,positive
+1793,library staff cooperative,1,positive
+1794,lunch slightly overcooked,1,neutral
+1795,extra class clarified key concept,1,positive
+1796,office staff handled query efficiently,1,positive
+1797,portal load quickly even peak hour,1,positive
+1798,classroom window allow proper ventilation,1,positive
+1799,library resource updated regularly,1,positive
+1800,canteen service satisfactory overall,1,positive
+1801,faculty explained concept real life example,1,positive
+1802,office staff seemed confused procedure,1,negative
+1803,website load smoothly phone,1,positive
+1804,classroom switch faulty,1,negative
+1805,library study area well ventilated,1,positive
+1806,breakfast tasted delicious today,1,positive
+1807,assignment improved analytical skill,1,positive
+1808,document processing slower expected,1,neutral
+1809,portal notification easy understand,1,positive
+1810,washroom mirror clean,1,negative
+1811,library silence policy maintained properly,1,positive
+1812,food served cold afternoon,1,negative
+1813,teacher provided helpful study tip,1,positive
+1814,office staff resolved issue quickly,1,positive
+1815,website rarely show loading error,1,positive
+1816,classroom door make noise,1,neutral
+1817,library computer function properly,1,positive
+1818,snack tasted average today,1,neutral
+1819,class activity increased engagement,1,positive
+1820,administrative queue long today,1,negative
+1821,portal layout look clean simple,1,positive
+1822,lab equipment work efficiently,1,positive
+1823,library collection cover major subject,1,positive
+1824,lunch portion size adequate,1,positive
+1825,faculty provided detailed explanation,1,positive
+1826,office instruction clear direct,1,positive
+1827,website performance consistent,1,positive
+1828,bench feel slightly damaged,1,neutral
+1829,library offer peaceful reading corner,1,positive
+1830,tea tasted slightly bitter,1,negative
+1831,practice session well organized,1,positive
+1832,office delayed updating record,1,negative
+1833,portal search feature work accurately,1,positive
+1834,classroom cleanliness satisfactory,1,positive
+1835,library staff assist student promptly,1,positive
+1836,snack counter well managed,1,positive
+1837,teacher encouraged independent thinking,1,positive
+1838,administrative approval processed smoothly,1,positive
+1839,website interface feel responsive,1,positive
+1840,water cooler need maintenance,1,negative
+1841,library seating capacity sufficient,1,positive
+1842,food quality decent today,1,neutral
+1843,assignment aligned well syllabus,1,positive
+1844,office handled documentation professionally,1,positive
+1845,portal rarely freeze use,1,positive
+1846,classroom board need cleaning,1,neutral
+1847,library environment feel motivating,1,positive
+1848,beverage tasted refreshing,1,positive
+1849,teacher gave constructive suggestion,1,positive
+1850,office staff courteous efficient,1,positive
+1851,website update load without refreshing issue,1,positive
+1852,classroom light flicker occasionally,1,neutral
+1853,library study environment support productivity,1,positive
+1854,breakfast tasted slightly bland today,1,neutral
+1855,faculty provided real world case study,1,positive
+1856,office delayed responding application,1,negative
+1857,portal interface work smoothly exam,1,positive
+1858,washroom cleanliness well maintained,1,positive
+1859,library book easy locate,1,positive
+1860,snack overcooked evening,1,negative
+1861,teacher explained difficult topic clearly,1,positive
+1862,administrative process felt well organized,1,positive
+1863,website security feature seem reliable,1,positive
+1864,desk slightly uneven,1,neutral
+1865,library provides helpful study guide,1,positive
+1866,food tasted fresh flavorful,1,positive
+1867,assignment improved problem solving skill,1,positive
+1868,office staff seemed inattentive today,1,negative
+1869,portal login authentication quick,1,positive
+1870,lab air conditioning need servicing,1,negative
+1871,library atmosphere suitable exam preparation,1,positive
+1872,tea tasted perfect today,1,positive
+1873,faculty encouraged interactive session,1,positive
+1874,office clarified doubt patiently,1,positive
+1875,website navigation simple clear,1,positive
+1876,classroom seating feel cramped,1,negative
+1877,library reading material updated regularly,1,positive
+1878,lunch menu good variety,1,positive
+1879,teacher provided timely assignment feedback,1,positive
+1880,administrative response slightly slow,1,neutral
+1881,portal rarely experience downtime,1,positive
+1882,classroom fan need repair,1,negative
+1883,library layout make studying convenient,1,positive
+1884,snack portion size small,1,negative
+1885,practice exercise beneficial,1,positive
+1886,office handled paperwork efficiently,1,positive
+1887,website work well even slow internet,1,positive
+1888,parking area felt overcrowded today,1,neutral
+1889,library staff maintain order properly,1,positive
+1890,food slightly spicy,1,neutral
+1891,teacher motivated student effectively,1,positive
+1892,administrative approval delayed,1,negative
+1893,portal dashboard informative,1,positive
+1894,restroom facility need better ventilation,1,negative
+1895,library provides enough reference copy,1,positive
+1896,evening snack fresh tasty,1,positive
+1897,assignment well structured,1,positive
+1898,office staff supportive polite,1,positive
+1899,website performance remains consistent,1,positive
+1900,classroom environment feel comfortable,1,positive
+1901,library seating comfortable long study hour,1,positive
+1902,breakfast served late today,1,negative
+1903,faculty explained concept clearly,1,positive
+1904,office staff requested additional document unnecessarily,1,negative
+1905,website homepage load quickly,1,positive
+1906,classroom desk scratched,1,neutral
+1907,library maintains proper silence exam,1,positive
+1908,snack tasted fresh warm,1,positive
+1909,assignment relevant syllabus,1,positive
+1910,administrative counter well managed,1,positive
+1911,portal work efficiently without lag,1,positive
+1912,washroom soap dispenser empty,1,negative
+1913,library digital access convenient,1,positive
+1914,lunch felt slightly oily,1,neutral
+1915,teacher provided helpful revision note,1,positive
+1916,office took time completed process properly,1,neutral
+1917,website interface look clean organized,1,positive
+1918,classroom ventilation adequate,1,positive
+1919,library book issue process smooth,1,positive
+1920,tea tasted average afternoon,1,neutral
+1921,faculty encouraged teamwork activity,1,positive
+1922,administrative staff seemed impatient today,1,negative
+1923,portal update reflected instantly,1,positive
+1924,corridor area need better lighting,1,neutral
+1925,library provides calm learning space,1,positive
+1926,food quality improved recently,1,positive
+1927,practice session clarified important topic,1,positive
+1928,office handled certificate request efficiently,1,positive
+1929,website rarely log unexpectedly,1,positive
+1930,lab system require software update,1,neutral
+1931,library arrangement help quick book search,1,positive
+1932,snack salty today,1,negative
+1933,teacher provided constructive criticism,1,positive
+1934,administrative process felt lengthy,1,negative
+1935,portal accessible time,1,positive
+1936,restroom cleanliness satisfactory today,1,positive
+1937,library sufficient reference material,1,positive
+1938,lunch well cooked tasty,1,positive
+1939,assignment encouraged deeper understanding,1,positive
+1940,office staff cooperative helpful,1,positive
+1941,website search result load instantly,1,positive
+1942,classroom chair feel unstable,1,negative
+1943,library study cabin peaceful,1,positive
+1944,beverage slightly warm,1,neutral
+1945,teacher explained exam pattern clearly,1,positive
+1946,administrative helpdesk resolved issue quickly,1,positive
+1947,portal dashboard easy access,1,positive
+1948,parking space allocation need improvement,1,neutral
+1949,library staff friendly supportive,1,positive
+1950,canteen service efficient today,1,positive
+1951,faculty provided clear instruction project,1,positive
+1952,office response time slower usual,1,negative
+1953,website run smoothly without glitch,1,positive
+1954,classroom board clearly visible,1,neutral
+1955,library atmosphere ideal focused study,1,positive
+1956,breakfast tasted fresh satisfying,1,positive
+1957,assignment helped reinforce key concept,1,positive
+1958,administrative staff seemed overwhelmed today,1,neutral
+1959,portal login quick secure,1,positive
+1960,washroom tap need repair,1,negative
+1961,library provides quiet zone study,1,positive
+1962,snack quality improved recently,1,positive
+1963,teacher addressed question thoroughly,1,positive
+1964,office handled request without delay,1,positive
+1965,website layout intuitive simple,1,positive
+1966,classroom air circulation feel insufficient,1,negative
+1967,library resource helpful research,1,positive
+1968,lunch menu offered good variety today,1,positive
+1969,practice assignment boosted confidence,1,positive
+1970,administrative process straightforward,1,positive
+1971,portal rarely experience downtime,1,positive
+1972,classroom furniture need replacement,1,neutral
+1973,library staff maintain discipline effectively,1,positive
+1974,tea tasted slightly diluted,1,neutral
+1975,faculty feedback constructive helpful,1,positive
+1976,office misplaced form initially,1,negative
+1977,website performs well even peak hour,1,positive
+1978,restroom hygiene expectation,1,negative
+1979,library catalog search work accurately,1,positive
+1980,food served right temperature,1,positive
+1981,teacher encouraged participation class,1,positive
+1982,administrative queue moved quickly,1,positive
+1983,portal interface feel modern responsive,1,positive
+1984,classroom light dim,1,neutral
+1985,library study room well maintained,1,positive
+1986,snack tasted slightly stale today,1,negative
+1987,assignment aligned well exam topic,1,positive
+1988,office staff provided accurate information,1,positive
+1989,website page load consistently fast,1,positive
+1990,parking area feel congested morning,1,neutral
+1991,library provides adequate seating capacity,1,positive
+1992,lunch slightly underseasoned,1,neutral
+1993,teacher clarified complex concept clearly,1,positive
+1994,administrative staff responded professionally,1,positive
+1995,portal update reflected without delay,1,positive
+1996,classroom desk unstable,1,negative
+1997,library environment support effective learning,1,positive
+1998,beverage tasted refreshing today,1,positive
+1999,practice session improved exam preparation,1,positive
+2000,office staff polite efficient,1,positive
+2001,library feel quiet morning,1,positive
+2002,shelf look dusty,1,negative
+2003,reading space feel okay,1,neutral
+2004,found past paper easily,1,positive
+2005,book return counter slow,1,negative
+2006,library temperature feel normal,1,neutral
+2007,staff helped locate journal,1,positive
+2008,book missing label,1,negative
+2009,study desk feel comfortable,1,positive
+2010,noise level feel average,1,neutral
+2011,idli tasted soft fresh,1,positive
+2012,curry felt salty,1,negative
+2013,lunch rush feel normal,1,neutral
+2014,fruit juice refreshing,1,positive
+2015,roti felt hard,1,negative
+2016,counter speed feel okay,1,neutral
+2017,evening snack tasty,1,positive
+2018,tea tasted watery,1,negative
+2019,cold drink chilled well,1,positive
+2020,menu choice feel average,1,neutral
+2021,faculty explained concept clearly,1,positive
+2022,slide confusing today,1,negative
+2023,class flow feel normal,1,neutral
+2024,extra example helped understanding,1,positive
+2025,homework load feel heavy,1,negative
+2026,daily lesson feel okay,1,neutral
+2027,mock test helped preparation,1,positive
+2028,doubt session ended fast,1,negative
+2029,practice sheet useful,1,positive
+2030,topic coverage feel average,1,neutral
+2031,office staff guided well,1,positive
+2032,misplaced document,1,negative
+2033,waiting area feel normal,1,neutral
+2034,form got approved quickly,1,positive
+2035,stand queue long,1,negative
+2036,reception feel okay today,1,neutral
+2037,help desk solved issue,1,positive
+2038,response delayed,1,negative
+2039,process felt smooth,1,positive
+2040,office atmosphere feel average,1,neutral
+2041,website load faster,1,positive
+2042,login failed,1,negative
+2043,portal layout feel okay,1,neutral
+2044,profile updated successfully,1,positive
+2045,upload option crashed,1,negative
+2046,navigation feel normal,1,neutral
+2047,dashboard look clean,1,positive
+2048,search result took time,1,negative
+2049,notification useful,1,positive
+2050,font size feel average,1,neutral
+2051,classroom feel airy,1,positive
+2052,chair wobble,1,negative
+2053,hall temperature feel okay,1,neutral
+2054,garden area look neat,1,positive
+2055,washroom floor wet,1,negative
+2056,parking space feel normal,1,neutral
+2057,common area clean,1,positive
+2058,stair railing loose,1,negative
+2059,study room feel peaceful,1,positive
+2060,corridor noise feel average,1,neutral
+2061,found textbook quickly,1,positive
+2062,page torn,1,negative
+2063,reading light feel okay,1,neutral
+2064,library staff polite,1,positive
+2065,issue counter slow,1,negative
+2066,library crowd feel normal,1,neutral
+2067,masala chai tasted good,1,positive
+2068,rice felt undercooked,1,negative
+2069,breakfast feel average,1,neutral
+2070,noodle flavorful,1,positive
+2071,snack tasted stale,1,negative
+2072,juice counter feel okay,1,neutral
+2073,practice paper cleared doubt,1,positive
+2074,recorded lecture glitch,1,negative
+2075,group discussion feel normal,1,neutral
+2076,weekly quiz helped revision,1,positive
+2077,assignment instruction unclear,1,negative
+2078,study pace feel okay,1,neutral
+2079,processed request fast,1,positive
+2080,office opened late today,1,negative
+2081,help desk feel busy,1,neutral
+2082,reception guided properly,1,positive
+2083,reply came late,1,negative
+2084,office timing feel okay,1,neutral
+2085,fee receipt downloaded smoothly,1,positive
+2086,password reset failed,1,negative
+2087,portal speed feel average,1,neutral
+2088,website layout look clean,1,positive
+2089,page loading slow today,1,negative
+2090,button size feel okay,1,neutral
+2091,class board look neat,1,positive
+2092,washroom smell bad,1,negative
+2093,lab feel normal today,1,neutral
+2094,campus path look tidy,1,positive
+2095,plug point dead,1,negative
+2096,seating feel okay,1,neutral
+2097,library feel peaceful,1,positive
+2098,tea tasted weak,1,negative
+2099,extra class helped revision,1,positive
+2100,office staff looked tired,1,neutral
+2101,website navigation feel smooth,1,positive
+2102,login took long,1,negative
+2103,portal design feel average,1,neutral
+2104,dashboard stats loaded fast,1,positive
+2105,upload failed twice,1,negative
+2106,menu spacing feel okay,1,neutral
+2107,profile detail saved,1,positive
+2108,search bar lagged today,1,negative
+2109,alert showing properly,1,positive
+2110,color theme feel normal,1,neutral
+2111,classroom light bright,1,positive
+2112,ac cooling enough,1,negative
+2113,lab noise feel average,1,neutral
+2114,garden bench look clean,1,positive
+2115,water dispenser empty,1,negative
+2116,parking flow feel okay,1,neutral
+2117,study hall smell fresh,1,positive
+2118,door handle broken,1,negative
+2119,common area feel calm,1,positive
+2120,entrance crowd feel average,1,neutral
+2121,found reference book easily,1,positive
+2122,shelf overcrowded,1,negative
+2123,reading silence feel okay,1,neutral
+2124,library computer work fine,1,positive
+2125,printer ran ink,1,negative
+2126,desk spacing feel normal,1,neutral
+2127,study table comfortable,1,positive
+2128,barcode scanner slow today,1,negative
+2129,quiet zone help focus,1,positive
+2130,library temperature feel average,1,neutral
+2131,veg cutlet tasted nice,1,positive
+2132,tea cold,1,negative
+2133,lunch crowd feel okay,1,neutral
+2134,pasta well cooked,1,positive
+2135,gravy tasted bland,1,negative
+2136,tray return feel normal,1,neutral
+2137,fresh fruit served,1,positive
+2138,spoon missing,1,negative
+2139,coffee aroma good,1,positive
+2140,dining noise feel average,1,neutral
+2141,extra note helped revision,1,positive
+2142,lecture slide unclear,1,negative
+2143,class pace feel okay,1,neutral
+2144,practice session cleared doubt,1,positive
+2145,many assignment week,1,negative
+2146,daily lesson feel normal,1,neutral
+2147,faculty answered question well,1,positive
+2148,online test crashed,1,negative
+2149,mock exam boosted confidence,1,positive
+2150,syllabus progress feel average,1,neutral
+2151,reception handled request fast,1,positive
+2152,token number skipped,1,negative
+2153,waiting hall feel okay,1,neutral
+2154,staff explained rule clearly,1,positive
+2155,form approval delayed,1,negative
+2156,office seating feel normal,1,neutral
+2157,help desk resolved issue,1,positive
+2158,document misplaced,1,negative
+2159,process went smoothly today,1,positive
+2160,office mood feel average,1,neutral
+2161,website report generated quickly,1,positive
+2162,session expired suddenly,1,negative
+2163,scroll speed feel okay,1,neutral
+2164,homepage layout look clean,1,positive
+2165,attachment wouldnt open,1,negative
+2166,sidebar spacing feel normal,1,neutral
+2167,history tab useful,1,positive
+2168,auto logout happened,1,negative
+2169,profile alert helpful,1,positive
+2170,text size feel average,1,neutral
+2171,lab equipment arranged well,1,positive
+2172,ceiling paint peeling,1,negative
+2173,workshop noise feel normal,1,neutral
+2174,outdoor seating look neat,1,positive
+2175,drain smell near block,1,negative
+2176,walkway width feel okay,1,neutral
+2177,notice board updated,1,positive
+2178,emergency light broken,1,negative
+2179,study hall feel peaceful,1,positive
+2180,campus crowd feel average,1,neutral
+2181,found archive quickly,1,positive
+2182,cd scratched,1,negative
+2183,library layout feel okay,1,neutral
+2184,staff arranged book neatly,1,positive
+2185,issue slip missing,1,negative
+2186,desk height feel normal,1,neutral
+2187,veg pulao tasted good,1,positive
+2188,gravy watery,1,negative
+2189,lunch seating feel average,1,neutral
+2190,ice cream creamy,1,positive
+2191,chutney tasted sour,1,negative
+2192,tray counter feel okay,1,neutral
+2193,weekly recap helped revision,1,positive
+2194,recorded lecture missing slide,1,negative
+2195,group study feel normal,1,neutral
+2196,faculty feedback useful,1,positive
+2197,project guideline unclear,1,negative
+2198,study load feel okay,1,neutral
+2199,request closed successfully,1,positive
+2200,office phone reachable,1,negative
+2201,help counter feel calmer today,1,positive
+2202,staff took long respond,1,negative
+2203,waiting area feel average,1,neutral
+2204,guided step step,1,positive
+2205,file misplaced,1,negative
+2206,office environment feel okay,1,neutral
+2207,request got approved quickly,1,positive
+2208,counter closed early,1,negative
+2209,process felt smooth overall,1,positive
+2210,office crowd feel normal,1,neutral
+2211,dashboard load much faster,1,positive
+2212,login keep timing,1,negative
+2213,portal look feel average,1,neutral
+2214,profile page saved change,1,positive
+2215,verification mail delayed,1,negative
+2216,navigation feel okay,1,neutral
+2217,download worked without issue,1,positive
+2218,search result slow today,1,negative
+2219,notification panel useful,1,positive
+2220,font style feel normal,1,neutral
+2221,classroom feel bright today,1,positive
+2222,ceiling fan rattling,1,negative
+2223,hall temperature feel average,1,neutral
+2224,garden area look refreshing,1,positive
+2225,water cooler cooling,1,negative
+2226,parking space feel okay,1,neutral
+2227,common room look neat,1,positive
+2228,washroom lock broken,1,negative
+2229,study corner feel quiet,1,positive
+2230,entrance space feel normal,1,neutral
+2231,found required book quickly,1,positive
+2232,rack feel overcrowded,1,negative
+2233,reading area feel average,1,neutral
+2234,library staff helped patiently,1,positive
+2235,book scanner wasnt working,1,negative
+2236,desk spacing feel okay,1,neutral
+2237,reference section helpful,1,positive
+2238,ac cold near corner,1,negative
+2239,quiet zone help study,1,positive
+2240,library crowd feel normal,1,neutral
+2241,upma tasted fresh,1,positive
+2242,coffee felt bitter,1,negative
+2243,breakfast rush feel average,1,neutral
+2244,noodle nicely cooked,1,positive
+2245,sauce tasted strange,1,negative
+2246,serving speed feel okay,1,neutral
+2247,fruit cup fresh,1,positive
+2248,paper plate missing,1,negative
+2249,milkshake tasted good,1,positive
+2250,dining space feel normal,1,neutral
+2251,extra worksheet useful,1,positive
+2252,slide hard read,1,negative
+2253,class engagement feel average,1,neutral
+2254,practice problem helped lot,1,positive
+2255,assignment deadline tight,1,negative
+2256,lesson pace feel okay,1,neutral
+2257,faculty explained doubt clearly,1,positive
+2258,online quiz didnt submit,1,negative
+2259,mock paper improved confidence,1,positive
+2260,syllabus coverage feel normal,1,neutral
+2261,reception staff polite,1,positive
+2262,approval took longer expected,1,negative
+2263,help desk feel average,1,neutral
+2264,clarified query,1,positive
+2265,token system confusing today,1,negative
+2266,office seating feel okay,1,neutral
+2267,request handled smoothly,1,positive
+2268,document misplaced,1,negative
+2269,process finished quickly,1,positive
+2270,office noise feel average,1,neutral
+2271,website homepage load fast,1,positive
+2272,session expired suddenly,1,negative
+2273,portal scrolling feel normal,1,neutral
+2274,report download worked fine,1,positive
+2275,attachment upload failed,1,negative
+2276,sidebar layout feel okay,1,neutral
+2277,profile alert helpful,1,positive
+2278,auto logout happened,1,negative
+2279,dashboard look clean,1,positive
+2280,button size feel average,1,neutral
+2281,lab bench look clean,1,positive
+2282,switchboard sparked,1,negative
+2283,workshop feel normal,1,neutral
+2284,outdoor chair arranged well,1,positive
+2285,drain smell near entrance,1,negative
+2286,walkway feel okay,1,neutral
+2287,notice board updated today,1,positive
+2288,emergency exit blocked,1,negative
+2289,reading hall feel peaceful,1,positive
+2290,campus movement feel average,1,neutral
+2291,found journal easily,1,positive
+2292,book torn page,1,negative
+2293,library lighting feel normal,1,neutral
+2294,staff guided nicely,1,positive
+2295,issue counter slow,1,negative
+2296,table height feel okay,1,neutral
+2297,paneer roll tasted nice,1,positive
+2298,tea felt light,1,negative
+2299,lunch queue feel average,1,neutral
+2300,fruit juice refreshing,1,positive
+2301,samosa crispy hot,1,positive
+2302,rice felt half cooked,1,negative
+2303,snack counter feel average,1,neutral
+2304,cold coffee tasted great,1,positive
+2305,gravy thin,1,negative
+2306,table cleaning feel okay,1,neutral
+2307,fruit chaat fresh,1,positive
+2308,paper cup ran,1,negative
+2309,evening tea tasted nice,1,positive
+2310,dining area feel normal,1,neutral
+2311,library feel peaceful today,1,positive
+2312,shelf dusty,1,negative
+2313,reading light feel average,1,neutral
+2314,found reference book quickly,1,positive
+2315,book scanner slow,1,negative
+2316,desk spacing feel okay,1,neutral
+2317,staff helped locate material,1,positive
+2318,ac cold near window,1,negative
+2319,quiet corner help focus,1,positive
+2320,library crowd feel normal,1,neutral
+2321,faculty shared useful example,1,positive
+2322,slide hard follow,1,negative
+2323,class engagement feel average,1,neutral
+2324,tutorial session cleared doubt,1,positive
+2325,homework load feel heavy,1,negative
+2326,lesson pace feel okay,1,neutral
+2327,mock test helped revision,1,positive
+2328,recorded lecture glitch,1,negative
+2329,practice question improved confidence,1,positive
+2330,syllabus coverage feel normal,1,neutral
+2331,office staff guided properly,1,positive
+2332,misplaced file,1,negative
+2333,waiting area feel average,1,neutral
+2334,form approval quick,1,positive
+2335,wait long,1,negative
+2336,reception feel okay today,1,neutral
+2337,help desk solved issue,1,positive
+2338,response delayed,1,negative
+2339,process went smoothly,1,positive
+2340,office noise feel normal,1,neutral
+2341,website load faster,1,positive
+2342,login failed,1,negative
+2343,portal layout feel average,1,neutral
+2344,profile saved successfully,1,positive
+2345,upload option crashed,1,negative
+2346,navigation feel okay,1,neutral
+2347,dashboard look neat,1,positive
+2348,search took long,1,negative
+2349,notification helpful,1,positive
+2350,font clarity feel normal,1,neutral
+2351,classroom feel airy today,1,positive
+2352,desk wobble,1,negative
+2353,hall temperature feel average,1,neutral
+2354,garden look well maintained,1,positive
+2355,washroom tap leaking,1,negative
+2356,parking feel okay,1,neutral
+2357,common space look clean,1,positive
+2358,stair railing loose,1,negative
+2359,study room feel calm,1,positive
+2360,corridor noise feel normal,1,neutral
+2361,found textbook easily today,1,positive
+2362,page missing,1,negative
+2363,reading table feel average,1,neutral
+2364,library staff friendly,1,positive
+2365,issue counter slow,1,negative
+2366,library temperature feel okay,1,neutral
+2367,masala dosa tasted good,1,positive
+2368,coffee tasted burnt,1,negative
+2369,breakfast crowd feel normal,1,neutral
+2370,fried rice flavorful,1,positive
+2371,snack tasted stale,1,negative
+2372,juice counter feel okay,1,neutral
+2373,practice paper cleared doubt,1,positive
+2374,recorded class missing audio,1,negative
+2375,group study feel average,1,neutral
+2376,weekly quiz helped revision,1,positive
+2377,assignment instruction unclear,1,negative
+2378,study pace feel okay,1,neutral
+2379,processed request fast,1,positive
+2380,office opened late today,1,negative
+2381,help desk feel busy,1,neutral
+2382,reception guided properly,1,positive
+2383,reply came late,1,negative
+2384,office timing feel okay,1,neutral
+2385,fee receipt downloaded smoothly,1,positive
+2386,password reset failed,1,negative
+2387,portal speed feel average,1,neutral
+2388,website layout look clean,1,positive
+2389,page loading slow today,1,negative
+2390,button size feel okay,1,neutral
+2391,class board look neat,1,positive
+2392,washroom smell bad,1,negative
+2393,lab feel normal today,1,neutral
+2394,campus path look tidy,1,positive
+2395,plug point dead,1,negative
+2396,seating feel okay,1,neutral
+2397,library feel peaceful,1,positive
+2398,tea tasted weak,1,negative
+2399,extra class helped revision,1,positive
+2400,office staff looked tired,1,neutral
+2401,library feel calm evening,1,positive
+2402,book bent cover,1,negative
+2403,reading space feel average,1,neutral
+2404,found old question paper easily,1,positive
+2405,book issuing took longer today,1,negative
+2406,library temperature feel okay,1,neutral
+2407,staff helped find reference,1,positive
+2408,shelf look cluttered,1,negative
+2409,study desk feel comfortable,1,positive
+2410,noise level feel normal,1,neutral
+2411,vegetable puff tasted fresh,1,positive
+2412,tea light,1,negative
+2413,lunch crowd feel average,1,neutral
+2414,pasta nicely cooked,1,positive
+2415,dal tasted bland,1,negative
+2416,serving speed feel okay,1,neutral
+2417,evening snack crunchy,1,positive
+2418,rice felt dry,1,negative
+2419,cold coffee refreshing,1,positive
+2420,menu variety feel normal,1,neutral
+2421,faculty explained problem clearly,1,positive
+2422,slide confusing today,1,negative
+2423,class pace feel average,1,neutral
+2424,extra worksheet helped practice,1,positive
+2425,homework load feel heavy,1,negative
+2426,daily lesson feel okay,1,neutral
+2427,mock exam boosted confidence,1,positive
+2428,doubt session felt rushed,1,negative
+2429,practice paper useful,1,positive
+2430,topic coverage feel normal,1,neutral
+2431,office staff guided well,1,positive
+2432,misplaced form,1,negative
+2433,waiting area feel average,1,neutral
+2434,form approval quick,1,positive
+2435,stand line long,1,negative
+2436,reception feel okay today,1,neutral
+2437,help desk solved issue,1,positive
+2438,response delayed,1,negative
+2439,process felt smooth,1,positive
+2440,office atmosphere feel normal,1,neutral
+2441,website load faster,1,positive
+2442,login failed,1,negative
+2443,portal layout feel average,1,neutral
+2444,profile updated successfully,1,positive
+2445,upload option crashed,1,negative
+2446,navigation feel okay,1,neutral
+2447,dashboard look clean,1,positive
+2448,search took long,1,negative
+2449,notification useful,1,positive
+2450,font size feel normal,1,neutral
+2451,classroom feel airy today,1,positive
+2452,chair wobble,1,negative
+2453,hall temperature feel average,1,neutral
+2454,garden area look neat,1,positive
+2455,washroom floor wet,1,negative
+2456,parking space feel okay,1,neutral
+2457,common area clean,1,positive
+2458,stair railing loose,1,negative
+2459,study room feel peaceful,1,positive
+2460,corridor noise feel normal,1,neutral
+2461,found textbook quickly,1,positive
+2462,page torn,1,negative
+2463,reading light feel okay,1,neutral
+2464,library staff polite,1,positive
+2465,issue counter slow,1,negative
+2466,library crowd feel normal,1,neutral
+2467,masala chai tasted good,1,positive
+2468,rice felt undercooked,1,negative
+2469,breakfast feel average,1,neutral
+2470,noodle flavorful,1,positive
+2471,snack tasted stale,1,negative
+2472,juice counter feel okay,1,neutral
+2473,practice paper cleared doubt,1,positive
+2474,recorded lecture glitch,1,negative
+2475,group discussion feel normal,1,neutral
+2476,weekly quiz helped revision,1,positive
+2477,assignment instruction unclear,1,negative
+2478,study pace feel okay,1,neutral
+2479,processed request fast,1,positive
+2480,office opened late today,1,negative
+2481,help desk feel busy,1,neutral
+2482,reception guided properly,1,positive
+2483,reply came late,1,negative
+2484,office timing feel okay,1,neutral
+2485,fee receipt downloaded smoothly,1,positive
+2486,password reset failed,1,negative
+2487,portal speed feel average,1,neutral
+2488,website layout look clean,1,positive
+2489,page loading slow today,1,negative
+2490,button size feel okay,1,neutral
+2491,class board look neat,1,positive
+2492,washroom smell bad,1,negative
+2493,lab feel normal today,1,neutral
+2494,campus path look tidy,1,positive
+2495,plug point dead,1,negative
+2496,seating feel okay,1,neutral
+2497,library feel peaceful,1,positive
+2498,tea tasted weak,1,negative
+2499,extra class helped revision,1,positive
+2500,office staff looked tired,1,neutral
+2501,portal homepage loaded quickly,1,positive
+2502,upload page froze,1,negative
+2503,navigation feel average,1,neutral
+2504,payment confirmation arrived,1,positive
+2505,captcha keep looping,1,negative
+2506,menu layout feel okay,1,neutral
+2507,classroom window let fresh air,1,positive
+2508,projector cable missing,1,negative
+2509,hall space feel normal,1,neutral
+2510,garden bench look clean,1,positive
+2511,washroom mirror broken,1,negative
+2512,parking area feel okay,1,neutral
+2513,reference book helpful,1,positive
+2514,magazine outdated,1,negative
+2515,reading silence feel normal,1,neutral
+2516,staff issued book quickly,1,positive
+2517,barcode scanner failed,1,negative
+2518,study cubicle feel okay,1,neutral
+2519,breakfast dosa crispy,1,positive
+2520,sambar lacked salt,1,negative
+2521,queue length feel average,1,neutral
+2522,fresh fruit bowl nice,1,positive
+2523,milk tasted sour,1,negative
+2524,counter service feel okay,1,neutral
+2525,lecturer explained formula well,1,positive
+2526,online class lagged,1,negative
+2527,lesson pace feel average,1,neutral
+2528,extra note useful,1,positive
+2529,test syllabus unclear,1,negative
+2530,daily study feel okay,1,neutral
+2531,clerk handled paper fast,1,positive
+2532,file tracking failed,1,negative
+2533,waiting time feel normal,1,neutral
+2534,office guided politely,1,positive
+2535,token display working,1,negative
+2536,reception feel okay,1,neutral
+2537,website search worked fine,1,positive
+2538,page crashed upload,1,negative
+2539,dashboard feel average,1,neutral
+2540,profile saved successfully,1,positive
+2541,otp arrived late,1,negative
+2542,font size feel okay,1,neutral
+2543,class fan working well,1,positive
+2544,desk scratched,1,negative
+2545,room lighting feel normal,1,neutral
+2546,campus lawn look fresh,1,positive
+2547,water cooler leaking,1,negative
+2548,common space feel okay,1,neutral
+2549,found journal article easily,1,positive
+2550,book binding loose,1,negative
+2551,reading area feel average,1,neutral
+2552,library staff assisted well,1,positive
+2553,system login slow,1,negative
+2554,quiet zone feel okay,1,neutral
+2555,idli tasted soft,1,positive
+2556,gravy watery,1,negative
+2557,lunch rush feel normal,1,neutral
+2558,fresh lemonade good,1,positive
+2559,roti felt cold,1,negative
+2560,seating arrangement feel okay,1,neutral
+2561,practice session improved clarity,1,positive
+2562,video lecture buffered,1,negative
+2563,revision pace feel average,1,neutral
+2564,sample paper helped,1,positive
+2565,exam notice unclear,1,negative
+2566,course flow feel okay,1,neutral
+2567,office resolved query quickly,1,positive
+2568,printer ran ink,1,negative
+2569,counter traffic feel average,1,neutral
+2570,receptionist guided well,1,positive
+2571,email reply delayed,1,negative
+2572,office vibe feel okay,1,neutral
+2573,fee status updated online,1,positive
+2574,payment gateway error,1,negative
+2575,portal design feel normal,1,neutral
+2576,document uploaded fine,1,positive
+2577,session timed,1,negative
+2578,scroll speed feel okay,1,neutral
+2579,classroom smell fresh,1,positive
+2580,door hinge noisy,1,negative
+2581,lab layout feel average,1,neutral
+2582,garden walkway clean,1,positive
+2583,power socket loose,1,negative
+2584,rest area feel okay,1,neutral
+2585,library computer working,1,positive
+2586,chair broken,1,negative
+2587,study ambience feel normal,1,neutral
+2588,staff helped citation,1,positive
+2589,book return queue long,1,negative
+2590,reading desk feel okay,1,neutral
+2591,poha tasted fresh,1,positive
+2592,curry lacked flavor,1,negative
+2593,dinner crowd feel average,1,neutral
+2594,chocolate milk nice,1,positive
+2595,samosa oily,1,negative
+2596,tray counter feel okay,1,neutral
+2597,faculty answered question,1,positive
+2598,zoom audio cracked,1,negative
+2599,class engagement feel normal,1,neutral
+2600,revision class helped lot,1,positive
+2601,office staff handled query well,1,positive
+2602,form submission failed,1,negative
+2603,waiting line feel average,1,neutral
+2604,help desk guided clearly,1,positive
+2605,token system working,1,negative
+2606,office environment feel okay,1,neutral
+2607,website opened without lag,1,positive
+2608,upload button unresponsive,1,negative
+2609,dashboard layout feel normal,1,neutral
+2610,profile change saved,1,positive
+2611,verification email delayed,1,negative
+2612,menu icon look okay,1,neutral
+2613,classroom lighting improved,1,positive
+2614,broken switch near board,1,negative
+2615,hall airflow feel average,1,neutral
+2616,campus garden look fresh,1,positive
+2617,drinking water warm,1,negative
+2618,restroom feel okay,1,neutral
+2619,found required journal fast,1,positive
+2620,shelf dusty,1,negative
+2621,reading space feel normal,1,neutral
+2622,library assistant helped,1,positive
+2623,book return counter slow,1,negative
+2624,study table feel okay,1,neutral
+2625,upma tasted fresh,1,positive
+2626,tea tasted flat,1,negative
+2627,lunch seating feel average,1,neutral
+2628,fruit juice refreshing,1,positive
+2629,rice overcooked,1,negative
+2630,serving speed feel okay,1,neutral
+2631,concept explanation clear,1,positive
+2632,slide unreadable,1,negative
+2633,class interaction feel normal,1,neutral
+2634,extra example helped learning,1,positive
+2635,test date confusing,1,negative
+2636,homework load feel okay,1,neutral
+2637,counter staff polite,1,positive
+2638,document misplaced,1,negative
+2639,office crowd feel average,1,neutral
+2640,resolved issue fast,1,positive
+2641,system outage delayed work,1,negative
+2642,office timing feel okay,1,neutral
+2643,website search returned result,1,positive
+2644,payment page crashed,1,negative
+2645,portal color feel normal,1,neutral
+2646,notification arrived time,1,positive
+2647,page redirect failed,1,negative
+2648,text spacing feel okay,1,neutral
+2649,class bench look clean,1,positive
+2650,ceiling fan noisy,1,negative
+2651,lab temperature feel average,1,neutral
+2652,campus lighting improved,1,positive
+2653,power cut class,1,negative
+2654,walkway feel okay,1,neutral
+2655,library catalog easy use,1,positive
+2656,book outdated,1,negative
+2657,quiet zone feel normal,1,neutral
+2658,staff helped locate thesis,1,positive
+2659,computer froze,1,negative
+2660,reading chair feel okay,1,neutral
+2661,pongal tasted good,1,positive
+2662,curry spicy,1,negative
+2663,dinner rush feel average,1,neutral
+2664,cold coffee nice,1,positive
+2665,bread felt stale,1,negative
+2666,tray return feel okay,1,neutral
+2667,practice quiz improved confidence,1,positive
+2668,recorded class missing audio,1,negative
+2669,study routine feel normal,1,neutral
+2670,revision note helpful,1,positive
+2671,exam instruction unclear,1,negative
+2672,syllabus pace feel okay,1,neutral
+2673,office approved form quickly,1,positive
+2674,help desk closed early,1,negative
+2675,queue movement feel average,1,neutral
+2676,staff explained process well,1,positive
+2677,reply email bounced,1,negative
+2678,office mood feel okay,1,neutral
+2679,website opened smoothly,1,positive
+2680,otp verification failed,1,negative
+2681,portal layout feel normal,1,neutral
+2682,profile picture updated,1,positive
+2683,page loading slow,1,negative
+2684,button size feel okay,1,neutral
+2685,classroom feel bright,1,positive
+2686,door lock broken,1,negative
+2687,library ac feel average,1,neutral
+2688,campus greenery look good,1,positive
+2689,water tap leaking,1,negative
+2690,seating feel okay,1,neutral
+2691,library help desk responsive,1,positive
+2692,magazine rack messy,1,negative
+2693,study silence feel normal,1,neutral
+2694,found ebooks easily,1,positive
+2695,printer jammed,1,negative
+2696,reading pod feel okay,1,neutral
+2697,vegetable roll tasted nice,1,positive
+2698,paneer felt rubbery,1,negative
+2699,snack queue feel average,1,neutral
+2700,mango shake refreshing,1,positive
+2701,office staff clarified doubt,1,positive
+2702,form upload failed twice,1,negative
+2703,waiting chair feel average,1,neutral
+2704,help counter guided properly,1,positive
+2705,system login slow,1,negative
+2706,office space feel okay,1,neutral
+2707,website dashboard loaded fast,1,positive
+2708,submit button responding,1,negative
+2709,portal color feel average,1,neutral
+2710,receipt downloaded successfully,1,positive
+2711,session expired suddenly,1,negative
+2712,navigation bar feel okay,1,neutral
+2713,classroom window open smoothly,1,positive
+2714,projector screen stained,1,negative
+2715,lab spacing feel normal,1,neutral
+2716,campus bench look neat,1,positive
+2717,washroom hand dryer broken,1,negative
+2718,hallway feel okay,1,neutral
+2719,library reference section helpful,1,positive
+2720,book label missing,1,negative
+2721,reading cubicle feel average,1,neutral
+2722,librarian guided well,1,positive
+2723,issue desk crowded,1,negative
+2724,study table feel okay,1,neutral
+2725,vegetable paratha tasted good,1,positive
+2726,curd tasted sour,1,negative
+2727,lunch queue feel average,1,neutral
+2728,fresh coconut water nice,1,positive
+2729,gravy watery,1,negative
+2730,counter service feel okay,1,neutral
+2731,teacher solved extra problem,1,positive
+2732,online note missing page,1,negative
+2733,class participation feel normal,1,neutral
+2734,practice worksheet helped,1,positive
+2735,test pattern unclear,1,negative
+2736,learning pace feel okay,1,neutral
+2737,admin staff processed request,1,positive
+2738,token machine working,1,negative
+2739,office traffic feel average,1,neutral
+2740,reception answered politely,1,positive
+2741,file movement delayed,1,negative
+2742,office ambience feel okay,1,neutral
+2743,website search fast today,1,positive
+2744,attachment upload failed,1,negative
+2745,portal spacing feel normal,1,neutral
+2746,alert message helpful,1,positive
+2747,page refresh slow,1,negative
+2748,text alignment feel okay,1,neutral
+2749,class board cleaned,1,positive
+2750,extension wire missing,1,negative
+2751,room airflow feel average,1,neutral
+2752,campus entrance look neat,1,positive
+2753,elevator stuck briefly,1,negative
+2754,waiting zone feel okay,1,neutral
+2755,library wifi working,1,positive
+2756,book misplaced,1,negative
+2757,reading ambience feel normal,1,neutral
+2758,staff helped catalog,1,positive
+2759,scanner detecting code,1,negative
+2760,study chair feel okay,1,neutral
+2761,uttapam tasted fresh,1,positive
+2762,soup salty,1,negative
+2763,dinner crowd feel average,1,neutral
+2764,fresh lime soda good,1,positive
+2765,rice portion small,1,negative
+2766,serving counter feel okay,1,neutral
+2767,faculty gave clear example,1,positive
+2768,recorded class froze,1,negative
+2769,study flow feel normal,1,neutral
+2770,revision worksheet useful,1,positive
+2771,assignment deadline confusing,1,negative
+2772,topic coverage feel okay,1,neutral
+2773,office accepted document fast,1,positive
+2774,help desk understaffed,1,negative
+2775,queue time feel average,1,neutral
+2776,staff explained step clearly,1,positive
+2777,approval email delayed,1,negative
+2778,office setup feel okay,1,neutral
+2779,website page open smoothly,1,positive
+2780,login captcha failed,1,negative
+2781,portal layout feel normal,1,neutral
+2782,download link worked,1,positive
+2783,search filter buggy,1,negative
+2784,icon size feel okay,1,neutral
+2785,classroom look organized,1,positive
+2786,loose tile near entrance,1,negative
+2787,library ac feel average,1,neutral
+2788,campus plant look healthy,1,positive
+2789,water pressure low,1,negative
+2790,rest bench feel okay,1,neutral
+2791,library desk answered query,1,positive
+2792,newspaper missing today,1,negative
+2793,study noise feel normal,1,neutral
+2794,found reference material fast,1,positive
+2795,pc rebooted suddenly,1,negative
+2796,reading corner feel okay,1,neutral
+2797,paneer roll tasted good,1,positive
+2798,milkshake watery,1,negative
+2799,snack counter feel average,1,neutral
+2800,strawberry juice refreshing,1,positive
+2801,bread omelette tasted fresh,1,positive
+2802,idli felt cold,1,negative
+2803,morning rush feel normal,1,neutral
+2804,chocolate milkshake nice,1,positive
+2805,vegetable curry lacked salt,1,negative
+2806,seating arrangement feel okay,1,neutral
+2807,faculty explained formula well,1,positive
+2808,presentation slide unclear,1,negative
+2809,class interaction feel average,1,neutral
+2810,practice problem helped lot,1,positive
+2811,quiz instruction confusing,1,negative
+2812,course flow feel okay,1,neutral
+2813,admin staff handled form quickly,1,positive
+2814,office computer,1,negative
+2815,waiting line feel average,1,neutral
+2816,reception explained process clearly,1,positive
+2817,file approval got delayed,1,negative
+2818,office environment feel okay,1,neutral
+2819,website login worked smoothly,1,positive
+2820,otp didnt arrive,1,negative
+2821,dashboard spacing feel normal,1,neutral
+2822,payment page loaded fast,1,positive
+2823,upload button froze,1,negative
+2824,font clarity feel okay,1,neutral
+2825,classroom ventilation good,1,positive
+2826,ceiling fan making noise,1,negative
+2827,lab crowd feel average,1,neutral
+2828,garden seating look nice,1,positive
+2829,washroom mirror cracked,1,negative
+2830,walking path feel okay,1,neutral
+2831,library shelf organized well,1,positive
+2832,book missing page,1,negative
+2833,study silence feel normal,1,neutral
+2834,librarian helped locate journal,1,positive
+2835,computer system slow,1,negative
+2836,reading desk feel okay,1,neutral
+2837,vegetable biryani tasted great,1,positive
+2838,sambar watery,1,negative
+2839,lunch seating feel average,1,neutral
+2840,fresh fruit cup nice,1,positive
+2841,chapati felt dry,1,negative
+2842,service counter feel okay,1,neutral
+2843,extra example clarified topic,1,positive
+2844,online class audio broke,1,negative
+2845,lesson pace feel normal,1,neutral
+2846,weekly test improved confidence,1,positive
+2847,note uploaded late,1,negative
+2848,syllabus coverage feel okay,1,neutral
+2849,office staff cooperative,1,positive
+2850,reception printer working,1,negative
+2851,token queue feel average,1,neutral
+2852,help desk solved issue quickly,1,positive
+2853,email reply delayed,1,negative
+2854,office seating feel okay,1,neutral
+2855,portal opened without lag,1,positive
+2856,search bar responding,1,negative
+2857,page alignment feel normal,1,neutral
+2858,download section work fine,1,positive
+2859,server timeout occurred,1,negative
+2860,button size feel okay,1,neutral
+2861,class bench cleaned,1,positive
+2862,water cooler stopped working,1,negative
+2863,hall temperature feel average,1,neutral
+2864,campus lighting look good,1,positive
+2865,door hinge broken,1,negative
+2866,rest area feel okay,1,neutral
+2867,found textbook easily,1,positive
+2868,issue desk understaffed,1,negative
+2869,reading environment feel normal,1,neutral
+2870,staff answered politely,1,positive
+2871,barcode scan failed,1,negative
+2872,study cubicle feel okay,1,neutral
+2873,pav bhaji tasted nice,1,positive
+2874,juice tasted diluted,1,negative
+2875,evening crowd feel average,1,neutral
+2876,ice cream scoop fresh,1,positive
+2877,snack felt oily,1,negative
+2878,tray return area feel okay,1,neutral
+2879,teacher revised important point,1,positive
+2880,recorded video lagged,1,negative
+2881,class timing feel normal,1,neutral
+2882,practice quiz helped revision,1,positive
+2883,project guideline unclear,1,negative
+2884,assignment load feel okay,1,neutral
+2885,office processed paper quickly,1,positive
+2886,counter closed early,1,negative
+2887,waiting hall feel average,1,neutral
+2888,staff explained document clearly,1,positive
+2889,request tracking failed,1,negative
+2890,office vibe feel okay,1,neutral
+2891,website refresh quick,1,positive
+2892,captcha kept looping,1,negative
+2893,portal design feel normal,1,neutral
+2894,profile saved correctly,1,positive
+2895,file preview loading,1,negative
+2896,text contrast feel okay,1,neutral
+2897,classroom feel spacious,1,positive
+2898,loose switch near door,1,negative
+2899,lab noise feel average,1,neutral
+2900,garden pathway look clean,1,positive
+2901,library feel quiet today,1,positive
+2902,magazine missing page,1,negative
+2903,reading space feel average,1,neutral
+2904,found reference book quickly,1,positive
+2905,issue counter slow,1,negative
+2906,study table feel okay,1,neutral
+2907,vegetable sandwich tasted good,1,positive
+2908,tea felt watery,1,negative
+2909,lunch rush feel normal,1,neutral
+2910,fresh juice nice,1,positive
+2911,rice tasted dry,1,negative
+2912,seating area feel okay,1,neutral
+2913,faculty cleared doubt,1,positive
+2914,slide uploaded late,1,negative
+2915,class speed feel average,1,neutral
+2916,practice sheet helpful,1,positive
+2917,test instruction confusing,1,negative
+2918,lesson flow feel okay,1,neutral
+2919,office staff handled request,1,positive
+2920,reception printer working,1,negative
+2921,waiting line feel normal,1,neutral
+2922,help desk explained process,1,positive
+2923,approval email delayed,1,negative
+2924,office seating feel okay,1,neutral
+2925,website opened smoothly,1,positive
+2926,login failed,1,negative
+2927,dashboard layout feel average,1,neutral
+2928,download button worked fine,1,positive
+2929,upload page froze,1,negative
+2930,font size feel okay,1,neutral
+2931,classroom light bright,1,positive
+2932,ceiling fan rattling,1,negative
+2933,hall temperature feel normal,1,neutral
+2934,garden bench look clean,1,positive
+2935,washroom door stuck,1,negative
+2936,walking area feel okay,1,neutral
+2937,library staff helped nicely,1,positive
+2938,shelf dusty,1,negative
+2939,study ambience feel normal,1,neutral
+2940,found journal article easily,1,positive
+2941,computer froze briefly,1,negative
+2942,reading chair feel okay,1,neutral
+2943,pasta tasted great,1,positive
+2944,soup salty,1,negative
+2945,dinner crowd feel average,1,neutral
+2946,fresh lemonade refreshing,1,positive
+2947,bread felt stale,1,negative
+2948,tray counter feel okay,1,neutral
+2949,teacher revised key topic,1,positive
+2950,recorded lecture lagged,1,negative
+2951,class participation feel normal,1,neutral
+2952,weekly quiz helped learning,1,positive
+2953,assignment guideline unclear,1,negative
+2954,course pace feel okay,1,neutral
+2955,office processed paper fast,1,positive
+2956,counter opened late,1,negative
+2957,reception feel average,1,neutral
+2958,staff explained document clearly,1,positive
+2959,form tracking failed,1,negative
+2960,office atmosphere feel okay,1,neutral
+2961,portal load quickly,1,positive
+2962,search filter buggy,1,negative
+2963,page layout feel normal,1,neutral
+2964,profile updated successfully,1,positive
+2965,otp arrived late,1,negative
+2966,icon size feel okay,1,neutral
+2967,class bench look clean,1,positive
+2968,water dispenser empty,1,negative
+2969,lab spacing feel average,1,neutral
+2970,campus light look good,1,positive
+2971,loose wire near plug point,1,negative
+2972,rest area feel okay,1,neutral
+2973,library wifi work fine,1,positive
+2974,newspaper available,1,negative
+2975,reading silence feel normal,1,neutral
+2976,staff helped catalog search,1,positive
+2977,scanner responding,1,negative
+2978,study desk feel okay,1,neutral
+2979,paneer wrap tasted good,1,positive
+2980,milkshake watery,1,negative
+2981,snack crowd feel average,1,neutral
+2982,fruit salad fresh,1,positive
+2983,chip tasted stale,1,negative
+2984,serving area feel okay,1,neutral
+2985,extra example clarified doubt,1,positive
+2986,audio cut lecture,1,negative
+2987,study routine feel normal,1,neutral
+2988,practice test improved confidence,1,positive
+2989,project deadline confusing,1,negative
+2990,topic coverage feel okay,1,neutral
+2991,admin staff replied quickly,1,positive
+2992,help desk short staffed,1,negative
+2993,queue time feel average,1,neutral
+2994,reception solved issue,1,positive
+2995,approval took long,1,negative
+2996,office setup feel okay,1,neutral
+2997,website page open smoothly,1,positive
+2998,captcha kept failing,1,negative
+2999,portal design feel normal,1,neutral
+3000,download completed successfully,1,positive

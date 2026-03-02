@@ -351,8 +351,6 @@ class CollegeFeedbackPredictor:
             print(f"👩‍🎓 Original: '{original}'")
             print(f"✨ Corrected: '{corrected}'")
 
-        # 2) 7-rule validity on corrected text
-        validation_result = validate_with_gemma(corrected)
 
         # 2) 7-rule validity on corrected text
         validation_result = validate_with_gemma(corrected)

@@ -42,18 +42,40 @@ def correct_with_gemma(text: str) -> str:
             {
                 "role": "system",
                 "content": """
-You are a strict spell correction engine.
+You are an intelligent text normalization engine.
+
+Your task:
+1) Correct spelling mistakes.
+2) Replace slang words with proper English meaning.
+3) Expand informal abbreviations.
+4) Replace emojis with contextually correct English words that fit naturally into the sentence.
+
+Emoji Handling Rules:
+- Do NOT append emotion words at the end.
+- Replace the emoji with a grammatically suitable word.
+- The final sentence must sound natural.
+- Do NOT create phrases like "bad angry".
+- If the emoji expresses sentiment, convert it into a suitable adjective.
+
+Examples:
+
+"wifi speed is 👎" → "wifi speed is bad"
+"canteen food is 🤢" → "canteen food is disgusting"
+"class was 🔥" → "class was excellent"
+"admin response 🤬" → "admin response is terrible"
+"library staff 😊" → "library staff are friendly"
+"exam schedule 😡" → "exam schedule is frustrating"
+"wifi slow 😭" → "wifi is very slow"
 
 Rules:
-- Correct spelling mistakes only.
-- Do not rephrase.
-- Do not change grammar.
-- Do not add words.
-- Do not remove words.
-- Keep valid college-related words unchanged
+- Do NOT rephrase entire sentence.
+- Do NOT change sentence meaning.
+- Do NOT add new ideas.
+- Keep college-related words unchanged
   (canteen, library, admin, portal, syllabus, faculty, hostel, etc.)
 - Output ONLY the corrected sentence.
-If there are no spelling mistakes, return the input exactly.
+
+If no correction is needed, return the input exactly.
 """
             },
             {
@@ -321,6 +343,68 @@ class CollegeFeedbackPredictor:
         print("🎉 Category Random Forest saved!")
 
 
+    def predict(self, feedback_message, user_type="student", verbose=False):
+        if not self.models_trained:
+            return {"error": "Models not trained"}
+
+        ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        original = feedback_message
+
+        # 1️⃣ Gemma normalization
+        corrected = correct_with_gemma(original)
+
+        if verbose:
+            print(f"👩‍🎓 Original: '{original}'")
+            print(f"✨ Corrected: '{corrected}'")
+
+        # 2️⃣ Validate full message
+        validation_result = validate_with_gemma(corrected)
+
+        if validation_result == "Invalid":
+            return {
+                'original_text': original,
+                'corrected_text': corrected,
+                'valid_invalid': 'Invalid',
+                'results': [],
+                'timestamp': ts
+            }
+
+        # 3️⃣ Split into logical sentences
+        sentences = self.split_into_sentences(corrected)
+
+        results = []
+
+        for sentence in sentences:
+            clean = self.clean_text(sentence)
+
+            if clean == "empty":
+                continue
+
+            # Sentiment prediction
+            sent_tfidf = self.sent_vec.transform([clean])
+            sentiment = self.sent_model.predict(sent_tfidf)[0]
+            sent_prob = self.sent_model.predict_proba(sent_tfidf)[0].max()
+
+            # Category prediction
+            cat_tfidf = self.cat_vec.transform([clean])
+            category = self.cat_model.predict(cat_tfidf)[0]
+
+            results.append({
+                "sentence": sentence,
+                "category": category,
+                "sentiment": sentiment,
+                "confidence": f"{sent_prob:.2f}"
+            })
+
+        return {
+            'original_text': original,
+            'corrected_text': corrected,
+            'valid_invalid': 'Valid',
+            'results': results,
+            'timestamp': ts
+        }
+
+
     def load_category_model(self):
         if os.path.exists("models/category_model.pkl"):
             self.cat_model = joblib.load("models/category_model.pkl")
@@ -330,77 +414,86 @@ class CollegeFeedbackPredictor:
 
 
 
+    def split_into_sentences(self, text):
+        text = text.strip()
 
+        # Step 1: Split by punctuation first
+        base_sentences = re.split(r'[.?!]+', text)
 
+        final_sentences = []
 
+        # 🔹 Strong polarity-shift conjunctions (always split)
+        contrast_words = [
+            "but", "however", "although", "though",
+            "even though", "yet", "whereas", "while",
+            "nevertheless", "nonetheless", "still",
+            "on the other hand"
+        ]
 
+        # 🔹 Cause / effect (split carefully)
+        cause_words = [
+            "because", "since", "therefore",
+            "thus", "hence", "as a result"
+        ]
 
+        # 🔹 Addition (split only in longer sentences)
+        addition_words = [
+            "and", "also", "moreover",
+            "furthermore", "in addition"
+        ]
 
-    def predict(self, feedback_message, user_type="student", verbose=False):
-        if not self.models_trained:
-            return {"error": "Models not trained"}
+        # Combine strong split words
+        strong_pattern = r',?\s*\b(?:' + '|'.join(contrast_words + cause_words) + r')\b\s*'
 
-        ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        addition_pattern = r',?\s*\b(?:' + '|'.join(addition_words) + r')\b\s*'
 
-        original = feedback_message
+        for sentence in base_sentences:
+            sentence = sentence.strip()
+            if not sentence:
+                continue
 
-        # 1) Gemma correction
-        corrected = correct_with_gemma(original)
+            # First split on strong polarity shifts
+            parts = re.split(strong_pattern, sentence, flags=re.IGNORECASE)
 
-        if verbose:
-            print(f"👩‍🎓 Original: '{original}'")
-            print(f"✨ Corrected: '{corrected}'")
+            temp_parts = []
 
+            for part in parts:
+                part = part.strip()
+                if not part:
+                    continue
 
-        # 2) 7-rule validity on corrected text
-        validation_result = validate_with_gemma(corrected)
+                # Split on addition words only if sentence is long
+                if len(part.split()) > 8:
+                    subparts = re.split(addition_pattern, part, flags=re.IGNORECASE)
+                    temp_parts.extend(subparts)
+                else:
+                    temp_parts.append(part)
 
-        if validation_result == "Invalid":
-            return {
-                'original_text': original,
-                'corrected_text': corrected,
-                'valid_invalid': 'Invalid',
-                'sentiment': None,
-                'confidence': "0.00",
-                'timestamp': ts
-            }
-        
+            for final in temp_parts:
+                final = final.strip()
+                if len(final.split()) >= 3:
+                    final_sentences.append(final)
 
-        # 3) Preprocess + sentiment
-        clean = self.clean_text(corrected)
-
-        sent_tfidf = self.sent_vec.transform([clean])
-        sentiment = self.sent_model.predict(sent_tfidf)[0]
-        sent_prob = self.sent_model.predict_proba(sent_tfidf)[0].max()
-                # Category prediction (Random Forest)
-        cat_tfidf = self.cat_vec.transform([clean])
-        category = self.cat_model.predict(cat_tfidf)[0]
-
-# ADD at the end of predict() after sentiment calculation
-        return {
-            'original_text': original,
-            'corrected_text': corrected,
-            'valid_invalid': 'valid',
-            'sentiment': sentiment,
-            'category': category,
-            'confidence': f"{sent_prob:.2f}",
-            'timestamp': ts
-        }
-
+        return final_sentences if final_sentences else [text]  
+ 
 
 if __name__ == "__main__":
     predictor = CollegeFeedbackPredictor()
-    print("⚡ Ready! (type 'quit' to exit)\n")
-    
-    while True:
-        text = input("👤 ").strip()
-        if text.lower() in ['quit', 'exit']:
-            break
-        result = predictor.predict(text, verbose=True)
-        if 'error' not in result:
-            if result['valid_invalid'] == 'Invalid':
-                print(f"📊 {result['valid_invalid']} ({result.get('criteria_passed', 'N/A')})\n")
-            else:
-                print(f"📊 {result['valid_invalid']} | Sentiment: {result['sentiment']} | Category: {result['category']} | Confidence: {result['confidence']}\n")
 
-                
+    while True:
+        user_input = input("\nEnter feedback (or type 'exit'): ")
+
+        if user_input.lower() == "exit":
+            break
+
+        result = predictor.predict(user_input, verbose=True)
+
+        if result['valid_invalid'] == 'Invalid':
+            print("\n📊 INVALID FEEDBACK\n")
+        else:
+            print("\n📊 VALID FEEDBACK\n")
+            for r in result['results']:
+                print(f"➡ Sentence: {r['sentence']}")
+                print(f"   Category: {r['category']}")
+                print(f"   Sentiment: {r['sentiment']}")
+                print(f"   Confidence: {r['confidence']}\n")

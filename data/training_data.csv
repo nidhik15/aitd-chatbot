@@ -2999,3 +2999,3003 @@ id,feedback_message,valid_invalid,category,sentiment
 2998,Captcha kept failing,valid,website,negative
 2999,Portal design feels normal,valid,website,neutral
 3000,Download completed successfully,valid,website,positive
+3001,Teaching quality is very poor,valid,Academics,negative
+3002,Syllabus is outdated and not useful,valid,Academics,negative
+3003,Lectures are not conducted properly,valid,Academics,negative
+3004,Concepts are not explained clearly,valid,Academics,negative
+3005,Too much academic pressure,valid,Academics,negative
+3006,Faculty does not help students,valid,Academics,negative
+3007,Assignments are not reviewed,valid,Academics,negative
+3008,No proper exam preparation guidance,valid,Academics,negative
+3009,Study material is insufficient,valid,Academics,negative
+3010,Classes are cancelled frequently,valid,Academics,negative
+3011,Teaching methods are ineffective,valid,Academics,negative
+3012,Doubts are not cleared properly,valid,Academics,negative
+3013,Course structure is confusing,valid,Academics,negative
+3014,Practical sessions are poorly handled,valid,Academics,negative
+3015,Evaluation system feels unfair,valid,Academics,negative
+3016,Faculty is not approachable,valid,Academics,negative
+3017,Too much theoretical focus,valid,Academics,negative
+3018,No industry exposure in syllabus,valid,Academics,negative
+3019,Exams are not well organized,valid,Academics,negative
+3020,Academic planning is poor,valid,Academics,negative
+3021,Administration is very slow,valid,Admin,negative
+3022,Office staff is not helpful,valid,Admin,negative
+3023,Too much delay in processing forms,valid,Admin,negative
+3024,Management communication is unclear,valid,Admin,negative
+3025,Requests are ignored frequently,valid,Admin,negative
+3026,Administrative work is inefficient,valid,Admin,negative
+3027,No proper response from admin office,valid,Admin,negative
+3028,Approval process takes too long,valid,Admin,negative
+3029,Staff behavior is unprofessional,valid,Admin,negative
+3030,Too many unnecessary procedures,valid,Admin,negative
+3031,Admin support is unreliable,valid,Admin,negative
+3032,Complaint handling is poor,valid,Admin,negative
+3033,Documents get delayed often,valid,Admin,negative
+3034,Information provided is incorrect,valid,Admin,negative
+3035,No transparency in processes,valid,Admin,negative
+3036,Workload handling is inefficient,valid,Admin,negative
+3037,Staff is often unavailable,valid,Admin,negative
+3038,Requests are lost frequently,valid,Admin,negative
+3039,Communication gap is huge,valid,Admin,negative
+3040,Admin office is disorganized,valid,Admin,negative
+3041,Classrooms are poorly maintained,valid,Facilities,negative
+3042,Washrooms are very dirty,valid,Facilities,negative
+3043,WiFi is not working properly,valid,Facilities,negative
+3044,Infrastructure needs improvement,valid,Facilities,negative
+3045,No proper seating arrangements,valid,Facilities,negative
+3046,Electricity issues happen often,valid,Facilities,negative
+3047,Projectors do not work properly,valid,Facilities,negative
+3048,Campus cleanliness is poor,valid,Facilities,negative
+3049,Labs are not well equipped,valid,Facilities,negative
+3050,Maintenance is very slow,valid,Facilities,negative
+3051,Air conditioning is not working,valid,Facilities,negative
+3052,Furniture is broken,valid,Facilities,negative
+3053,Water supply is inconsistent,valid,Facilities,negative
+3054,Lighting is insufficient,valid,Facilities,negative
+3055,Noise levels are too high,valid,Facilities,negative
+3056,Security is not reliable,valid,Facilities,negative
+3057,Parking space is limited,valid,Facilities,negative
+3058,Hostel facilities are poor,valid,Facilities,negative
+3059,Equipment is outdated,valid,Facilities,negative
+3060,Repairs take too long,valid,Facilities,negative
+3061,Food quality is very bad,valid,Canteen,negative
+3062,Canteen is overcrowded,valid,Canteen,negative
+3063,Prices are too high,valid,Canteen,negative
+3064,Food is often stale,valid,Canteen,negative
+3065,Very limited food options,valid,Canteen,negative
+3066,Hygiene standards are poor,valid,Canteen,negative
+3067,Service is very slow,valid,Canteen,negative
+3068,Seating space is insufficient,valid,Canteen,negative
+3069,Food taste is not good,valid,Canteen,negative
+3070,Staff is not friendly,valid,Canteen,negative
+3071,Waiting time is too long,valid,Canteen,negative
+3072,Food portions are small,valid,Canteen,negative
+3073,Cleanliness is not maintained,valid,Canteen,negative
+3074,Menu lacks variety,valid,Canteen,negative
+3075,Utensils are not clean,valid,Canteen,negative
+3076,Drinks are overpriced,valid,Canteen,negative
+3077,Cooking quality is inconsistent,valid,Canteen,negative
+3078,Food smells bad sometimes,valid,Canteen,negative
+3079,Crowd management is poor,valid,Canteen,negative
+3080,Service counters are inefficient,valid,Canteen,negative
+3081,Not enough books available,valid,Library,negative
+3082,Library timing is inconvenient,valid,Library,negative
+3083,Too noisy inside library,valid,Library,negative
+3084,Books are outdated,valid,Library,negative
+3085,Seating space is limited,valid,Library,negative
+3086,Computers are not working,valid,Library,negative
+3087,Staff is not helpful,valid,Library,negative
+3088,Book search system is slow,valid,Library,negative
+3089,Lighting is insufficient,valid,Library,negative
+3090,Library rules are too strict,valid,Library,negative
+3091,AC is not functioning properly,valid,Library,negative
+3092,WiFi connectivity is poor,valid,Library,negative
+3093,Not enough study space,valid,Library,negative
+3094,Old editions of books only,valid,Library,negative
+3095,Noise control is lacking,valid,Library,negative
+3096,Digital resources are limited,valid,Library,negative
+3097,Book issue process is slow,valid,Library,negative
+3098,Staff is unresponsive,valid,Library,negative
+3099,Library is overcrowded,valid,Library,negative
+3100,Maintenance is poor,valid,Library,negative
+3101,Website is very slow,valid,Website,negative
+3102,Portal crashes frequently,valid,Website,negative
+3103,UI is confusing,valid,Website,negative
+3104,Login issues happen often,valid,Website,negative
+3105,Navigation is not user friendly,valid,Website,negative
+3106,Pages take too long to load,valid,Website,negative
+3107,Errors appear frequently,valid,Website,negative
+3108,Design looks outdated,valid,Website,negative
+3109,Features are not working properly,valid,Website,negative
+3110,Too many bugs in the system,valid,Website,negative
+3111,Server downtime is frequent,valid,Website,negative
+3112,Search function does not work well,valid,Website,negative
+3113,Mobile version is not responsive,valid,Website,negative
+3114,Data does not update correctly,valid,Website,negative
+3115,Navigation menus are broken,valid,Website,negative
+3116,Too many unnecessary clicks,valid,Website,negative
+3117,Session expires too quickly,valid,Website,negative
+3118,Loading errors are common,valid,Website,negative
+3119,UI elements overlap,valid,Website,negative
+3120,Website performance is poor,valid,Website,negative
+3121,Teaching quality is very poor,valid,Academics,negative
+3122,Syllabus is outdated and not useful,valid,Academics,negative
+3123,Lectures are not conducted properly,valid,Academics,negative
+3124,Concepts are not explained clearly,valid,Academics,negative
+3125,Too much academic pressure,valid,Academics,negative
+3126,Faculty does not help students,valid,Academics,negative
+3127,Assignments are not reviewed properly,valid,Academics,negative
+3128,No proper exam preparation guidance,valid,Academics,negative
+3129,Study material is insufficient,valid,Academics,negative
+3130,Classes are cancelled frequently,valid,Academics,negative
+3131,Teaching methods are ineffective,valid,Academics,negative
+3132,Doubts are not cleared properly,valid,Academics,negative
+3133,Course structure is confusing,valid,Academics,negative
+3134,Practical sessions are poorly handled,valid,Academics,negative
+3135,Evaluation system feels unfair,valid,Academics,negative
+3136,Faculty is not approachable,valid,Academics,negative
+3137,Too much theoretical focus,valid,Academics,negative
+3138,No industry exposure in syllabus,valid,Academics,negative
+3139,Exams are not well organized,valid,Academics,negative
+3140,Academic planning is poor,valid,Academics,negative
+3141,Administration is very slow,valid,Admin,negative
+3142,Office staff is not helpful,valid,Admin,negative
+3143,Too much delay in processing forms,valid,Admin,negative
+3144,Management communication is unclear,valid,Admin,negative
+3145,Requests are ignored frequently,valid,Admin,negative
+3146,Administrative work is inefficient,valid,Admin,negative
+3147,No proper response from admin office,valid,Admin,negative
+3148,Approval process takes too long,valid,Admin,negative
+3149,Staff behavior is unprofessional,valid,Admin,negative
+3150,Too many unnecessary procedures,valid,Admin,negative
+3151,Admin support is unreliable,valid,Admin,negative
+3152,Complaint handling is poor,valid,Admin,negative
+3153,Documents get delayed often,valid,Admin,negative
+3154,Information provided is incorrect,valid,Admin,negative
+3155,No transparency in processes,valid,Admin,negative
+3156,Workload handling is inefficient,valid,Admin,negative
+3157,Staff is often unavailable,valid,Admin,negative
+3158,Requests are lost frequently,valid,Admin,negative
+3159,Communication gap is huge,valid,Admin,negative
+3160,Admin office is disorganized,valid,Admin,negative
+3161,Classrooms are poorly maintained,valid,Facilities,negative
+3162,Washrooms are very dirty,valid,Facilities,negative
+3163,WiFi is not working properly,valid,Facilities,negative
+3164,Infrastructure needs improvement,valid,Facilities,negative
+3165,No proper seating arrangements,valid,Facilities,negative
+3166,Electricity issues happen often,valid,Facilities,negative
+3167,Projectors do not work properly,valid,Facilities,negative
+3168,Campus cleanliness is poor,valid,Facilities,negative
+3169,Labs are not well equipped,valid,Facilities,negative
+3170,Maintenance is very slow,valid,Facilities,negative
+3171,Air conditioning is not working,valid,Facilities,negative
+3172,Furniture is broken,valid,Facilities,negative
+3173,Water supply is inconsistent,valid,Facilities,negative
+3174,Lighting is insufficient,valid,Facilities,negative
+3175,Noise levels are too high,valid,Facilities,negative
+3176,Security is not reliable,valid,Facilities,negative
+3177,Parking space is limited,valid,Facilities,negative
+3178,Hostel facilities are poor,valid,Facilities,negative
+3179,Equipment is outdated,valid,Facilities,negative
+3180,Repairs take too long,valid,Facilities,negative
+3181,Food quality is very bad,valid,Canteen,negative
+3182,Canteen is overcrowded,valid,Canteen,negative
+3183,Prices are too high,valid,Canteen,negative
+3184,Food is often stale,valid,Canteen,negative
+3185,Very limited food options,valid,Canteen,negative
+3186,Hygiene standards are poor,valid,Canteen,negative
+3187,Service is very slow,valid,Canteen,negative
+3188,Seating space is insufficient,valid,Canteen,negative
+3189,Food taste is not good,valid,Canteen,negative
+3190,Staff is not friendly,valid,Canteen,negative
+3191,Waiting time is too long,valid,Canteen,negative
+3192,Food portions are small,valid,Canteen,negative
+3193,Cleanliness is not maintained,valid,Canteen,negative
+3194,Menu lacks variety,valid,Canteen,negative
+3195,Utensils are not clean,valid,Canteen,negative
+3196,Drinks are overpriced,valid,Canteen,negative
+3197,Cooking quality is inconsistent,valid,Canteen,negative
+3198,Food smells bad sometimes,valid,Canteen,negative
+3199,Crowd management is poor,valid,Canteen,negative
+3200,Service counters are inefficient,valid,Canteen,negative
+3201,Not enough books available,valid,Library,negative
+3202,Library timing is inconvenient,valid,Library,negative
+3203,Too noisy inside library,valid,Library,negative
+3204,Books are outdated,valid,Library,negative
+3205,Seating space is limited,valid,Library,negative
+3206,Computers are not working,valid,Library,negative
+3207,Staff is not helpful,valid,Library,negative
+3208,Book search system is slow,valid,Library,negative
+3209,Lighting is insufficient,valid,Library,negative
+3210,Library rules are too strict,valid,Library,negative
+3211,AC is not functioning properly,valid,Library,negative
+3212,WiFi connectivity is poor,valid,Library,negative
+3213,Not enough study space,valid,Library,negative
+3214,Old editions of books only,valid,Library,negative
+3215,Noise control is lacking,valid,Library,negative
+3216,Digital resources are limited,valid,Library,negative
+3217,Book issue process is slow,valid,Library,negative
+3218,Staff is unresponsive,valid,Library,negative
+3219,Library is overcrowded,valid,Library,negative
+3220,Maintenance is poor,valid,Library,negative
+3221,Website is very slow,valid,Website,negative
+3222,Portal crashes frequently,valid,Website,negative
+3223,UI is confusing,valid,Website,negative
+3224,Login issues happen often,valid,Website,negative
+3225,Navigation is not user friendly,valid,Website,negative
+3226,Pages take too long to load,valid,Website,negative
+3227,Errors appear frequently,valid,Website,negative
+3228,Design looks outdated,valid,Website,negative
+3229,Features are not working properly,valid,Website,negative
+3230,Too many bugs in the system,valid,Website,negative
+3231,Server downtime is frequent,valid,Website,negative
+3232,Search function does not work well,valid,Website,negative
+3233,Mobile version is not responsive,valid,Website,negative
+3234,Data does not update correctly,valid,Website,negative
+3235,Navigation menus are broken,valid,Website,negative
+3236,Too many unnecessary clicks,valid,Website,negative
+3237,Session expires too quickly,valid,Website,negative
+3238,Loading errors are common,valid,Website,negative
+3239,UI elements overlap,valid,Website,negative
+3240,Website performance is poor,valid,Website,negative
+3241,Teaching quality is very poor,valid,Academics,negative
+3242,Syllabus is outdated and not useful,valid,Academics,negative
+3243,Lectures are not conducted properly,valid,Academics,negative
+3244,Concepts are not explained clearly,valid,Academics,negative
+3245,Too much academic pressure,valid,Academics,negative
+3246,Faculty does not help students,valid,Academics,negative
+3247,Assignments are not reviewed properly,valid,Academics,negative
+3248,No proper exam preparation guidance,valid,Academics,negative
+3249,Study material is insufficient,valid,Academics,negative
+3250,Classes are cancelled frequently,valid,Academics,negative
+3251,Teaching methods are ineffective,valid,Academics,negative
+3252,Doubts are not cleared properly,valid,Academics,negative
+3253,Course structure is confusing,valid,Academics,negative
+3254,Practical sessions are poorly handled,valid,Academics,negative
+3255,Evaluation system feels unfair,valid,Academics,negative
+3256,Faculty is not approachable,valid,Academics,negative
+3257,Too much theoretical focus,valid,Academics,negative
+3258,No industry exposure in syllabus,valid,Academics,negative
+3259,Exams are not well organized,valid,Academics,negative
+3260,Academic planning is poor,valid,Academics,negative
+3261,Administration is very slow,valid,Admin,negative
+3262,Office staff is not helpful,valid,Admin,negative
+3263,Too much delay in processing forms,valid,Admin,negative
+3264,Management communication is unclear,valid,Admin,negative
+3265,Requests are ignored frequently,valid,Admin,negative
+3266,Administrative work is inefficient,valid,Admin,negative
+3267,No proper response from admin office,valid,Admin,negative
+3268,Approval process takes too long,valid,Admin,negative
+3269,Staff behavior is unprofessional,valid,Admin,negative
+3270,Too many unnecessary procedures,valid,Admin,negative
+3271,Admin support is unreliable,valid,Admin,negative
+3272,Complaint handling is poor,valid,Admin,negative
+3273,Documents get delayed often,valid,Admin,negative
+3274,Information provided is incorrect,valid,Admin,negative
+3275,No transparency in processes,valid,Admin,negative
+3276,Workload handling is inefficient,valid,Admin,negative
+3277,Staff is often unavailable,valid,Admin,negative
+3278,Requests are lost frequently,valid,Admin,negative
+3279,Communication gap is huge,valid,Admin,negative
+3280,Admin office is disorganized,valid,Admin,negative
+3281,Classrooms are poorly maintained,valid,Facilities,negative
+3282,Washrooms are very dirty,valid,Facilities,negative
+3283,WiFi is not working properly,valid,Facilities,negative
+3284,Infrastructure needs improvement,valid,Facilities,negative
+3285,No proper seating arrangements,valid,Facilities,negative
+3286,Electricity issues happen often,valid,Facilities,negative
+3287,Projectors do not work properly,valid,Facilities,negative
+3288,Campus cleanliness is poor,valid,Facilities,negative
+3289,Labs are not well equipped,valid,Facilities,negative
+3290,Maintenance is very slow,valid,Facilities,negative
+3291,Air conditioning is not working,valid,Facilities,negative
+3292,Furniture is broken,valid,Facilities,negative
+3293,Water supply is inconsistent,valid,Facilities,negative
+3294,Lighting is insufficient,valid,Facilities,negative
+3295,Noise levels are too high,valid,Facilities,negative
+3296,Security is not reliable,valid,Facilities,negative
+3297,Parking space is limited,valid,Facilities,negative
+3298,Hostel facilities are poor,valid,Facilities,negative
+3299,Equipment is outdated,valid,Facilities,negative
+3300,Repairs take too long,valid,Facilities,negative
+3301,Food quality is very bad,valid,Canteen,negative
+3302,Canteen is overcrowded,valid,Canteen,negative
+3303,Prices are too high,valid,Canteen,negative
+3304,Food is often stale,valid,Canteen,negative
+3305,Very limited food options,valid,Canteen,negative
+3306,Hygiene standards are poor,valid,Canteen,negative
+3307,Service is very slow,valid,Canteen,negative
+3308,Seating space is insufficient,valid,Canteen,negative
+3309,Food taste is not good,valid,Canteen,negative
+3310,Staff is not friendly,valid,Canteen,negative
+3311,Waiting time is too long,valid,Canteen,negative
+3312,Food portions are small,valid,Canteen,negative
+3313,Cleanliness is not maintained,valid,Canteen,negative
+3314,Menu lacks variety,valid,Canteen,negative
+3315,Utensils are not clean,valid,Canteen,negative
+3316,Drinks are overpriced,valid,Canteen,negative
+3317,Cooking quality is inconsistent,valid,Canteen,negative
+3318,Food smells bad sometimes,valid,Canteen,negative
+3319,Crowd management is poor,valid,Canteen,negative
+3320,Service counters are inefficient,valid,Canteen,negative
+3321,Not enough books available,valid,Library,negative
+3322,Library timing is inconvenient,valid,Library,negative
+3323,Too noisy inside library,valid,Library,negative
+3324,Books are outdated,valid,Library,negative
+3325,Seating space is limited,valid,Library,negative
+3326,Computers are not working,valid,Library,negative
+3327,Staff is not helpful,valid,Library,negative
+3328,Book search system is slow,valid,Library,negative
+3329,Lighting is insufficient,valid,Library,negative
+3330,Library rules are too strict,valid,Library,negative
+3331,AC is not functioning properly,valid,Library,negative
+3332,WiFi connectivity is poor,valid,Library,negative
+3333,Not enough study space,valid,Library,negative
+3334,Old editions of books only,valid,Library,negative
+3335,Noise control is lacking,valid,Library,negative
+3336,Digital resources are limited,valid,Library,negative
+3337,Book issue process is slow,valid,Library,negative
+3338,Staff is unresponsive,valid,Library,negative
+3339,Library is overcrowded,valid,Library,negative
+3340,Maintenance is poor,valid,Library,negative
+3341,Website is very slow,valid,Website,negative
+3342,Portal crashes frequently,valid,Website,negative
+3343,UI is confusing,valid,Website,negative
+3344,Login issues happen often,valid,Website,negative
+3345,Navigation is not user friendly,valid,Website,negative
+3346,Pages take too long to load,valid,Website,negative
+3347,Errors appear frequently,valid,Website,negative
+3348,Design looks outdated,valid,Website,negative
+3349,Features are not working properly,valid,Website,negative
+3350,Too many bugs in the system,valid,Website,negative
+3351,Server downtime is frequent,valid,Website,negative
+3352,Search function does not work well,valid,Website,negative
+3353,Mobile version is not responsive,valid,Website,negative
+3354,Data does not update correctly,valid,Website,negative
+3355,Navigation menus are broken,valid,Website,negative
+3356,Too many unnecessary clicks,valid,Website,negative
+3357,Session expires too quickly,valid,Website,negative
+3358,Loading errors are common,valid,Website,negative
+3359,UI elements overlap,valid,Website,negative
+3360,Website performance is poor,valid,Website,negative
+3361,Teaching quality is very poor,valid,Academics,negative
+3362,Syllabus is outdated and not useful,valid,Academics,negative
+3363,Lectures are not conducted properly,valid,Academics,negative
+3364,Concepts are not explained clearly,valid,Academics,negative
+3365,Too much academic pressure,valid,Academics,negative
+3366,Faculty does not help students,valid,Academics,negative
+3367,Assignments are not reviewed properly,valid,Academics,negative
+3368,No proper exam preparation guidance,valid,Academics,negative
+3369,Study material is insufficient,valid,Academics,negative
+3370,Classes are cancelled frequently,valid,Academics,negative
+3371,Teaching methods are ineffective,valid,Academics,negative
+3372,Doubts are not cleared properly,valid,Academics,negative
+3373,Course structure is confusing,valid,Academics,negative
+3374,Practical sessions are poorly handled,valid,Academics,negative
+3375,Evaluation system feels unfair,valid,Academics,negative
+3376,Faculty is not approachable,valid,Academics,negative
+3377,Too much theoretical focus,valid,Academics,negative
+3378,No industry exposure in syllabus,valid,Academics,negative
+3379,Exams are not well organized,valid,Academics,negative
+3380,Academic planning is poor,valid,Academics,negative
+3381,Administration is very slow,valid,Admin,negative
+3382,Office staff is not helpful,valid,Admin,negative
+3383,Too much delay in processing forms,valid,Admin,negative
+3384,Management communication is unclear,valid,Admin,negative
+3385,Requests are ignored frequently,valid,Admin,negative
+3386,Administrative work is inefficient,valid,Admin,negative
+3387,No proper response from admin office,valid,Admin,negative
+3388,Approval process takes too long,valid,Admin,negative
+3389,Staff behavior is unprofessional,valid,Admin,negative
+3390,Too many unnecessary procedures,valid,Admin,negative
+3391,Admin support is unreliable,valid,Admin,negative
+3392,Complaint handling is poor,valid,Admin,negative
+3393,Documents get delayed often,valid,Admin,negative
+3394,Information provided is incorrect,valid,Admin,negative
+3395,No transparency in processes,valid,Admin,negative
+3396,Workload handling is inefficient,valid,Admin,negative
+3397,Staff is often unavailable,valid,Admin,negative
+3398,Requests are lost frequently,valid,Admin,negative
+3399,Communication gap is huge,valid,Admin,negative
+3400,Admin office is disorganized,valid,Admin,negative
+3401,Classrooms are poorly maintained,valid,Facilities,negative
+3402,Washrooms are very dirty,valid,Facilities,negative
+3403,WiFi is not working properly,valid,Facilities,negative
+3404,Infrastructure needs improvement,valid,Facilities,negative
+3405,No proper seating arrangements,valid,Facilities,negative
+3406,Electricity issues happen often,valid,Facilities,negative
+3407,Projectors do not work properly,valid,Facilities,negative
+3408,Campus cleanliness is poor,valid,Facilities,negative
+3409,Labs are not well equipped,valid,Facilities,negative
+3410,Maintenance is very slow,valid,Facilities,negative
+3411,Air conditioning is not working,valid,Facilities,negative
+3412,Furniture is broken,valid,Facilities,negative
+3413,Water supply is inconsistent,valid,Facilities,negative
+3414,Lighting is insufficient,valid,Facilities,negative
+3415,Noise levels are too high,valid,Facilities,negative
+3416,Security is not reliable,valid,Facilities,negative
+3417,Parking space is limited,valid,Facilities,negative
+3418,Hostel facilities are poor,valid,Facilities,negative
+3419,Equipment is outdated,valid,Facilities,negative
+3420,Repairs take too long,valid,Facilities,negative
+3421,Food quality is very bad,valid,Canteen,negative
+3422,Canteen is overcrowded,valid,Canteen,negative
+3423,Prices are too high,valid,Canteen,negative
+3424,Food is often stale,valid,Canteen,negative
+3425,Very limited food options,valid,Canteen,negative
+3426,Hygiene standards are poor,valid,Canteen,negative
+3427,Service is very slow,valid,Canteen,negative
+3428,Seating space is insufficient,valid,Canteen,negative
+3429,Food taste is not good,valid,Canteen,negative
+3430,Staff is not friendly,valid,Canteen,negative
+3431,Waiting time is too long,valid,Canteen,negative
+3432,Food portions are small,valid,Canteen,negative
+3433,Cleanliness is not maintained,valid,Canteen,negative
+3434,Menu lacks variety,valid,Canteen,negative
+3435,Utensils are not clean,valid,Canteen,negative
+3436,Drinks are overpriced,valid,Canteen,negative
+3437,Cooking quality is inconsistent,valid,Canteen,negative
+3438,Food smells bad sometimes,valid,Canteen,negative
+3439,Crowd management is poor,valid,Canteen,negative
+3440,Service counters are inefficient,valid,Canteen,negative
+3441,Not enough books available,valid,Library,negative
+3442,Library timing is inconvenient,valid,Library,negative
+3443,Too noisy inside library,valid,Library,negative
+3444,Books are outdated,valid,Library,negative
+3445,Seating space is limited,valid,Library,negative
+3446,Computers are not working,valid,Library,negative
+3447,Staff is not helpful,valid,Library,negative
+3448,Book search system is slow,valid,Library,negative
+3449,Lighting is insufficient,valid,Library,negative
+3450,Library rules are too strict,valid,Library,negative
+3451,AC is not functioning properly,valid,Library,negative
+3452,WiFi connectivity is poor,valid,Library,negative
+3453,Not enough study space,valid,Library,negative
+3454,Old editions of books only,valid,Library,negative
+3455,Noise control is lacking,valid,Library,negative
+3456,Digital resources are limited,valid,Library,negative
+3457,Book issue process is slow,valid,Library,negative
+3458,Staff is unresponsive,valid,Library,negative
+3459,Library is overcrowded,valid,Library,negative
+3460,Maintenance is poor,valid,Library,negative
+3461,Website is very slow,valid,Website,negative
+3462,Portal crashes frequently,valid,Website,negative
+3463,UI is confusing,valid,Website,negative
+3464,Login issues happen often,valid,Website,negative
+3465,Navigation is not user friendly,valid,Website,negative
+3466,Pages take too long to load,valid,Website,negative
+3467,Errors appear frequently,valid,Website,negative
+3468,Design looks outdated,valid,Website,negative
+3469,Features are not working properly,valid,Website,negative
+3470,Too many bugs in the system,valid,Website,negative
+3471,Server downtime is frequent,valid,Website,negative
+3472,Search function does not work well,valid,Website,negative
+3473,Mobile version is not responsive,valid,Website,negative
+3474,Data does not update correctly,valid,Website,negative
+3475,Navigation menus are broken,valid,Website,negative
+3476,Too many unnecessary clicks,valid,Website,negative
+3477,Session expires too quickly,valid,Website,negative
+3478,Loading errors are common,valid,Website,negative
+3479,UI elements overlap,valid,Website,negative
+3480,Website performance is poor,valid,Website,negative
+3481,Teaching quality is very poor,valid,Academics,negative
+3482,Syllabus is outdated and not useful,valid,Academics,negative
+3483,Lectures are not conducted properly,valid,Academics,negative
+3484,Concepts are not explained clearly,valid,Academics,negative
+3485,Too much academic pressure,valid,Academics,negative
+3486,Faculty does not help students,valid,Academics,negative
+3487,Assignments are not reviewed properly,valid,Academics,negative
+3488,No proper exam preparation guidance,valid,Academics,negative
+3489,Study material is insufficient,valid,Academics,negative
+3490,Classes are cancelled frequently,valid,Academics,negative
+3491,Teaching methods are ineffective,valid,Academics,negative
+3492,Doubts are not cleared properly,valid,Academics,negative
+3493,Course structure is confusing,valid,Academics,negative
+3494,Practical sessions are poorly handled,valid,Academics,negative
+3495,Evaluation system feels unfair,valid,Academics,negative
+3496,Faculty is not approachable,valid,Academics,negative
+3497,Too much theoretical focus,valid,Academics,negative
+3498,No industry exposure in syllabus,valid,Academics,negative
+3499,Exams are not well organized,valid,Academics,negative
+3500,Academic planning is poor,valid,Academics,negative
+3501,Administration is very slow,valid,Admin,negative
+3502,Office staff is not helpful,valid,Admin,negative
+3503,Too much delay in processing forms,valid,Admin,negative
+3504,Management communication is unclear,valid,Admin,negative
+3505,Requests are ignored frequently,valid,Admin,negative
+3506,Administrative work is inefficient,valid,Admin,negative
+3507,No proper response from admin office,valid,Admin,negative
+3508,Approval process takes too long,valid,Admin,negative
+3509,Staff behavior is unprofessional,valid,Admin,negative
+3510,Too many unnecessary procedures,valid,Admin,negative
+3511,Admin support is unreliable,valid,Admin,negative
+3512,Complaint handling is poor,valid,Admin,negative
+3513,Documents get delayed often,valid,Admin,negative
+3514,Information provided is incorrect,valid,Admin,negative
+3515,No transparency in processes,valid,Admin,negative
+3516,Workload handling is inefficient,valid,Admin,negative
+3517,Staff is often unavailable,valid,Admin,negative
+3518,Requests are lost frequently,valid,Admin,negative
+3519,Communication gap is huge,valid,Admin,negative
+3520,Admin office is disorganized,valid,Admin,negative
+3521,Classrooms are poorly maintained,valid,Facilities,negative
+3522,Washrooms are very dirty,valid,Facilities,negative
+3523,WiFi is not working properly,valid,Facilities,negative
+3524,Infrastructure needs improvement,valid,Facilities,negative
+3525,No proper seating arrangements,valid,Facilities,negative
+3526,Electricity issues happen often,valid,Facilities,negative
+3527,Projectors do not work properly,valid,Facilities,negative
+3528,Campus cleanliness is poor,valid,Facilities,negative
+3529,Labs are not well equipped,valid,Facilities,negative
+3530,Maintenance is very slow,valid,Facilities,negative
+3531,Air conditioning is not working,valid,Facilities,negative
+3532,Furniture is broken,valid,Facilities,negative
+3533,Water supply is inconsistent,valid,Facilities,negative
+3534,Lighting is insufficient,valid,Facilities,negative
+3535,Noise levels are too high,valid,Facilities,negative
+3536,Security is not reliable,valid,Facilities,negative
+3537,Parking space is limited,valid,Facilities,negative
+3538,Hostel facilities are poor,valid,Facilities,negative
+3539,Equipment is outdated,valid,Facilities,negative
+3540,Repairs take too long,valid,Facilities,negative
+3541,Food quality is very bad,valid,Canteen,negative
+3542,Canteen is overcrowded,valid,Canteen,negative
+3543,Prices are too high,valid,Canteen,negative
+3544,Food is often stale,valid,Canteen,negative
+3545,Very limited food options,valid,Canteen,negative
+3546,Hygiene standards are poor,valid,Canteen,negative
+3547,Service is very slow,valid,Canteen,negative
+3548,Seating space is insufficient,valid,Canteen,negative
+3549,Food taste is not good,valid,Canteen,negative
+3550,Staff is not friendly,valid,Canteen,negative
+3551,Waiting time is too long,valid,Canteen,negative
+3552,Food portions are small,valid,Canteen,negative
+3553,Cleanliness is not maintained,valid,Canteen,negative
+3554,Menu lacks variety,valid,Canteen,negative
+3555,Utensils are not clean,valid,Canteen,negative
+3556,Drinks are overpriced,valid,Canteen,negative
+3557,Cooking quality is inconsistent,valid,Canteen,negative
+3558,Food smells bad sometimes,valid,Canteen,negative
+3559,Crowd management is poor,valid,Canteen,negative
+3560,Service counters are inefficient,valid,Canteen,negative
+3561,Not enough books available,valid,Library,negative
+3562,Library timing is inconvenient,valid,Library,negative
+3563,Too noisy inside library,valid,Library,negative
+3564,Books are outdated,valid,Library,negative
+3565,Seating space is limited,valid,Library,negative
+3566,Computers are not working,valid,Library,negative
+3567,Staff is not helpful,valid,Library,negative
+3568,Book search system is slow,valid,Library,negative
+3569,Lighting is insufficient,valid,Library,negative
+3570,Library rules are too strict,valid,Library,negative
+3571,AC is not functioning properly,valid,Library,negative
+3572,WiFi connectivity is poor,valid,Library,negative
+3573,Not enough study space,valid,Library,negative
+3574,Old editions of books only,valid,Library,negative
+3575,Noise control is lacking,valid,Library,negative
+3576,Digital resources are limited,valid,Library,negative
+3577,Book issue process is slow,valid,Library,negative
+3578,Staff is unresponsive,valid,Library,negative
+3579,Library is overcrowded,valid,Library,negative
+3580,Maintenance is poor,valid,Library,negative
+3581,Website is very slow,valid,Website,negative
+3582,Portal crashes frequently,valid,Website,negative
+3583,UI is confusing,valid,Website,negative
+3584,Login issues happen often,valid,Website,negative
+3585,Navigation is not user friendly,valid,Website,negative
+3586,Pages take too long to load,valid,Website,negative
+3587,Errors appear frequently,valid,Website,negative
+3588,Design looks outdated,valid,Website,negative
+3589,Features are not working properly,valid,Website,negative
+3590,Too many bugs in the system,valid,Website,negative
+3591,Server downtime is frequent,valid,Website,negative
+3592,Search function does not work well,valid,Website,negative
+3593,Mobile version is not responsive,valid,Website,negative
+3594,Data does not update correctly,valid,Website,negative
+3595,Navigation menus are broken,valid,Website,negative
+3596,Too many unnecessary clicks,valid,Website,negative
+3597,Session expires too quickly,valid,Website,negative
+3598,Loading errors are common,valid,Website,negative
+3599,UI elements overlap,valid,Website,negative
+3600,Website performance is poor,valid,Website,negative
+3601,Teaching quality is very poor,valid,Academics,negative
+3602,Syllabus is outdated and not useful,valid,Academics,negative
+3603,Lectures are not conducted properly,valid,Academics,negative
+3604,Concepts are not explained clearly,valid,Academics,negative
+3605,Too much academic pressure,valid,Academics,negative
+3606,Faculty does not help students,valid,Academics,negative
+3607,Assignments are not reviewed properly,valid,Academics,negative
+3608,No proper exam preparation guidance,valid,Academics,negative
+3609,Study material is insufficient,valid,Academics,negative
+3610,Classes are cancelled frequently,valid,Academics,negative
+3611,Teaching methods are ineffective,valid,Academics,negative
+3612,Doubts are not cleared properly,valid,Academics,negative
+3613,Course structure is confusing,valid,Academics,negative
+3614,Practical sessions are poorly handled,valid,Academics,negative
+3615,Evaluation system feels unfair,valid,Academics,negative
+3616,Faculty is not approachable,valid,Academics,negative
+3617,Too much theoretical focus,valid,Academics,negative
+3618,No industry exposure in syllabus,valid,Academics,negative
+3619,Exams are not well organized,valid,Academics,negative
+3620,Academic planning is poor,valid,Academics,negative
+3621,Administration is very slow,valid,Admin,negative
+3622,Office staff is not helpful,valid,Admin,negative
+3623,Too much delay in processing forms,valid,Admin,negative
+3624,Management communication is unclear,valid,Admin,negative
+3625,Requests are ignored frequently,valid,Admin,negative
+3626,Administrative work is inefficient,valid,Admin,negative
+3627,No proper response from admin office,valid,Admin,negative
+3628,Approval process takes too long,valid,Admin,negative
+3629,Staff behavior is unprofessional,valid,Admin,negative
+3630,Too many unnecessary procedures,valid,Admin,negative
+3631,Admin support is unreliable,valid,Admin,negative
+3632,Complaint handling is poor,valid,Admin,negative
+3633,Documents get delayed often,valid,Admin,negative
+3634,Information provided is incorrect,valid,Admin,negative
+3635,No transparency in processes,valid,Admin,negative
+3636,Workload handling is inefficient,valid,Admin,negative
+3637,Staff is often unavailable,valid,Admin,negative
+3638,Requests are lost frequently,valid,Admin,negative
+3639,Communication gap is huge,valid,Admin,negative
+3640,Admin office is disorganized,valid,Admin,negative
+3641,Classrooms are poorly maintained,valid,Facilities,negative
+3642,Washrooms are very dirty,valid,Facilities,negative
+3643,WiFi is not working properly,valid,Facilities,negative
+3644,Infrastructure needs improvement,valid,Facilities,negative
+3645,No proper seating arrangements,valid,Facilities,negative
+3646,Electricity issues happen often,valid,Facilities,negative
+3647,Projectors do not work properly,valid,Facilities,negative
+3648,Campus cleanliness is poor,valid,Facilities,negative
+3649,Labs are not well equipped,valid,Facilities,negative
+3650,Maintenance is very slow,valid,Facilities,negative
+3651,Air conditioning is not working,valid,Facilities,negative
+3652,Furniture is broken,valid,Facilities,negative
+3653,Water supply is inconsistent,valid,Facilities,negative
+3654,Lighting is insufficient,valid,Facilities,negative
+3655,Noise levels are too high,valid,Facilities,negative
+3656,Security is not reliable,valid,Facilities,negative
+3657,Parking space is limited,valid,Facilities,negative
+3658,Hostel facilities are poor,valid,Facilities,negative
+3659,Equipment is outdated,valid,Facilities,negative
+3660,Repairs take too long,valid,Facilities,negative
+3661,Food quality is very bad,valid,Canteen,negative
+3662,Canteen is overcrowded,valid,Canteen,negative
+3663,Prices are too high,valid,Canteen,negative
+3664,Food is often stale,valid,Canteen,negative
+3665,Very limited food options,valid,Canteen,negative
+3666,Hygiene standards are poor,valid,Canteen,negative
+3667,Service is very slow,valid,Canteen,negative
+3668,Seating space is insufficient,valid,Canteen,negative
+3669,Food taste is not good,valid,Canteen,negative
+3670,Staff is not friendly,valid,Canteen,negative
+3671,Waiting time is too long,valid,Canteen,negative
+3672,Food portions are small,valid,Canteen,negative
+3673,Cleanliness is not maintained,valid,Canteen,negative
+3674,Menu lacks variety,valid,Canteen,negative
+3675,Utensils are not clean,valid,Canteen,negative
+3676,Drinks are overpriced,valid,Canteen,negative
+3677,Cooking quality is inconsistent,valid,Canteen,negative
+3678,Food smells bad sometimes,valid,Canteen,negative
+3679,Crowd management is poor,valid,Canteen,negative
+3680,Service counters are inefficient,valid,Canteen,negative
+3681,Not enough books available,valid,Library,negative
+3682,Library timing is inconvenient,valid,Library,negative
+3683,Too noisy inside library,valid,Library,negative
+3684,Books are outdated,valid,Library,negative
+3685,Seating space is limited,valid,Library,negative
+3686,Computers are not working,valid,Library,negative
+3687,Staff is not helpful,valid,Library,negative
+3688,Book search system is slow,valid,Library,negative
+3689,Lighting is insufficient,valid,Library,negative
+3690,Library rules are too strict,valid,Library,negative
+3691,AC is not functioning properly,valid,Library,negative
+3692,WiFi connectivity is poor,valid,Library,negative
+3693,Not enough study space,valid,Library,negative
+3694,Old editions of books only,valid,Library,negative
+3695,Noise control is lacking,valid,Library,negative
+3696,Digital resources are limited,valid,Library,negative
+3697,Book issue process is slow,valid,Library,negative
+3698,Staff is unresponsive,valid,Library,negative
+3699,Library is overcrowded,valid,Library,negative
+3700,Maintenance is poor,valid,Library,negative
+3701,Website is very slow,valid,Website,negative
+3702,Portal crashes frequently,valid,Website,negative
+3703,UI is confusing,valid,Website,negative
+3704,Login issues happen often,valid,Website,negative
+3705,Navigation is not user friendly,valid,Website,negative
+3706,Pages take too long to load,valid,Website,negative
+3707,Errors appear frequently,valid,Website,negative
+3708,Design looks outdated,valid,Website,negative
+3709,Features are not working properly,valid,Website,negative
+3710,Too many bugs in the system,valid,Website,negative
+3711,Server downtime is frequent,valid,Website,negative
+3712,Search function does not work well,valid,Website,negative
+3713,Mobile version is not responsive,valid,Website,negative
+3714,Data does not update correctly,valid,Website,negative
+3715,Navigation menus are broken,valid,Website,negative
+3716,Too many unnecessary clicks,valid,Website,negative
+3717,Session expires too quickly,valid,Website,negative
+3718,Loading errors are common,valid,Website,negative
+3719,UI elements overlap,valid,Website,negative
+3720,Website performance is poor,valid,Website,negative
+3721,Teaching quality is very poor,valid,Academics,negative
+3722,Syllabus is outdated and not useful,valid,Academics,negative
+3723,Lectures are not conducted properly,valid,Academics,negative
+3724,Concepts are not explained clearly,valid,Academics,negative
+3725,Too much academic pressure,valid,Academics,negative
+3726,Faculty does not help students,valid,Academics,negative
+3727,Assignments are not reviewed properly,valid,Academics,negative
+3728,No proper exam preparation guidance,valid,Academics,negative
+3729,Study material is insufficient,valid,Academics,negative
+3730,Classes are cancelled frequently,valid,Academics,negative
+3731,Teaching methods are ineffective,valid,Academics,negative
+3732,Doubts are not cleared properly,valid,Academics,negative
+3733,Course structure is confusing,valid,Academics,negative
+3734,Practical sessions are poorly handled,valid,Academics,negative
+3735,Evaluation system feels unfair,valid,Academics,negative
+3736,Faculty is not approachable,valid,Academics,negative
+3737,Too much theoretical focus,valid,Academics,negative
+3738,No industry exposure in syllabus,valid,Academics,negative
+3739,Exams are not well organized,valid,Academics,negative
+3740,Academic planning is poor,valid,Academics,negative
+3741,Administration is very slow,valid,Admin,negative
+3742,Office staff is not helpful,valid,Admin,negative
+3743,Too much delay in processing forms,valid,Admin,negative
+3744,Management communication is unclear,valid,Admin,negative
+3745,Requests are ignored frequently,valid,Admin,negative
+3746,Administrative work is inefficient,valid,Admin,negative
+3747,No proper response from admin office,valid,Admin,negative
+3748,Approval process takes too long,valid,Admin,negative
+3749,Staff behavior is unprofessional,valid,Admin,negative
+3750,Too many unnecessary procedures,valid,Admin,negative
+3751,Admin support is unreliable,valid,Admin,negative
+3752,Complaint handling is poor,valid,Admin,negative
+3753,Documents get delayed often,valid,Admin,negative
+3754,Information provided is incorrect,valid,Admin,negative
+3755,No transparency in processes,valid,Admin,negative
+3756,Workload handling is inefficient,valid,Admin,negative
+3757,Staff is often unavailable,valid,Admin,negative
+3758,Requests are lost frequently,valid,Admin,negative
+3759,Communication gap is huge,valid,Admin,negative
+3760,Admin office is disorganized,valid,Admin,negative
+3761,Classrooms are poorly maintained,valid,Facilities,negative
+3762,Washrooms are very dirty,valid,Facilities,negative
+3763,WiFi is not working properly,valid,Facilities,negative
+3764,Infrastructure needs improvement,valid,Facilities,negative
+3765,No proper seating arrangements,valid,Facilities,negative
+3766,Electricity issues happen often,valid,Facilities,negative
+3767,Projectors do not work properly,valid,Facilities,negative
+3768,Campus cleanliness is poor,valid,Facilities,negative
+3769,Labs are not well equipped,valid,Facilities,negative
+3770,Maintenance is very slow,valid,Facilities,negative
+3771,Air conditioning is not working,valid,Facilities,negative
+3772,Furniture is broken,valid,Facilities,negative
+3773,Water supply is inconsistent,valid,Facilities,negative
+3774,Lighting is insufficient,valid,Facilities,negative
+3775,Noise levels are too high,valid,Facilities,negative
+3776,Security is not reliable,valid,Facilities,negative
+3777,Parking space is limited,valid,Facilities,negative
+3778,Hostel facilities are poor,valid,Facilities,negative
+3779,Equipment is outdated,valid,Facilities,negative
+3780,Repairs take too long,valid,Facilities,negative
+3781,Food quality is very bad,valid,Canteen,negative
+3782,Canteen is overcrowded,valid,Canteen,negative
+3783,Prices are too high,valid,Canteen,negative
+3784,Food is often stale,valid,Canteen,negative
+3785,Very limited food options,valid,Canteen,negative
+3786,Hygiene standards are poor,valid,Canteen,negative
+3787,Service is very slow,valid,Canteen,negative
+3788,Seating space is insufficient,valid,Canteen,negative
+3789,Food taste is not good,valid,Canteen,negative
+3790,Staff is not friendly,valid,Canteen,negative
+3791,Waiting time is too long,valid,Canteen,negative
+3792,Food portions are small,valid,Canteen,negative
+3793,Cleanliness is not maintained,valid,Canteen,negative
+3794,Menu lacks variety,valid,Canteen,negative
+3795,Utensils are not clean,valid,Canteen,negative
+3796,Drinks are overpriced,valid,Canteen,negative
+3797,Cooking quality is inconsistent,valid,Canteen,negative
+3798,Food smells bad sometimes,valid,Canteen,negative
+3799,Crowd management is poor,valid,Canteen,negative
+3800,Service counters are inefficient,valid,Canteen,negative
+3801,Not enough books available,valid,Library,negative
+3802,Library timing is inconvenient,valid,Library,negative
+3803,Too noisy inside library,valid,Library,negative
+3804,Books are outdated,valid,Library,negative
+3805,Seating space is limited,valid,Library,negative
+3806,Computers are not working,valid,Library,negative
+3807,Staff is not helpful,valid,Library,negative
+3808,Book search system is slow,valid,Library,negative
+3809,Lighting is insufficient,valid,Library,negative
+3810,Library rules are too strict,valid,Library,negative
+3811,AC is not functioning properly,valid,Library,negative
+3812,WiFi connectivity is poor,valid,Library,negative
+3813,Not enough study space,valid,Library,negative
+3814,Old editions of books only,valid,Library,negative
+3815,Noise control is lacking,valid,Library,negative
+3816,Digital resources are limited,valid,Library,negative
+3817,Book issue process is slow,valid,Library,negative
+3818,Staff is unresponsive,valid,Library,negative
+3819,Library is overcrowded,valid,Library,negative
+3820,Maintenance is poor,valid,Library,negative
+3821,Website is very slow,valid,Website,negative
+3822,Portal crashes frequently,valid,Website,negative
+3823,UI is confusing,valid,Website,negative
+3824,Login issues happen often,valid,Website,negative
+3825,Navigation is not user friendly,valid,Website,negative
+3826,Pages take too long to load,valid,Website,negative
+3827,Errors appear frequently,valid,Website,negative
+3828,Design looks outdated,valid,Website,negative
+3829,Features are not working properly,valid,Website,negative
+3830,Too many bugs in the system,valid,Website,negative
+3831,Server downtime is frequent,valid,Website,negative
+3832,Search function does not work well,valid,Website,negative
+3833,Mobile version is not responsive,valid,Website,negative
+3834,Data does not update correctly,valid,Website,negative
+3835,Navigation menus are broken,valid,Website,negative
+3836,Too many unnecessary clicks,valid,Website,negative
+3837,Session expires too quickly,valid,Website,negative
+3838,Loading errors are common,valid,Website,negative
+3839,UI elements overlap,valid,Website,negative
+3840,Website performance is poor,valid,Website,negative
+3841,Teaching quality is very poor,valid,Academics,negative
+3842,Syllabus is outdated and not useful,valid,Academics,negative
+3843,Lectures are not conducted properly,valid,Academics,negative
+3844,Concepts are not explained clearly,valid,Academics,negative
+3845,Too much academic pressure,valid,Academics,negative
+3846,Faculty does not help students,valid,Academics,negative
+3847,Assignments are not reviewed properly,valid,Academics,negative
+3848,No proper exam preparation guidance,valid,Academics,negative
+3849,Study material is insufficient,valid,Academics,negative
+3850,Classes are cancelled frequently,valid,Academics,negative
+3851,Teaching methods are ineffective,valid,Academics,negative
+3852,Doubts are not cleared properly,valid,Academics,negative
+3853,Course structure is confusing,valid,Academics,negative
+3854,Practical sessions are poorly handled,valid,Academics,negative
+3855,Evaluation system feels unfair,valid,Academics,negative
+3856,Faculty is not approachable,valid,Academics,negative
+3857,Too much theoretical focus,valid,Academics,negative
+3858,No industry exposure in syllabus,valid,Academics,negative
+3859,Exams are not well organized,valid,Academics,negative
+3860,Academic planning is poor,valid,Academics,negative
+3861,Administration is very slow,valid,Admin,negative
+3862,Office staff is not helpful,valid,Admin,negative
+3863,Too much delay in processing forms,valid,Admin,negative
+3864,Management communication is unclear,valid,Admin,negative
+3865,Requests are ignored frequently,valid,Admin,negative
+3866,Administrative work is inefficient,valid,Admin,negative
+3867,No proper response from admin office,valid,Admin,negative
+3868,Approval process takes too long,valid,Admin,negative
+3869,Staff behavior is unprofessional,valid,Admin,negative
+3870,Too many unnecessary procedures,valid,Admin,negative
+3871,Admin support is unreliable,valid,Admin,negative
+3872,Complaint handling is poor,valid,Admin,negative
+3873,Documents get delayed often,valid,Admin,negative
+3874,Information provided is incorrect,valid,Admin,negative
+3875,No transparency in processes,valid,Admin,negative
+3876,Workload handling is inefficient,valid,Admin,negative
+3877,Staff is often unavailable,valid,Admin,negative
+3878,Requests are lost frequently,valid,Admin,negative
+3879,Communication gap is huge,valid,Admin,negative
+3880,Admin office is disorganized,valid,Admin,negative
+3881,Classrooms are poorly maintained,valid,Facilities,negative
+3882,Washrooms are very dirty,valid,Facilities,negative
+3883,WiFi is not working properly,valid,Facilities,negative
+3884,Infrastructure needs improvement,valid,Facilities,negative
+3885,No proper seating arrangements,valid,Facilities,negative
+3886,Electricity issues happen often,valid,Facilities,negative
+3887,Projectors do not work properly,valid,Facilities,negative
+3888,Campus cleanliness is poor,valid,Facilities,negative
+3889,Labs are not well equipped,valid,Facilities,negative
+3890,Maintenance is very slow,valid,Facilities,negative
+3891,Air conditioning is not working,valid,Facilities,negative
+3892,Furniture is broken,valid,Facilities,negative
+3893,Water supply is inconsistent,valid,Facilities,negative
+3894,Lighting is insufficient,valid,Facilities,negative
+3895,Noise levels are too high,valid,Facilities,negative
+3896,Security is not reliable,valid,Facilities,negative
+3897,Parking space is limited,valid,Facilities,negative
+3898,Hostel facilities are poor,valid,Facilities,negative
+3899,Equipment is outdated,valid,Facilities,negative
+3900,Repairs take too long,valid,Facilities,negative
+3901,Food quality is very bad,valid,Canteen,negative
+3902,Canteen is overcrowded,valid,Canteen,negative
+3903,Prices are too high,valid,Canteen,negative
+3904,Food is often stale,valid,Canteen,negative
+3905,Very limited food options,valid,Canteen,negative
+3906,Hygiene standards are poor,valid,Canteen,negative
+3907,Service is very slow,valid,Canteen,negative
+3908,Seating space is insufficient,valid,Canteen,negative
+3909,Food taste is not good,valid,Canteen,negative
+3910,Staff is not friendly,valid,Canteen,negative
+3911,Waiting time is too long,valid,Canteen,negative
+3912,Food portions are small,valid,Canteen,negative
+3913,Cleanliness is not maintained,valid,Canteen,negative
+3914,Menu lacks variety,valid,Canteen,negative
+3915,Utensils are not clean,valid,Canteen,negative
+3916,Drinks are overpriced,valid,Canteen,negative
+3917,Cooking quality is inconsistent,valid,Canteen,negative
+3918,Food smells bad sometimes,valid,Canteen,negative
+3919,Crowd management is poor,valid,Canteen,negative
+3920,Service counters are inefficient,valid,Canteen,negative
+3921,Not enough books available,valid,Library,negative
+3922,Library timing is inconvenient,valid,Library,negative
+3923,Too noisy inside library,valid,Library,negative
+3924,Books are outdated,valid,Library,negative
+3925,Seating space is limited,valid,Library,negative
+3926,Computers are not working,valid,Library,negative
+3927,Staff is not helpful,valid,Library,negative
+3928,Book search system is slow,valid,Library,negative
+3929,Lighting is insufficient,valid,Library,negative
+3930,Library rules are too strict,valid,Library,negative
+3931,AC is not functioning properly,valid,Library,negative
+3932,WiFi connectivity is poor,valid,Library,negative
+3933,Not enough study space,valid,Library,negative
+3934,Old editions of books only,valid,Library,negative
+3935,Noise control is lacking,valid,Library,negative
+3936,Digital resources are limited,valid,Library,negative
+3937,Book issue process is slow,valid,Library,negative
+3938,Staff is unresponsive,valid,Library,negative
+3939,Library is overcrowded,valid,Library,negative
+3940,Maintenance is poor,valid,Library,negative
+3941,Website is very slow,valid,Website,negative
+3942,Portal crashes frequently,valid,Website,negative
+3943,UI is confusing,valid,Website,negative
+3944,Login issues happen often,valid,Website,negative
+3945,Navigation is not user friendly,valid,Website,negative
+3946,Pages take too long to load,valid,Website,negative
+3947,Errors appear frequently,valid,Website,negative
+3948,Design looks outdated,valid,Website,negative
+3949,Features are not working properly,valid,Website,negative
+3950,Too many bugs in the system,valid,Website,negative
+3951,Server downtime is frequent,valid,Website,negative
+3952,Search function does not work well,valid,Website,negative
+3953,Mobile version is not responsive,valid,Website,negative
+3954,Data does not update correctly,valid,Website,negative
+3955,Navigation menus are broken,valid,Website,negative
+3956,Too many unnecessary clicks,valid,Website,negative
+3957,Session expires too quickly,valid,Website,negative
+3958,Loading errors are common,valid,Website,negative
+3959,UI elements overlap,valid,Website,negative
+3960,Website performance is poor,valid,Website,negative
+3961,Teaching quality is very poor,valid,Academics,negative
+3962,Syllabus is outdated and not useful,valid,Academics,negative
+3963,Lectures are not conducted properly,valid,Academics,negative
+3964,Concepts are not explained clearly,valid,Academics,negative
+3965,Too much academic pressure,valid,Academics,negative
+3966,Faculty does not help students,valid,Academics,negative
+3967,Assignments are not reviewed properly,valid,Academics,negative
+3968,No proper exam preparation guidance,valid,Academics,negative
+3969,Study material is insufficient,valid,Academics,negative
+3970,Classes are cancelled frequently,valid,Academics,negative
+3971,Teaching methods are ineffective,valid,Academics,negative
+3972,Doubts are not cleared properly,valid,Academics,negative
+3973,Course structure is confusing,valid,Academics,negative
+3974,Practical sessions are poorly handled,valid,Academics,negative
+3975,Evaluation system feels unfair,valid,Academics,negative
+3976,Faculty is not approachable,valid,Academics,negative
+3977,Too much theoretical focus,valid,Academics,negative
+3978,No industry exposure in syllabus,valid,Academics,negative
+3979,Exams are not well organized,valid,Academics,negative
+3980,Academic planning is poor,valid,Academics,negative
+3981,Administration is very slow,valid,Admin,negative
+3982,Office staff is not helpful,valid,Admin,negative
+3983,Too much delay in processing forms,valid,Admin,negative
+3984,Management communication is unclear,valid,Admin,negative
+3985,Requests are ignored frequently,valid,Admin,negative
+3986,Administrative work is inefficient,valid,Admin,negative
+3987,No proper response from admin office,valid,Admin,negative
+3988,Approval process takes too long,valid,Admin,negative
+3989,Staff behavior is unprofessional,valid,Admin,negative
+3990,Too many unnecessary procedures,valid,Admin,negative
+3991,Admin support is unreliable,valid,Admin,negative
+3992,Complaint handling is poor,valid,Admin,negative
+3993,Documents get delayed often,valid,Admin,negative
+3994,Information provided is incorrect,valid,Admin,negative
+3995,No transparency in processes,valid,Admin,negative
+3996,Workload handling is inefficient,valid,Admin,negative
+3997,Staff is often unavailable,valid,Admin,negative
+3998,Requests are lost frequently,valid,Admin,negative
+3999,Communication gap is huge,valid,Admin,negative
+4000,Admin office is disorganized,valid,Admin,negative
+4001,Classrooms are poorly maintained,valid,Facilities,negative
+4002,Washrooms are very dirty,valid,Facilities,negative
+4003,WiFi is not working properly,valid,Facilities,negative
+4004,Infrastructure needs improvement,valid,Facilities,negative
+4005,No proper seating arrangements,valid,Facilities,negative
+4006,Electricity issues happen often,valid,Facilities,negative
+4007,Projectors do not work properly,valid,Facilities,negative
+4008,Campus cleanliness is poor,valid,Facilities,negative
+4009,Labs are not well equipped,valid,Facilities,negative
+4010,Maintenance is very slow,valid,Facilities,negative
+4011,Air conditioning is not working,valid,Facilities,negative
+4012,Furniture is broken,valid,Facilities,negative
+4013,Water supply is inconsistent,valid,Facilities,negative
+4014,Lighting is insufficient,valid,Facilities,negative
+4015,Noise levels are too high,valid,Facilities,negative
+4016,Security is not reliable,valid,Facilities,negative
+4017,Parking space is limited,valid,Facilities,negative
+4018,Hostel facilities are poor,valid,Facilities,negative
+4019,Equipment is outdated,valid,Facilities,negative
+4020,Repairs take too long,valid,Facilities,negative
+4021,Food quality is very bad,valid,Canteen,negative
+4022,Canteen is overcrowded,valid,Canteen,negative
+4023,Prices are too high,valid,Canteen,negative
+4024,Food is often stale,valid,Canteen,negative
+4025,Very limited food options,valid,Canteen,negative
+4026,Hygiene standards are poor,valid,Canteen,negative
+4027,Service is very slow,valid,Canteen,negative
+4028,Seating space is insufficient,valid,Canteen,negative
+4029,Food taste is not good,valid,Canteen,negative
+4030,Staff is not friendly,valid,Canteen,negative
+4031,Waiting time is too long,valid,Canteen,negative
+4032,Food portions are small,valid,Canteen,negative
+4033,Cleanliness is not maintained,valid,Canteen,negative
+4034,Menu lacks variety,valid,Canteen,negative
+4035,Utensils are not clean,valid,Canteen,negative
+4036,Drinks are overpriced,valid,Canteen,negative
+4037,Cooking quality is inconsistent,valid,Canteen,negative
+4038,Food smells bad sometimes,valid,Canteen,negative
+4039,Crowd management is poor,valid,Canteen,negative
+4040,Service counters are inefficient,valid,Canteen,negative
+4041,Not enough books available,valid,Library,negative
+4042,Library timing is inconvenient,valid,Library,negative
+4043,Too noisy inside library,valid,Library,negative
+4044,Books are outdated,valid,Library,negative
+4045,Seating space is limited,valid,Library,negative
+4046,Computers are not working,valid,Library,negative
+4047,Staff is not helpful,valid,Library,negative
+4048,Book search system is slow,valid,Library,negative
+4049,Lighting is insufficient,valid,Library,negative
+4050,Library rules are too strict,valid,Library,negative
+4051,AC is not functioning properly,valid,Library,negative
+4052,WiFi connectivity is poor,valid,Library,negative
+4053,Not enough study space,valid,Library,negative
+4054,Old editions of books only,valid,Library,negative
+4055,Noise control is lacking,valid,Library,negative
+4056,Digital resources are limited,valid,Library,negative
+4057,Book issue process is slow,valid,Library,negative
+4058,Staff is unresponsive,valid,Library,negative
+4059,Library is overcrowded,valid,Library,negative
+4060,Maintenance is poor,valid,Library,negative
+4061,Website is very slow,valid,Website,negative
+4062,Portal crashes frequently,valid,Website,negative
+4063,UI is confusing,valid,Website,negative
+4064,Login issues happen often,valid,Website,negative
+4065,Navigation is not user friendly,valid,Website,negative
+4066,Pages take too long to load,valid,Website,negative
+4067,Errors appear frequently,valid,Website,negative
+4068,Design looks outdated,valid,Website,negative
+4069,Features are not working properly,valid,Website,negative
+4070,Too many bugs in the system,valid,Website,negative
+4071,Server downtime is frequent,valid,Website,negative
+4072,Search function does not work well,valid,Website,negative
+4073,Mobile version is not responsive,valid,Website,negative
+4074,Data does not update correctly,valid,Website,negative
+4075,Navigation menus are broken,valid,Website,negative
+4076,Too many unnecessary clicks,valid,Website,negative
+4077,Session expires too quickly,valid,Website,negative
+4078,Loading errors are common,valid,Website,negative
+4079,UI elements overlap,valid,Website,negative
+4080,Website performance is poor,valid,Website,negative
+4081,Teaching quality is very poor,valid,Academics,negative
+4082,Syllabus is outdated and not useful,valid,Academics,negative
+4083,Lectures are not conducted properly,valid,Academics,negative
+4084,Concepts are not explained clearly,valid,Academics,negative
+4085,Too much academic pressure,valid,Academics,negative
+4086,Faculty does not help students,valid,Academics,negative
+4087,Assignments are not reviewed properly,valid,Academics,negative
+4088,No proper exam preparation guidance,valid,Academics,negative
+4089,Study material is insufficient,valid,Academics,negative
+4090,Classes are cancelled frequently,valid,Academics,negative
+4091,Teaching methods are ineffective,valid,Academics,negative
+4092,Doubts are not cleared properly,valid,Academics,negative
+4093,Course structure is confusing,valid,Academics,negative
+4094,Practical sessions are poorly handled,valid,Academics,negative
+4095,Evaluation system feels unfair,valid,Academics,negative
+4096,Faculty is not approachable,valid,Academics,negative
+4097,Too much theoretical focus,valid,Academics,negative
+4098,No industry exposure in syllabus,valid,Academics,negative
+4099,Exams are not well organized,valid,Academics,negative
+4100,Academic planning is poor,valid,Academics,negative
+4101,Administration is very slow,valid,Admin,negative
+4102,Office staff is not helpful,valid,Admin,negative
+4103,Too much delay in processing forms,valid,Admin,negative
+4104,Management communication is unclear,valid,Admin,negative
+4105,Requests are ignored frequently,valid,Admin,negative
+4106,Administrative work is inefficient,valid,Admin,negative
+4107,No proper response from admin office,valid,Admin,negative
+4108,Approval process takes too long,valid,Admin,negative
+4109,Staff behavior is unprofessional,valid,Admin,negative
+4110,Too many unnecessary procedures,valid,Admin,negative
+4111,Admin support is unreliable,valid,Admin,negative
+4112,Complaint handling is poor,valid,Admin,negative
+4113,Documents get delayed often,valid,Admin,negative
+4114,Information provided is incorrect,valid,Admin,negative
+4115,No transparency in processes,valid,Admin,negative
+4116,Workload handling is inefficient,valid,Admin,negative
+4117,Staff is often unavailable,valid,Admin,negative
+4118,Requests are lost frequently,valid,Admin,negative
+4119,Communication gap is huge,valid,Admin,negative
+4120,Admin office is disorganized,valid,Admin,negative
+4121,Classrooms need renovation,valid,Facilities,negative
+4122,Lab equipment is insufficient,valid,Facilities,negative
+4123,Campus maintenance is weak,valid,Facilities,negative
+4124,Classroom ventilation is poor,valid,Facilities,negative
+4125,Water coolers are not working,valid,Facilities,negative
+4126,Campus hygiene is poor,valid,Facilities,negative
+4127,Electric sockets are broken,valid,Facilities,negative
+4128,Furniture quality is bad,valid,Facilities,negative
+4129,Lab computers are outdated,valid,Facilities,negative
+4130,Campus roads are damaged,valid,Facilities,negative
+4131,Lighting in corridors is poor,valid,Facilities,negative
+4132,No proper maintenance staff,valid,Facilities,negative
+4133,Restrooms lack cleanliness,valid,Facilities,negative
+4134,Infrastructure is outdated,valid,Facilities,negative
+4135,Campus security is weak,valid,Facilities,negative
+4136,Sports facilities are poor,valid,Facilities,negative
+4137,Library building needs repair,valid,Facilities,negative
+4138,Hostel rooms are not clean,valid,Facilities,negative
+4139,Garbage disposal is poor,valid,Facilities,negative
+4140,Maintenance requests are ignored,valid,Facilities,negative
+4141,Food quality is unacceptable,valid,Canteen,negative
+4142,Canteen hygiene is poor,valid,Canteen,negative
+4143,Food prices are unreasonable,valid,Canteen,negative
+4144,Food is not fresh,valid,Canteen,negative
+4145,Canteen lacks variety,valid,Canteen,negative
+4146,Service delay is frustrating,valid,Canteen,negative
+4147,Staff behavior is rude,valid,Canteen,negative
+4148,Crowd is not managed properly,valid,Canteen,negative
+4149,Food preparation is unhygienic,valid,Canteen,negative
+4150,Food quality is inconsistent,valid,Canteen,negative
+4151,Waiting time is excessive,valid,Canteen,negative
+4152,Utensils are dirty,valid,Canteen,negative
+4153,Canteen seating is inadequate,valid,Canteen,negative
+4154,Menu options are limited,valid,Canteen,negative
+4155,Canteen service is inefficient,valid,Canteen,negative
+4156,Library feels peaceful and calm,valid,library,positive
+4157,Found books easily today,valid,library,positive
+4158,Seating is very comfortable,valid,library,positive
+4159,Staff helped me quickly,valid,library,positive
+4160,Study environment is excellent,valid,library,positive
+4161,Books are well arranged,valid,library,positive
+4162,Reading area is clean,valid,library,positive
+4163,Lighting is perfect for studying,valid,library,positive
+4164,Reference section is helpful,valid,library,positive
+4165,Silence is maintained well,valid,library,positive
+4166,Library is very clean,valid,library,positive
+4167,Air feels fresh inside,valid,library,positive
+4168,Chairs are comfortable,valid,library,positive
+4169,Staff are very polite,valid,library,positive
+4170,Book issue process is smooth,valid,library,positive
+4171,Timing is convenient,valid,library,positive
+4172,Digital system works well,valid,library,positive
+4173,Tables are spacious,valid,library,positive
+4174,Study cabins are useful,valid,library,positive
+4175,Environment helps focus,valid,library,positive
+4176,Books are in good condition,valid,library,positive
+4177,Library layout is neat,valid,library,positive
+4178,Journals are easy to find,valid,library,positive
+4179,Everything is well organized,valid,library,positive
+4180,Staff response is quick,valid,library,positive
+4181,Reading corner is cozy,valid,library,positive
+4182,Library feels relaxing,valid,library,positive
+4183,Desks are well spaced,valid,library,positive
+4184,Ventilation is good,valid,library,positive
+4185,Help desk is useful,valid,library,positive
+4186,Book collection is good,valid,library,positive
+4187,Library is perfect for study,valid,library,positive
+4188,Resources are easily available,valid,library,positive
+4189,Staff support is great,valid,library,positive
+4190,Library looks organized,valid,library,positive
+4191,Atmosphere is motivating,valid,library,positive
+4192,Study area is quiet,valid,library,positive
+4193,Cleanliness is maintained,valid,library,positive
+4194,Library space is great,valid,library,positive
+4195,Arrangement is proper,valid,library,positive
+4196,Reading is comfortable,valid,library,positive
+4197,Services are efficient,valid,library,positive
+4198,Space is sufficient,valid,library,positive
+4199,Quiet zones are helpful,valid,library,positive
+4200,Library experience is great,valid,library,positive
+4201,Library is very शांत,valid,library,positive
+4202,Books are easy to access,valid,library,positive
+4203,Study tables are clean,valid,library,positive
+4204,Staff are cooperative,valid,library,positive
+4205,Library feels fresh,valid,library,positive
+4206,Seating arrangement is good,valid,library,positive
+4207,Reading environment is nice,valid,library,positive
+4208,Books are updated,valid,library,positive
+4209,Library is well maintained,valid,library,positive
+4210,Space is comfortable,valid,library,positive
+4211,Library staff are helpful,valid,library,positive
+4212,Study rooms are useful,valid,library,positive
+4213,Lighting is bright,valid,library,positive
+4214,Books collection is rich,valid,library,positive
+4215,Library rules are followed,valid,library,positive
+4216,Silence supports focus,valid,library,positive
+4217,Library layout is clear,valid,library,positive
+4218,Reading experience is good,valid,library,positive
+4219,Book system works smoothly,valid,library,positive
+4220,Environment is peaceful,valid,library,positive
+4221,Library timing is good,valid,library,positive
+4222,Staff behavior is nice,valid,library,positive
+4223,Study desks are comfortable,valid,library,positive
+4224,Books are easy to find,valid,library,positive
+4225,Library is ideal for study,valid,library,positive
+4226,Clean space helps concentration,valid,library,positive
+4227,Library feels organized,valid,library,positive
+4228,Air conditioning works well,valid,library,positive
+4229,Reading zone is quiet,valid,library,positive
+4230,Library has good resources,valid,library,positive
+4231,Study area is well managed,valid,library,positive
+4232,Staff assistance is quick,valid,library,positive
+4233,Library is calm and quiet,valid,library,positive
+4234,Books are arranged neatly,valid,library,positive
+4235,Library environment is perfect,valid,library,positive
+4236,Study place is comfortable,valid,library,positive
+4237,Library is clean and tidy,valid,library,positive
+4238,Reference books are useful,valid,library,positive
+4239,Reading space is peaceful,valid,library,positive
+4240,Library services are smooth,valid,library,positive
+4241,Staff are supportive,valid,library,positive
+4242,Library is easy to navigate,valid,library,positive
+4243,Study experience is great,valid,library,positive
+4244,Books availability is good,valid,library,positive
+4245,Library feels comfortable,valid,library,positive
+4246,Reading environment is focused,valid,library,positive
+4247,Library is well structured,valid,library,positive
+4248,Seating space is enough,valid,library,positive
+4249,Books are accessible,valid,library,positive
+4250,Library is student friendly,valid,library,positive
+4251,Study atmosphere is calm,valid,library,positive
+4252,Library is peaceful,valid,library,positive
+4253,Resources are helpful,valid,library,positive
+4254,Library is great for studying,valid,library,positive
+4255,Overall experience is excellent,valid,library,positive
+4256,Library ambience is very nice,valid,library,positive
+4257,Study space feels very comfortable,valid,library,positive
+4258,Library support is excellent,valid,library,positive
+4259,Canteen food tastes great,valid,canteen,positive
+4260,Meals are fresh and delicious,valid,canteen,positive
+4261,Snacks are crispy and tasty,valid,canteen,positive
+4262,Juice is refreshing,valid,canteen,positive
+4263,Canteen is clean and hygienic,valid,canteen,positive
+4264,Service is quick,valid,canteen,positive
+4265,Menu has good variety,valid,canteen,positive
+4266,Breakfast was satisfying,valid,canteen,positive
+4267,Lunch meals are tasty,valid,canteen,positive
+4268,Evening snacks are enjoyable,valid,canteen,positive
+4269,Food is always fresh,valid,canteen,positive
+4270,Canteen staff are friendly,valid,canteen,positive
+4271,Seating area is comfortable,valid,canteen,positive
+4272,Tea tastes good,valid,canteen,positive
+4273,Coffee is well made,valid,canteen,positive
+4274,Meals are affordable,valid,canteen,positive
+4275,Food portions are sufficient,valid,canteen,positive
+4276,Tables are clean,valid,canteen,positive
+4277,Snack options are good,valid,canteen,positive
+4278,Canteen feels lively,valid,canteen,positive
+4279,Queue moves fast,valid,canteen,positive
+4280,Staff service is polite,valid,canteen,positive
+4281,Meals are served quickly,valid,canteen,positive
+4282,Food smells nice,valid,canteen,positive
+4283,Canteen experience is pleasant,valid,canteen,positive
+4284,Food quality is consistent,valid,canteen,positive
+4285,Breakfast items are tasty,valid,canteen,positive
+4286,Lunch is satisfying,valid,canteen,positive
+4287,Snacks are fresh,valid,canteen,positive
+4288,Juices are refreshing,valid,canteen,positive
+4289,Canteen hygiene is good,valid,canteen,positive
+4290,Service is efficient,valid,canteen,positive
+4291,Menu options are nice,valid,canteen,positive
+4292,Food is served hot,valid,canteen,positive
+4293,Staff are cooperative,valid,canteen,positive
+4294,Seating is neat,valid,canteen,positive
+4295,Tea is refreshing,valid,canteen,positive
+4296,Coffee tastes good,valid,canteen,positive
+4297,Meals are worth the price,valid,canteen,positive
+4298,Food quantity is good,valid,canteen,positive
+4299,Tables are maintained clean,valid,canteen,positive
+4300,Snack variety is enjoyable,valid,canteen,positive
+4301,Canteen is welcoming,valid,canteen,positive
+4302,Queue is managed well,valid,canteen,positive
+4303,Staff are helpful,valid,canteen,positive
+4304,Food is served on time,valid,canteen,positive
+4305,Meals taste delicious,valid,canteen,positive
+4306,Food freshness is good,valid,canteen,positive
+4307,Snacks are tasty,valid,canteen,positive
+4308,Juice tastes fresh,valid,canteen,positive
+4309,Canteen is well maintained,valid,canteen,positive
+4310,Service is smooth,valid,canteen,positive
+4311,Menu is interesting,valid,canteen,positive
+4312,Breakfast is good,valid,canteen,positive
+4313,Lunch quality is good,valid,canteen,positive
+4314,Snacks are enjoyable,valid,canteen,positive
+4315,Food is hygienic,valid,canteen,positive
+4316,Staff behavior is nice,valid,canteen,positive
+4317,Seating area is clean,valid,canteen,positive
+4318,Tea is perfect,valid,canteen,positive
+4319,Coffee is refreshing,valid,canteen,positive
+4320,Meals are filling,valid,canteen,positive
+4321,Food portions are nice,valid,canteen,positive
+4322,Tables are tidy,valid,canteen,positive
+4323,Snack options are plenty,valid,canteen,positive
+4324,Canteen feels comfortable,valid,canteen,positive
+4325,Queue system is good,valid,canteen,positive
+4326,Staff service is quick,valid,canteen,positive
+4327,Meals are well served,valid,canteen,positive
+4328,Food quality is great,valid,canteen,positive
+4329,Breakfast feels fresh,valid,canteen,positive
+4330,Lunch meals are well prepared,valid,canteen,positive
+4331,Snacks are served hot,valid,canteen,positive
+4332,Juice is tasty,valid,canteen,positive
+4333,Canteen cleanliness is good,valid,canteen,positive
+4334,Service is fast,valid,canteen,positive
+4335,Menu is diverse,valid,canteen,positive
+4336,Food is enjoyable,valid,canteen,positive
+4337,Staff are polite,valid,canteen,positive
+4338,Seating is well arranged,valid,canteen,positive
+4339,Tea tastes great,valid,canteen,positive
+4340,Coffee is good,valid,canteen,positive
+4341,Meals are satisfying,valid,canteen,positive
+4342,Food quantity is sufficient,valid,canteen,positive
+4343,Tables are clean and neat,valid,canteen,positive
+4344,Snacks are fresh and good,valid,canteen,positive
+4345,Canteen environment is nice,valid,canteen,positive
+4346,Queue moves smoothly,valid,canteen,positive
+4347,Staff are responsive,valid,canteen,positive
+4348,Food is served fast,valid,canteen,positive
+4349,Meals are tasty and fresh,valid,canteen,positive
+4350,Food quality is nice,valid,canteen,positive
+4351,Snacks are delicious,valid,canteen,positive
+4352,Juice options are good,valid,canteen,positive
+4353,Canteen is hygienic,valid,canteen,positive
+4354,Service quality is good,valid,canteen,positive
+4355,Overall canteen experience is great,valid,canteen,positive
+4356,Canteen meals are very enjoyable,valid,canteen,positive
+4357,Food tastes consistently good,valid,canteen,positive
+4358,Snacks are always fresh,valid,canteen,positive
+4359,Juices are refreshing and tasty,valid,canteen,positive
+4360,Canteen service is reliable,valid,canteen,positive
+4361,Overall food quality is excellent,valid,canteen,positive
+4362,Faculty explains concepts clearly,valid,academics,positive
+4363,Classes are very interactive,valid,academics,positive
+4364,Notes are easy to understand,valid,academics,positive
+4365,Teachers are supportive,valid,academics,positive
+4366,Doubt sessions are helpful,valid,academics,positive
+4367,Assignments improve understanding,valid,academics,positive
+4368,Study material is useful,valid,academics,positive
+4369,Examples make concepts clear,valid,academics,positive
+4370,Class pace is comfortable,valid,academics,positive
+4371,Weekly tests are helpful,valid,academics,positive
+4372,Faculty teaching is effective,valid,academics,positive
+4373,Concept explanation is simple,valid,academics,positive
+4374,Classes keep students engaged,valid,academics,positive
+4375,Notes are well structured,valid,academics,positive
+4376,Teachers guide properly,valid,academics,positive
+4377,Doubt solving is quick,valid,academics,positive
+4378,Assignments are useful,valid,academics,positive
+4379,Study resources are good,valid,academics,positive
+4380,Examples are easy to follow,valid,academics,positive
+4381,Class timing is convenient,valid,academics,positive
+4382,Tests improve preparation,valid,academics,positive
+4383,Faculty is approachable,valid,academics,positive
+4384,Concepts are well explained,valid,academics,positive
+4385,Classes are engaging,valid,academics,positive
+4386,Notes help in revision,valid,academics,positive
+4387,Teachers are helpful,valid,academics,positive
+4388,Doubt sessions are effective,valid,academics,positive
+4389,Assignments enhance learning,valid,academics,positive
+4390,Study material is clear,valid,academics,positive
+4391,Examples simplify topics,valid,academics,positive
+4392,Class flow is smooth,valid,academics,positive
+4393,Tests are beneficial,valid,academics,positive
+4394,Faculty support is good,valid,academics,positive
+4395,Concept clarity is achieved,valid,academics,positive
+4396,Classes are well conducted,valid,academics,positive
+4397,Notes are informative,valid,academics,positive
+4398,Teachers are kind,valid,academics,positive
+4399,Doubt solving is helpful,valid,academics,positive
+4400,Assignments are meaningful,valid,academics,positive
+4401,Study content is relevant,valid,academics,positive
+4402,Examples improve learning,valid,academics,positive
+4403,Class pace is balanced,valid,academics,positive
+4404,Tests support revision,valid,academics,positive
+4405,Faculty is supportive,valid,academics,positive
+4406,Concepts are easy to grasp,valid,academics,positive
+4407,Classes are interesting,valid,academics,positive
+4408,Notes are detailed,valid,academics,positive
+4409,Teachers are encouraging,valid,academics,positive
+4410,Doubt sessions clear confusion,valid,academics,positive
+4411,Assignments build knowledge,valid,academics,positive
+4412,Study material is structured,valid,academics,positive
+4413,Examples are practical,valid,academics,positive
+4414,Class environment is positive,valid,academics,positive
+4415,Tests track progress well,valid,academics,positive
+4416,Faculty interaction is good,valid,academics,positive
+4417,Concepts are explained nicely,valid,academics,positive
+4418,Classes are productive,valid,academics,positive
+4419,Notes are very useful,valid,academics,positive
+4420,Teachers explain with clarity,valid,academics,positive
+4421,Doubt sessions are smooth,valid,academics,positive
+4422,Assignments are well planned,valid,academics,positive
+4423,Study materials are helpful,valid,academics,positive
+4424,Examples are simple,valid,academics,positive
+4425,Class structure is good,valid,academics,positive
+4426,Tests are well designed,valid,academics,positive
+4427,Faculty explains step by step,valid,academics,positive
+4428,Concepts are made easy,valid,academics,positive
+4429,Classes are clear,valid,academics,positive
+4430,Notes are organized,valid,academics,positive
+4431,Teachers are attentive,valid,academics,positive
+4432,Doubt sessions are interactive,valid,academics,positive
+4433,Assignments are helpful,valid,academics,positive
+4434,Study content is clear,valid,academics,positive
+4435,Examples help understanding,valid,academics,positive
+4436,Class pace is good,valid,academics,positive
+4437,Tests are useful,valid,academics,positive
+4438,Faculty guidance is strong,valid,academics,positive
+4439,Concept learning is effective,valid,academics,positive
+4440,Classes are structured well,valid,academics,positive
+4441,Notes are clear,valid,academics,positive
+4442,Teachers support learning,valid,academics,positive
+4443,Doubt solving is efficient,valid,academics,positive
+4444,Assignments are beneficial,valid,academics,positive
+4445,Study material is easy,valid,academics,positive
+4446,Examples are understandable,valid,academics,positive
+4447,Class flow is smooth,valid,academics,positive
+4448,Tests are helpful for learning,valid,academics,positive
+4449,Faculty is very helpful,valid,academics,positive
+4450,Concepts are well taught,valid,academics,positive
+4451,Classes are enjoyable,valid,academics,positive
+4452,Notes help a lot,valid,academics,positive
+4453,Teachers are very supportive,valid,academics,positive
+4454,Doubt sessions are effective,valid,academics,positive
+4455,Overall academic experience is great,valid,academics,positive
+4456,Learning experience is very positive,valid,academics,positive
+4457,Faculty support is excellent,valid,academics,positive
+4458,Concept clarity is very good,valid,academics,positive
+4459,Office staff are very helpful,valid,administration,positive
+4460,Process was smooth and quick,valid,administration,positive
+4461,Staff handled requests efficiently,valid,administration,positive
+4462,Guidance was clear and useful,valid,administration,positive
+4463,Work was completed quickly,valid,administration,positive
+4464,Support team is responsive,valid,administration,positive
+4465,Office environment is pleasant,valid,administration,positive
+4466,Staff communication is clear,valid,administration,positive
+4467,Requests are processed fast,valid,administration,positive
+4468,Service quality is good,valid,administration,positive
+4469,Staff behavior is polite,valid,administration,positive
+4470,Office work is well managed,valid,administration,positive
+4471,Help desk is very useful,valid,administration,positive
+4472,Queries are resolved quickly,valid,administration,positive
+4473,Staff are cooperative,valid,administration,positive
+4474,Office timing is convenient,valid,administration,positive
+4475,Processes are easy to follow,valid,administration,positive
+4476,Guidance is always helpful,valid,administration,positive
+4477,Requests are handled smoothly,valid,administration,positive
+4478,Staff are supportive,valid,administration,positive
+4479,Service is efficient,valid,administration,positive
+4480,Office atmosphere is calm,valid,administration,positive
+4481,Staff explain procedures clearly,valid,administration,positive
+4482,Work is done without delay,valid,administration,positive
+4483,Support is always available,valid,administration,positive
+4484,Office services are reliable,valid,administration,positive
+4485,Staff are approachable,valid,administration,positive
+4486,Processes are smooth,valid,administration,positive
+4487,Guidance is easy to understand,valid,administration,positive
+4488,Requests get quick response,valid,administration,positive
+4489,Staff maintain professionalism,valid,administration,positive
+4490,Office operations are efficient,valid,administration,positive
+4491,Help desk support is great,valid,administration,positive
+4492,Queries are handled politely,valid,administration,positive
+4493,Staff coordination is good,valid,administration,positive
+4494,Office workflow is smooth,valid,administration,positive
+4495,Guidance is accurate,valid,administration,positive
+4496,Requests are completed on time,valid,administration,positive
+4497,Staff assistance is quick,valid,administration,positive
+4498,Office staff are kind,valid,administration,positive
+4499,Service experience is good,valid,administration,positive
+4500,Office environment is friendly,valid,administration,positive
+4501,Staff are well trained,valid,administration,positive
+4502,Processes are clearly explained,valid,administration,positive
+4503,Requests are handled professionally,valid,administration,positive
+4504,Support is consistent,valid,administration,positive
+4505,Office staff respond quickly,valid,administration,positive
+4506,Guidance is very clear,valid,administration,positive
+4507,Work completion is fast,valid,administration,positive
+4508,Staff are efficient,valid,administration,positive
+4509,Office services are helpful,valid,administration,positive
+4510,Help desk responds quickly,valid,administration,positive
+4511,Queries are solved efficiently,valid,administration,positive
+4512,Staff are attentive,valid,administration,positive
+4513,Office processes are simple,valid,administration,positive
+4514,Guidance is helpful,valid,administration,positive
+4515,Requests are processed smoothly,valid,administration,positive
+4516,Staff are very responsive,valid,administration,positive
+4517,Office services run smoothly,valid,administration,positive
+4518,Support is always available,valid,administration,positive
+4519,Staff communication is effective,valid,administration,positive
+4520,Office staff are friendly,valid,administration,positive
+4521,Service is quick and reliable,valid,administration,positive
+4522,Processes are handled well,valid,administration,positive
+4523,Guidance is always clear,valid,administration,positive
+4524,Requests are completed quickly,valid,administration,positive
+4525,Staff are supportive and kind,valid,administration,positive
+4526,Office system works efficiently,valid,administration,positive
+4527,Help desk is responsive,valid,administration,positive
+4528,Queries are resolved properly,valid,administration,positive
+4529,Staff are professional,valid,administration,positive
+4530,Office services are smooth,valid,administration,positive
+4531,Guidance is very useful,valid,administration,positive
+4532,Requests are handled well,valid,administration,positive
+4533,Staff assistance is helpful,valid,administration,positive
+4534,Office work is efficient,valid,administration,positive
+4535,Support team is great,valid,administration,positive
+4536,Staff are cooperative and polite,valid,administration,positive
+4537,Office environment feels positive,valid,administration,positive
+4538,Processes are easy,valid,administration,positive
+4539,Guidance is smooth,valid,administration,positive
+4540,Requests are resolved fast,valid,administration,positive
+4541,Staff behavior is excellent,valid,administration,positive
+4542,Office services are efficient,valid,administration,positive
+4543,Help desk support is quick,valid,administration,positive
+4544,Queries are answered well,valid,administration,positive
+4545,Staff are very helpful,valid,administration,positive
+4546,Office process is smooth,valid,administration,positive
+4547,Guidance is clear and simple,valid,administration,positive
+4548,Requests are handled quickly,valid,administration,positive
+4549,Staff are very supportive,valid,administration,positive
+4550,Office experience is great,valid,administration,positive
+4551,Support is efficient,valid,administration,positive
+4552,Staff are quick to respond,valid,administration,positive
+4553,Office system is reliable,valid,administration,positive
+4554,Guidance is always correct,valid,administration,positive
+4555,Overall administration experience is excellent,valid,administration,positive
+4556,Administration support is excellent,valid,administration,positive
+4557,Office staff are very efficient,valid,administration,positive
+4558,Service quality is outstanding,valid,administration,positive
+4559,Website loads very fast,valid,website,positive
+4560,Portal design looks clean,valid,website,positive
+4561,Navigation is very easy,valid,website,positive
+4562,Dashboard is user friendly,valid,website,positive
+4563,Login works smoothly,valid,website,positive
+4564,Website layout is simple and neat,valid,website,positive
+4565,Pages open quickly,valid,website,positive
+4566,Features are easy to access,valid,website,positive
+4567,Search works efficiently,valid,website,positive
+4568,User interface is intuitive,valid,website,positive
+4569,Website performance is smooth,valid,website,positive
+4570,Portal looks modern,valid,website,positive
+4571,Navigation is smooth,valid,website,positive
+4572,Dashboard is easy to use,valid,website,positive
+4573,Login system is reliable,valid,website,positive
+4574,Layout is clean and organized,valid,website,positive
+4575,Pages load instantly,valid,website,positive
+4576,Features are useful,valid,website,positive
+4577,Search function is fast,valid,website,positive
+4578,Interface is user friendly,valid,website,positive
+4579,Website works without lag,valid,website,positive
+4580,Portal interface is clear,valid,website,positive
+4581,Navigation feels smooth,valid,website,positive
+4582,Dashboard design is good,valid,website,positive
+4583,Login process is quick,valid,website,positive
+4584,Website structure is neat,valid,website,positive
+4585,Pages respond quickly,valid,website,positive
+4586,Features are easy to use,valid,website,positive
+4587,Search is accurate,valid,website,positive
+4588,Interface looks clean,valid,website,positive
+4589,Website speed is good,valid,website,positive
+4590,Portal experience is smooth,valid,website,positive
+4591,Navigation is simple,valid,website,positive
+4592,Dashboard is well designed,valid,website,positive
+4593,Login works perfectly,valid,website,positive
+4594,Layout is user friendly,valid,website,positive
+4595,Pages open fast,valid,website,positive
+4596,Features are helpful,valid,website,positive
+4597,Search results are quick,valid,website,positive
+4598,Interface is easy,valid,website,positive
+4599,Website is responsive,valid,website,positive
+4600,Portal runs smoothly,valid,website,positive
+4601,Navigation is clear,valid,website,positive
+4602,Dashboard feels simple,valid,website,positive
+4603,Login system is fast,valid,website,positive
+4604,Layout is clean,valid,website,positive
+4605,Pages are well optimized,valid,website,positive
+4606,Features are smooth,valid,website,positive
+4607,Search is efficient,valid,website,positive
+4608,Interface is neat,valid,website,positive
+4609,Website speed is fast,valid,website,positive
+4610,Portal is easy to use,valid,website,positive
+4611,Navigation is intuitive,valid,website,positive
+4612,Dashboard is organized,valid,website,positive
+4613,Login is seamless,valid,website,positive
+4614,Layout is well structured,valid,website,positive
+4615,Pages load quickly,valid,website,positive
+4616,Features are accessible,valid,website,positive
+4617,Search works perfectly,valid,website,positive
+4618,Interface is smooth,valid,website,positive
+4619,Website works efficiently,valid,website,positive
+4620,Portal design is attractive,valid,website,positive
+4621,Navigation is user friendly,valid,website,positive
+4622,Dashboard is simple,valid,website,positive
+4623,Login is easy,valid,website,positive
+4624,Layout is well arranged,valid,website,positive
+4625,Pages respond fast,valid,website,positive
+4626,Features are reliable,valid,website,positive
+4627,Search is smooth,valid,website,positive
+4628,Interface is clear,valid,website,positive
+4629,Website runs well,valid,website,positive
+4630,Portal is stable,valid,website,positive
+4631,Navigation is convenient,valid,website,positive
+4632,Dashboard is clear,valid,website,positive
+4633,Login works fine,valid,website,positive
+4634,Layout is simple,valid,website,positive
+4635,Pages load without delay,valid,website,positive
+4636,Features are functional,valid,website,positive
+4637,Search results are accurate,valid,website,positive
+4638,Interface is responsive,valid,website,positive
+4639,Website is fast,valid,website,positive
+4640,Portal experience is good,valid,website,positive
+4641,Navigation is smooth and simple,valid,website,positive
+4642,Dashboard works well,valid,website,positive
+4643,Login is reliable,valid,website,positive
+4644,Layout is easy to understand,valid,website,positive
+4645,Pages are quick to load,valid,website,positive
+4646,Features are easy,valid,website,positive
+4647,Search function is helpful,valid,website,positive
+4648,Interface design is good,valid,website,positive
+4649,Website is user friendly,valid,website,positive
+4650,Portal is efficient,valid,website,positive
+4651,Navigation is fast,valid,website,positive
+4652,Dashboard is smooth,valid,website,positive
+4653,Login system is strong,valid,website,positive
+4654,Layout is clean and simple,valid,website,positive
+4655,Overall website experience is great,valid,website,positive
+4656,Website design is smooth,valid,website,positive
+4657,Navigation feels effortless,valid,website,positive
+4658,Dashboard usability is great,valid,website,positive
+4659,Login experience is seamless,valid,website,positive
+4660,Website structure is very clear,valid,website,positive
+4661,Overall portal performance is excellent,valid,website,positive
+4662,Campus facilities are excellent,valid,facilities,positive
+4663,Infrastructure is very good,valid,facilities,positive
+4664,Classrooms are well maintained,valid,facilities,positive
+4665,Campus is clean and hygienic,valid,facilities,positive
+4666,Labs are fully equipped,valid,facilities,positive
+4667,Facilities are easily accessible,valid,facilities,positive
+4668,Campus environment is pleasant,valid,facilities,positive
+4669,Seating arrangements are comfortable,valid,facilities,positive
+4670,Buildings are well designed,valid,facilities,positive
+4671,Facilities meet all needs,valid,facilities,positive
+4672,Campus maintenance is good,valid,facilities,positive
+4673,Infrastructure is modern,valid,facilities,positive
+4674,Classrooms are spacious,valid,facilities,positive
+4675,Campus cleanliness is great,valid,facilities,positive
+4676,Labs are well organized,valid,facilities,positive
+4677,Facilities are user friendly,valid,facilities,positive
+4678,Campus looks beautiful,valid,facilities,positive
+4679,Seating is comfortable,valid,facilities,positive
+4680,Buildings are clean,valid,facilities,positive
+4681,Facilities are well managed,valid,facilities,positive
+4682,Campus services are efficient,valid,facilities,positive
+4683,Infrastructure quality is high,valid,facilities,positive
+4684,Classrooms are neat,valid,facilities,positive
+4685,Campus hygiene is maintained,valid,facilities,positive
+4686,Labs are advanced,valid,facilities,positive
+4687,Facilities are reliable,valid,facilities,positive
+4688,Campus environment is calm,valid,facilities,positive
+4689,Seating is well arranged,valid,facilities,positive
+4690,Buildings are modern,valid,facilities,positive
+4691,Facilities are well planned,valid,facilities,positive
+4692,Campus upkeep is excellent,valid,facilities,positive
+4693,Infrastructure is strong,valid,facilities,positive
+4694,Classrooms are clean,valid,facilities,positive
+4695,Campus is well maintained,valid,facilities,positive
+4696,Labs are clean and equipped,valid,facilities,positive
+4697,Facilities are convenient,valid,facilities,positive
+4698,Campus looks organized,valid,facilities,positive
+4699,Seating quality is good,valid,facilities,positive
+4700,Buildings are well kept,valid,facilities,positive
+4701,Facilities are sufficient,valid,facilities,positive
+4702,Campus management is good,valid,facilities,positive
+4703,Infrastructure is excellent,valid,facilities,positive
+4704,Classrooms are comfortable,valid,facilities,positive
+4705,Campus hygiene is good,valid,facilities,positive
+4706,Labs are spacious,valid,facilities,positive
+4707,Facilities are helpful,valid,facilities,positive
+4708,Campus is peaceful,valid,facilities,positive
+4709,Seating is adequate,valid,facilities,positive
+4710,Buildings are neat,valid,facilities,positive
+4711,Facilities are efficient,valid,facilities,positive
+4712,Campus is well structured,valid,facilities,positive
+4713,Infrastructure is impressive,valid,facilities,positive
+4714,Classrooms are bright,valid,facilities,positive
+4715,Campus maintenance is strong,valid,facilities,positive
+4716,Labs are well maintained,valid,facilities,positive
+4717,Facilities are practical,valid,facilities,positive
+4718,Campus is attractive,valid,facilities,positive
+4719,Seating is comfortable and clean,valid,facilities,positive
+4720,Buildings are well structured,valid,facilities,positive
+4721,Facilities are well developed,valid,facilities,positive
+4722,Campus is organized,valid,facilities,positive
+4723,Infrastructure is solid,valid,facilities,positive
+4724,Classrooms are properly arranged,valid,facilities,positive
+4725,Campus is hygienic,valid,facilities,positive
+4726,Labs are functional,valid,facilities,positive
+4727,Facilities are good quality,valid,facilities,positive
+4728,Campus looks clean,valid,facilities,positive
+4729,Seating is well planned,valid,facilities,positive
+4730,Buildings are maintained well,valid,facilities,positive
+4731,Facilities are modern,valid,facilities,positive
+4732,Campus services are smooth,valid,facilities,positive
+4733,Infrastructure is efficient,valid,facilities,positive
+4734,Classrooms are proper,valid,facilities,positive
+4735,Campus upkeep is good,valid,facilities,positive
+4736,Labs are properly equipped,valid,facilities,positive
+4737,Facilities are structured well,valid,facilities,positive
+4738,Campus is beautiful,valid,facilities,positive
+4739,Seating is clean,valid,facilities,positive
+4740,Buildings are in good condition,valid,facilities,positive
+4741,Facilities are adequate,valid,facilities,positive
+4742,Campus management is smooth,valid,facilities,positive
+4743,Infrastructure is reliable,valid,facilities,positive
+4744,Classrooms are functional,valid,facilities,positive
+4745,Campus hygiene is excellent,valid,facilities,positive
+4746,Labs are efficient,valid,facilities,positive
+4747,Facilities are supportive,valid,facilities,positive
+4748,Campus is clean overall,valid,facilities,positive
+4749,Seating arrangement is good,valid,facilities,positive
+4750,Buildings are nice,valid,facilities,positive
+4751,Facilities are top quality,valid,facilities,positive
+4752,Campus services are helpful,valid,facilities,positive
+4753,Infrastructure is well maintained,valid,facilities,positive
+4754,Classrooms are user friendly,valid,facilities,positive
+4755,Campus upkeep is maintained,valid,facilities,positive
+4756,Labs are advanced and clean,valid,facilities,positive
+4757,Facilities are organized,valid,facilities,positive
+4758,Campus is pleasant,valid,facilities,positive
+4759,Seating is proper,valid,facilities,positive
+4760,Buildings are clean and neat,valid,facilities,positive
+4761,Facilities are excellent overall,valid,facilities,positive
+4762,Campus is well developed,valid,facilities,positive
+4763,Infrastructure is well planned,valid,facilities,positive
+4764,Classrooms are maintained,valid,facilities,positive
+4765,Campus hygiene is proper,valid,facilities,positive
+4766,Labs are modern,valid,facilities,positive
+4767,Facilities are high quality,valid,facilities,positive
+4768,Campus looks great,valid,facilities,positive
+4769,Seating is sufficient,valid,facilities,positive
+4770,Buildings are impressive,valid,facilities,positive
+4771,Facilities are well maintained,valid,facilities,positive
+4772,Campus environment is excellent,valid,facilities,positive
+4773,Overall facilities are outstanding,valid,facilities,positive
+4774,Library is available for use,valid,library,neutral
+4775,Books are present in the library,valid,library,neutral
+4776,Library timing is fixed,valid,library,neutral
+4777,Seating is arranged in the library,valid,library,neutral
+4778,Library has multiple sections,valid,library,neutral
+4779,Students visit the library regularly,valid,library,neutral
+4780,Library system is functional,valid,library,neutral
+4781,Books are issued to students,valid,library,neutral
+4782,Library environment is maintained,valid,library,neutral
+4783,Staff are present in the library,valid,library,neutral
+4784,Library has reading space,valid,library,neutral
+4785,Books are categorized,valid,library,neutral
+4786,Library is open on working days,valid,library,neutral
+4787,Students can access the library,valid,library,neutral
+4788,Library contains study materials,valid,library,neutral
+4789,Library rules are followed,valid,library,neutral
+4790,Books are arranged on shelves,valid,library,neutral
+4791,Library provides seating,valid,library,neutral
+4792,Students use library services,valid,library,neutral
+4793,Library maintains records,valid,library,neutral
+4794,Books are returned on time,valid,library,neutral
+4795,Library system is organized,valid,library,neutral
+4796,Library has multiple racks,valid,library,neutral
+4797,Library provides resources,valid,library,neutral
+4798,Library is accessible to students,valid,library,neutral
+4799,Books are available for reference,valid,library,neutral
+4800,Library has study tables,valid,library,neutral
+4801,Library functions daily,valid,library,neutral
+4802,Students read books in library,valid,library,neutral
+4803,Library services are used,valid,library,neutral
+4804,Books are issued regularly,valid,library,neutral
+4805,Library space is utilized,valid,library,neutral
+4806,Library follows schedule,valid,library,neutral
+4807,Students borrow books,valid,library,neutral
+4808,Library has reading desks,valid,library,neutral
+4809,Books are stored properly,valid,library,neutral
+4810,Library supports study needs,valid,library,neutral
+4811,Library has basic facilities,valid,library,neutral
+4812,Students visit for study,valid,library,neutral
+4813,Library is part of campus,valid,library,neutral
+4814,Library is maintained daily,valid,library,neutral
+4815,Books are placed on racks,valid,library,neutral
+4816,Library includes academic books,valid,library,neutral
+4817,Library operates regularly,valid,library,neutral
+4818,Library has fixed rules,valid,library,neutral
+4819,Students sit and study,valid,library,neutral
+4820,Library has organized sections,valid,library,neutral
+4821,Books are labeled,valid,library,neutral
+4822,Library supports students,valid,library,neutral
+4823,Library is accessible,valid,library,neutral
+4824,Library includes references,valid,library,neutral
+4825,Students use reading space,valid,library,neutral
+4826,Library is part of academics,valid,library,neutral
+4827,Library has staff support,valid,library,neutral
+4828,Books are maintained,valid,library,neutral
+4829,Library has study environment,valid,library,neutral
+4830,Library has quiet area,valid,library,neutral
+4831,Library includes textbooks,valid,library,neutral
+4832,Library is structured,valid,library,neutral
+4833,Students follow rules,valid,library,neutral
+4834,Library has storage system,valid,library,neutral
+4835,Books are updated periodically,valid,library,neutral
+4836,Library supports reading habits,valid,library,neutral
+4837,Library includes journals,valid,library,neutral
+4838,Library functions under schedule,valid,library,neutral
+4839,Students refer books,valid,library,neutral
+4840,Library maintains discipline,valid,library,neutral
+4841,Library has shelves,valid,library,neutral
+4842,Library contains academic resources,valid,library,neutral
+4843,Students use tables for study,valid,library,neutral
+4844,Library has proper lighting,valid,library,neutral
+4845,Books are arranged systematically,valid,library,neutral
+4846,Library has management system,valid,library,neutral
+4847,Students access books,valid,library,neutral
+4848,Library includes study materials,valid,library,neutral
+4849,Library is functional,valid,library,neutral
+4850,Books are checked out,valid,library,neutral
+4851,Library has reading zone,valid,library,neutral
+4852,Students maintain silence,valid,library,neutral
+4853,Library provides information,valid,library,neutral
+4854,Library is operational,valid,library,neutral
+4855,Books are available,valid,library,neutral
+4856,Library contains different genres,valid,library,neutral
+4857,Library has infrastructure,valid,library,neutral
+4858,Students spend time reading,valid,library,neutral
+4859,Library has catalog system,valid,library,neutral
+4860,Books are listed properly,valid,library,neutral
+4861,Library helps in studies,valid,library,neutral
+4862,Library is structured well,valid,library,neutral
+4863,Students use it regularly,valid,library,neutral
+4864,Library contains educational material,valid,library,neutral
+4865,Library is organized,valid,library,neutral
+4866,Books are issued and returned,valid,library,neutral
+4867,Library is accessible to all,valid,library,neutral
+4868,Students utilize library,valid,library,neutral
+4869,Library has seating capacity,valid,library,neutral
+4870,Library includes resources for study,valid,library,neutral
+4871,Library is managed properly,valid,library,neutral
+4872,Students read quietly,valid,library,neutral
+4873,Library continues to function,valid,library,neutral
+4874,Library has standard facilities,valid,library,neutral
+4875,Books are placed in order,valid,library,neutral
+4876,Library follows regular timings,valid,library,neutral
+4877,Students access resources daily,valid,library,neutral
+4878,Library has reading chairs,valid,library,neutral
+4879,Books are kept in sections,valid,library,neutral
+4880,Library includes academic journals,valid,library,neutral
+4881,Students visit for reference,valid,library,neutral
+4882,Library environment is quiet,valid,library,neutral
+4883,Books are issued through system,valid,library,neutral
+4884,Library maintains records of books,valid,library,neutral
+4885,Students use tables for reading,valid,library,neutral
+4886,Library is used for study sessions,valid,library,neutral
+4887,Books are arranged by subject,valid,library,neutral
+4888,Library includes digital records,valid,library,neutral
+4889,Students sit in reading area,valid,library,neutral
+4890,Library has organized racks,valid,library,neutral
+4891,Books are catalogued,valid,library,neutral
+4892,Library is part of academic system,valid,library,neutral
+4893,Students borrow materials,valid,library,neutral
+4894,Library contains reference books,valid,library,neutral
+4895,Library has lighting setup,valid,library,neutral
+4896,Books are placed neatly,valid,library,neutral
+4897,Library has management rules,valid,library,neutral
+4898,Students access library services,valid,library,neutral
+4899,Library provides reading environment,valid,library,neutral
+4900,Books are stacked on shelves,valid,library,neutral
+4901,Library includes study desks,valid,library,neutral
+4902,Students use library resources,valid,library,neutral
+4903,Library maintains discipline,valid,library,neutral
+4904,Books are categorized properly,valid,library,neutral
+4905,Library has access system,valid,library,neutral
+4906,Students visit for assignments,valid,library,neutral
+4907,Library supports coursework,valid,library,neutral
+4908,Books are issued through staff,valid,library,neutral
+4909,Library has record keeping,valid,library,neutral
+4910,Students follow silence rules,valid,library,neutral
+4911,Library includes academic materials,valid,library,neutral
+4912,Books are kept safely,valid,library,neutral
+4913,Library is used during study hours,valid,library,neutral
+4914,Students read in groups sometimes,valid,library,neutral
+4915,Library has reference section,valid,library,neutral
+4916,Books are arranged alphabetically,valid,library,neutral
+4917,Library has study tables,valid,library,neutral
+4918,Students refer notes,valid,library,neutral
+4919,Library contains syllabus books,valid,library,neutral
+4920,Books are issued daily,valid,library,neutral
+4921,Library maintains book list,valid,library,neutral
+4922,Students use space for reading,valid,library,neutral
+4923,Library is available on weekdays,valid,library,neutral
+4924,Books are returned after use,valid,library,neutral
+4925,Library has organized storage,valid,library,neutral
+4926,Students use resources regularly,valid,library,neutral
+4927,Library has quiet zones,valid,library,neutral
+4928,Books are arranged neatly,valid,library,neutral
+4929,Library has entry system,valid,library,neutral
+4930,Students use library during breaks,valid,library,neutral
+4931,Library contains different subjects,valid,library,neutral
+4932,Books are managed by staff,valid,library,neutral
+4933,Library has system for issue and return,valid,library,neutral
+4934,Students follow library timing,valid,library,neutral
+4935,Library has reading arrangements,valid,library,neutral
+4936,Books are organized on shelves,valid,library,neutral
+4937,Library includes academic support,valid,library,neutral
+4938,Students use it for research,valid,library,neutral
+4939,Library has book records,valid,library,neutral
+4940,Books are categorized by topic,valid,library,neutral
+4941,Library is structured for students,valid,library,neutral
+4942,Students visit library for study,valid,library,neutral
+4943,Library has reading facilities,valid,library,neutral
+4944,Books are issued under rules,valid,library,neutral
+4945,Library supports academic needs,valid,library,neutral
+4946,Students follow guidelines,valid,library,neutral
+4947,Library has proper storage,valid,library,neutral
+4948,Books are stored systematically,valid,library,neutral
+4949,Library includes educational content,valid,library,neutral
+4950,Students use reading desks,valid,library,neutral
+4951,Library is maintained regularly,valid,library,neutral
+4952,Books are available for study,valid,library,neutral
+4953,Library has study infrastructure,valid,library,neutral
+4954,Students use library space,valid,library,neutral
+4955,Library provides basic facilities,valid,library,neutral
+4956,Books are listed in catalog,valid,library,neutral
+4957,Library includes reading area,valid,library,neutral
+4958,Students access materials easily,valid,library,neutral
+4959,Library has book issue counter,valid,library,neutral
+4960,Books are arranged by category,valid,library,neutral
+4961,Library supports exam preparation,valid,library,neutral
+4962,Students read silently,valid,library,neutral
+4963,Library has organized system,valid,library,neutral
+4964,Books are used for reference,valid,library,neutral
+4965,Library contains academic books,valid,library,neutral
+4966,Students follow library rules,valid,library,neutral
+4967,Library has standard setup,valid,library,neutral
+4968,Books are properly labeled,valid,library,neutral
+4969,Library includes reading materials,valid,library,neutral
+4970,Students visit library regularly,valid,library,neutral
+4971,Library has seating area,valid,library,neutral
+4972,Books are kept in racks,valid,library,neutral
+4973,Library continues to operate daily,valid,library,neutral
+4974,Library has consistent usage,valid,library,neutral
+4975,Books are accessible to users,valid,library,neutral
+4976,Library follows academic schedule,valid,library,neutral
+4977,Students use library for preparation,valid,library,neutral
+4978,Library resources are utilized,valid,library,neutral
+4979,Canteen is open during working hours,valid,canteen,neutral
+4980,Food is served in the canteen,valid,canteen,neutral
+4981,Students visit canteen regularly,valid,canteen,neutral
+4982,Canteen has seating arrangements,valid,canteen,neutral
+4983,Menu items are available,valid,canteen,neutral
+4984,Canteen operates daily,valid,canteen,neutral
+4985,Food is prepared in the kitchen,valid,canteen,neutral
+4986,Students purchase food items,valid,canteen,neutral
+4987,Canteen has tables and chairs,valid,canteen,neutral
+4988,Service is provided at the counter,valid,canteen,neutral
+4989,Canteen includes different food options,valid,canteen,neutral
+4990,Students gather in the canteen,valid,canteen,neutral
+4991,Canteen follows fixed timings,valid,canteen,neutral
+4992,Food is available during breaks,valid,canteen,neutral
+4993,Students eat meals in canteen,valid,canteen,neutral
+4994,Canteen staff serve food,valid,canteen,neutral
+4995,Seating is arranged inside,valid,canteen,neutral
+4996,Canteen has regular customers,valid,canteen,neutral
+4997,Food items are displayed,valid,canteen,neutral
+4998,Students use canteen services,valid,canteen,neutral
+4999,Canteen has billing counter,valid,canteen,neutral
+5000,Food is prepared fresh daily,valid,canteen,neutral
+5001,Students stand in queue,valid,canteen,neutral
+5002,Canteen area is used for eating,valid,canteen,neutral
+5003,Menu is displayed on board,valid,canteen,neutral
+5004,Students spend time in canteen,valid,canteen,neutral
+5005,Canteen is part of campus,valid,canteen,neutral
+5006,Food is served on plates,valid,canteen,neutral
+5007,Students visit during lunch time,valid,canteen,neutral
+5008,Canteen has indoor seating,valid,canteen,neutral
+5009,Service staff are available,valid,canteen,neutral
+5010,Canteen provides snacks and meals,valid,canteen,neutral
+5011,Students interact in canteen,valid,canteen,neutral
+5012,Canteen operates during college hours,valid,canteen,neutral
+5013,Food is cooked in batches,valid,canteen,neutral
+5014,Students order food at counter,valid,canteen,neutral
+5015,Canteen includes beverage options,valid,canteen,neutral
+5016,Seating capacity is moderate,valid,canteen,neutral
+5017,Canteen has multiple food items,valid,canteen,neutral
+5018,Students sit and eat,valid,canteen,neutral
+5019,Canteen has serving area,valid,canteen,neutral
+5020,Food is stored properly,valid,canteen,neutral
+5021,Students wait for their orders,valid,canteen,neutral
+5022,Canteen includes basic facilities,valid,canteen,neutral
+5023,Food is served quickly,valid,canteen,neutral
+5024,Students visit during free time,valid,canteen,neutral
+5025,Canteen has organized layout,valid,canteen,neutral
+5026,Food items are prepared regularly,valid,canteen,neutral
+5027,Students pay at billing counter,valid,canteen,neutral
+5028,Canteen includes meal options,valid,canteen,neutral
+5029,Seating is used by students,valid,canteen,neutral
+5030,Canteen has kitchen area,valid,canteen,neutral
+5031,Food is served to customers,valid,canteen,neutral
+5032,Students use canteen space,valid,canteen,neutral
+5033,Canteen operates under schedule,valid,canteen,neutral
+5034,Menu includes variety of items,valid,canteen,neutral
+5035,Students buy snacks,valid,canteen,neutral
+5036,Canteen has serving staff,valid,canteen,neutral
+5037,Food is placed on trays,valid,canteen,neutral
+5038,Students collect food orders,valid,canteen,neutral
+5039,Canteen includes daily menu,valid,canteen,neutral
+5040,Seating is arranged in rows,valid,canteen,neutral
+5041,Canteen has food counters,valid,canteen,neutral
+5042,Students eat together,valid,canteen,neutral
+5043,Canteen supports student needs,valid,canteen,neutral
+5044,Food is served in portions,valid,canteen,neutral
+5045,Students visit frequently,valid,canteen,neutral
+5046,Canteen has structured service,valid,canteen,neutral
+5047,Menu board is visible,valid,canteen,neutral
+5048,Students stand in line,valid,canteen,neutral
+5049,Canteen is active during breaks,valid,canteen,neutral
+5050,Food is distributed at counter,valid,canteen,neutral
+5051,Students sit at tables,valid,canteen,neutral
+5052,Canteen has operational hours,valid,canteen,neutral
+5053,Food is served hot,valid,canteen,neutral
+5054,Students use trays,valid,canteen,neutral
+5055,Canteen includes basic services,valid,canteen,neutral
+5056,Seating area is occupied,valid,canteen,neutral
+5057,Canteen has food preparation area,valid,canteen,neutral
+5058,Students consume meals,valid,canteen,neutral
+5059,Canteen is maintained regularly,valid,canteen,neutral
+5060,Food is handled by staff,valid,canteen,neutral
+5061,Students move in and out,valid,canteen,neutral
+5062,Canteen includes snack items,valid,canteen,neutral
+5063,Seating is shared among students,valid,canteen,neutral
+5064,Canteen has organized service flow,valid,canteen,neutral
+5065,Food is served on time,valid,canteen,neutral
+5066,Students gather in groups,valid,canteen,neutral
+5067,Canteen has designated eating area,valid,canteen,neutral
+5068,Menu items are rotated,valid,canteen,neutral
+5069,Students purchase beverages,valid,canteen,neutral
+5070,Canteen has standard setup,valid,canteen,neutral
+5071,Food is available throughout the day,valid,canteen,neutral
+5072,Students use canteen daily,valid,canteen,neutral
+5073,Canteen continues to operate regularly,valid,canteen,neutral
+5074,Canteen has regular operations,valid,canteen,neutral
+5075,Food is prepared as per schedule,valid,canteen,neutral
+5076,Students visit during intervals,valid,canteen,neutral
+5077,Canteen provides eating space,valid,canteen,neutral
+5078,Menu includes daily items,valid,canteen,neutral
+5079,Canteen has working staff,valid,canteen,neutral
+5080,Food is served at counters,valid,canteen,neutral
+5081,Students place food orders,valid,canteen,neutral
+5082,Canteen has seating capacity,valid,canteen,neutral
+5083,Food preparation is ongoing,valid,canteen,neutral
+5084,Students eat during lunch break,valid,canteen,neutral
+5085,Canteen has service flow,valid,canteen,neutral
+5086,Food items are listed,valid,canteen,neutral
+5087,Students use canteen daily,valid,canteen,neutral
+5088,Canteen includes kitchen staff,valid,canteen,neutral
+5089,Food is handled properly,valid,canteen,neutral
+5090,Students move through serving area,valid,canteen,neutral
+5091,Canteen has standard facilities,valid,canteen,neutral
+5092,Menu is available for students,valid,canteen,neutral
+5093,Students eat in groups,valid,canteen,neutral
+5094,Canteen operates under guidelines,valid,canteen,neutral
+5095,Food is distributed evenly,valid,canteen,neutral
+5096,Students use canteen tables,valid,canteen,neutral
+5097,Canteen includes serving section,valid,canteen,neutral
+5098,Food is prepared in batches,valid,canteen,neutral
+5099,Students line up for food,valid,canteen,neutral
+5100,Canteen has structured layout,valid,canteen,neutral
+5101,Menu board is displayed clearly,valid,canteen,neutral
+5102,Students access food items,valid,canteen,neutral
+5103,Canteen includes meal services,valid,canteen,neutral
+5104,Food is available during college hours,valid,canteen,neutral
+5105,Students spend time eating,valid,canteen,neutral
+5106,Canteen has operational setup,valid,canteen,neutral
+5107,Food items are served regularly,valid,canteen,neutral
+5108,Students interact while eating,valid,canteen,neutral
+5109,Canteen has seating arrangement inside,valid,canteen,neutral
+5110,Menu includes snacks and meals,valid,canteen,neutral
+5111,Students stand in queue system,valid,canteen,neutral
+5112,Canteen has serving trays,valid,canteen,neutral
+5113,Food is provided to students,valid,canteen,neutral
+5114,Students use canteen space efficiently,valid,canteen,neutral
+5115,Canteen includes dining area,valid,canteen,neutral
+5116,Food is served fresh,valid,canteen,neutral
+5117,Students visit during free time,valid,canteen,neutral
+5118,Canteen has working counters,valid,canteen,neutral
+5119,Menu is updated periodically,valid,canteen,neutral
+5120,Students purchase food daily,valid,canteen,neutral
+5121,Canteen has structured service,valid,canteen,neutral
+5122,Food preparation area is active,valid,canteen,neutral
+5123,Students use billing counter,valid,canteen,neutral
+5124,Canteen includes beverage counter,valid,canteen,neutral
+5125,Food is served on plates,valid,canteen,neutral
+5126,Students collect food items,valid,canteen,neutral
+5127,Canteen has food storage area,valid,canteen,neutral
+5128,Menu options are visible,valid,canteen,neutral
+5129,Students consume snacks,valid,canteen,neutral
+5130,Canteen operates daily without interruption,valid,canteen,neutral
+5131,Food is prepared with routine process,valid,canteen,neutral
+5132,Students sit across tables,valid,canteen,neutral
+5133,Canteen has defined structure,valid,canteen,neutral
+5134,Menu board is placed centrally,valid,canteen,neutral
+5135,Students access meals easily,valid,canteen,neutral
+5136,Canteen includes preparation staff,valid,canteen,neutral
+5137,Food is served at intervals,valid,canteen,neutral
+5138,Students eat at designated areas,valid,canteen,neutral
+5139,Canteen has basic infrastructure,valid,canteen,neutral
+5140,Menu contains multiple choices,valid,canteen,neutral
+5141,Students visit during scheduled time,valid,canteen,neutral
+5142,Canteen has organized system,valid,canteen,neutral
+5143,Food is supplied regularly,valid,canteen,neutral
+5144,Students sit and talk,valid,canteen,neutral
+5145,Canteen includes serving counter,valid,canteen,neutral
+5146,Menu items are prepared daily,valid,canteen,neutral
+5147,Students use dining space,valid,canteen,neutral
+5148,Canteen has working hours,valid,canteen,neutral
+5149,Food is handled under supervision,valid,canteen,neutral
+5150,Students stand in food line,valid,canteen,neutral
+5151,Canteen includes meal distribution,valid,canteen,neutral
+5152,Menu includes regular dishes,valid,canteen,neutral
+5153,Students access canteen during breaks,valid,canteen,neutral
+5154,Canteen has proper arrangement,valid,canteen,neutral
+5155,Food is served as per demand,valid,canteen,neutral
+5156,Students gather around tables,valid,canteen,neutral
+5157,Canteen includes service counter,valid,canteen,neutral
+5158,Menu is displayed at entrance,valid,canteen,neutral
+5159,Students use canteen regularly,valid,canteen,neutral
+5160,Canteen has active service system,valid,canteen,neutral
+5161,Food is provided on request,valid,canteen,neutral
+5162,Students sit in groups,valid,canteen,neutral
+5163,Canteen includes standard facilities,valid,canteen,neutral
+5164,Menu items are served efficiently,valid,canteen,neutral
+5165,Students eat during class breaks,valid,canteen,neutral
+5166,Canteen has continuous operation,valid,canteen,neutral
+5167,Food preparation follows routine,valid,canteen,neutral
+5168,Students move between counters,valid,canteen,neutral
+5169,Canteen has seating inside premises,valid,canteen,neutral
+5170,Menu is updated occasionally,valid,canteen,neutral
+5171,Students access snack items,valid,canteen,neutral
+5172,Canteen has stable functioning,valid,canteen,neutral
+5173,Food is served throughout the day,valid,canteen,neutral
+5174,Canteen operations continue daily,valid,canteen,neutral
+5175,Food is prepared in kitchen area,valid,canteen,neutral
+5176,Students visit canteen in breaks,valid,canteen,neutral
+5177,Canteen includes dining setup,valid,canteen,neutral
+5178,Menu contains common food items,valid,canteen,neutral
+5179,Canteen has regular service,valid,canteen,neutral
+5180,Food is served at specific counters,valid,canteen,neutral
+5181,Students purchase meals regularly,valid,canteen,neutral
+5182,Canteen has organized workflow,valid,canteen,neutral
+5183,Food is available for students daily,valid,canteen,neutral
+5184,Classes are conducted regularly,valid,academics,neutral
+5185,Students attend lectures daily,valid,academics,neutral
+5186,Faculty members teach subjects,valid,academics,neutral
+5187,Syllabus is followed in classes,valid,academics,neutral
+5188,Assignments are given to students,valid,academics,neutral
+5189,Exams are conducted periodically,valid,academics,neutral
+5190,Students prepare for exams,valid,academics,neutral
+5191,Classes follow timetable,valid,academics,neutral
+5192,Faculty explain topics in class,valid,academics,neutral
+5193,Students take notes during lectures,valid,academics,neutral
+5194,Academic schedule is maintained,valid,academics,neutral
+5195,Subjects are taught semester wise,valid,academics,neutral
+5196,Students participate in lectures,valid,academics,neutral
+5197,Assignments are submitted on time,valid,academics,neutral
+5198,Exams are part of curriculum,valid,academics,neutral
+5199,Classes include theory sessions,valid,academics,neutral
+5200,Faculty conduct lectures regularly,valid,academics,neutral
+5201,Students follow academic rules,valid,academics,neutral
+5202,Academic activities are ongoing,valid,academics,neutral
+5203,Subjects are divided into units,valid,academics,neutral
+5204,Students complete coursework,valid,academics,neutral
+5205,Faculty provide study materials,valid,academics,neutral
+5206,Exams evaluate performance,valid,academics,neutral
+5207,Classes are scheduled daily,valid,academics,neutral
+5208,Students attend practical sessions,valid,academics,neutral
+5209,Academic records are maintained,valid,academics,neutral
+5210,Faculty conduct assessments,valid,academics,neutral
+5211,Students study course subjects,valid,academics,neutral
+5212,Syllabus is completed on time,valid,academics,neutral
+5213,Assignments are part of study,valid,academics,neutral
+5214,Exams are held in classrooms,valid,academics,neutral
+5215,Classes include discussions,valid,academics,neutral
+5216,Faculty guide students,valid,academics,neutral
+5217,Students attend all lectures,valid,academics,neutral
+5218,Academic year follows schedule,valid,academics,neutral
+5219,Subjects are covered in lectures,valid,academics,neutral
+5220,Students prepare assignments,valid,academics,neutral
+5221,Faculty evaluate answers,valid,academics,neutral
+5222,Exams are conducted semester wise,valid,academics,neutral
+5223,Classes include learning sessions,valid,academics,neutral
+5224,Students follow timetable,valid,academics,neutral
+5225,Academic system is structured,valid,academics,neutral
+5226,Subjects are taught by faculty,valid,academics,neutral
+5227,Assignments are reviewed,valid,academics,neutral
+5228,Exams are scheduled in advance,valid,academics,neutral
+5229,Classes involve teaching activities,valid,academics,neutral
+5230,Students attend academic sessions,valid,academics,neutral
+5231,Faculty deliver lectures,valid,academics,neutral
+5232,Academic performance is recorded,valid,academics,neutral
+5233,Subjects include theory and practical,valid,academics,neutral
+5234,Assignments are checked,valid,academics,neutral
+5235,Exams are evaluated,valid,academics,neutral
+5236,Classes are held in rooms,valid,academics,neutral
+5237,Students complete academic tasks,valid,academics,neutral
+5238,Faculty monitor student progress,valid,academics,neutral
+5239,Academic timetable is fixed,valid,academics,neutral
+5240,Subjects are organized in curriculum,valid,academics,neutral
+5241,Assignments are part of evaluation,valid,academics,neutral
+5242,Exams measure knowledge,valid,academics,neutral
+5243,Classes involve subject teaching,valid,academics,neutral
+5244,Students participate in class,valid,academics,neutral
+5245,Faculty manage academic work,valid,academics,neutral
+5246,Academic sessions are conducted,valid,academics,neutral
+5247,Subjects are explained in lectures,valid,academics,neutral
+5248,Assignments are given regularly,valid,academics,neutral
+5249,Exams are conducted fairly,valid,academics,neutral
+5250,Classes follow structured format,valid,academics,neutral
+5251,Students follow academic process,valid,academics,neutral
+5252,Faculty handle teaching duties,valid,academics,neutral
+5253,Academic system includes exams,valid,academics,neutral
+5254,Subjects are distributed across semesters,valid,academics,neutral
+5255,Assignments are submitted by students,valid,academics,neutral
+5256,Exams are part of academics,valid,academics,neutral
+5257,Classes are attended by students,valid,academics,neutral
+5258,Faculty conduct classes daily,valid,academics,neutral
+5259,Academic work is ongoing,valid,academics,neutral
+5260,Subjects are taught step by step,valid,academics,neutral
+5261,Assignments are collected,valid,academics,neutral
+5262,Exams are conducted in halls,valid,academics,neutral
+5263,Classes include explanation of topics,valid,academics,neutral
+5264,Students complete academic activities,valid,academics,neutral
+5265,Faculty supervise students,valid,academics,neutral
+5266,Academic system follows rules,valid,academics,neutral
+5267,Subjects are part of syllabus,valid,academics,neutral
+5268,Assignments are evaluated by teachers,valid,academics,neutral
+5269,Exams are organized properly,valid,academics,neutral
+5270,Classes involve teaching process,valid,academics,neutral
+5271,Students attend sessions regularly,valid,academics,neutral
+5272,Faculty manage lectures,valid,academics,neutral
+5273,Academic activities continue throughout semester,valid,academics,neutral
+5274,Academic sessions are held daily,valid,academics,neutral
+5275,Students attend subject lectures,valid,academics,neutral
+5276,Faculty explain concepts in class,valid,academics,neutral
+5277,Syllabus is divided into topics,valid,academics,neutral
+5278,Assignments are part of coursework,valid,academics,neutral
+5279,Exams are conducted at intervals,valid,academics,neutral
+5280,Students prepare for academic tests,valid,academics,neutral
+5281,Classes are organized as per schedule,valid,academics,neutral
+5282,Faculty conduct lectures in classrooms,valid,academics,neutral
+5283,Students take part in academic sessions,valid,academics,neutral
+5284,Academic activities follow timetable,valid,academics,neutral
+5285,Subjects are covered during semester,valid,academics,neutral
+5286,Students complete classwork,valid,academics,neutral
+5287,Faculty assign academic tasks,valid,academics,neutral
+5288,Exams are used for evaluation,valid,academics,neutral
+5289,Classes involve subject teaching,valid,academics,neutral
+5290,Students participate in discussions,valid,academics,neutral
+5291,Academic records are updated,valid,academics,neutral
+5292,Faculty assess student work,valid,academics,neutral
+5293,Subjects are taught by instructors,valid,academics,neutral
+5294,Assignments are given periodically,valid,academics,neutral
+5295,Exams are conducted as per plan,valid,academics,neutral
+5296,Classes include explanation sessions,valid,academics,neutral
+5297,Students attend practical classes,valid,academics,neutral
+5298,Academic calendar is followed,valid,academics,neutral
+5299,Faculty conduct regular teaching,valid,academics,neutral
+5300,Subjects are explained stepwise,valid,academics,neutral
+5301,Assignments are reviewed by faculty,valid,academics,neutral
+5302,Exams are conducted systematically,valid,academics,neutral
+5303,Classes are part of curriculum,valid,academics,neutral
+5304,Students attend all sessions,valid,academics,neutral
+5305,Academic system includes coursework,valid,academics,neutral
+5306,Faculty guide academic progress,valid,academics,neutral
+5307,Subjects are covered fully,valid,academics,neutral
+5308,Assignments are part of grading,valid,academics,neutral
+5309,Exams are scheduled semester wise,valid,academics,neutral
+5310,Classes include subject discussion,valid,academics,neutral
+5311,Students engage in learning,valid,academics,neutral
+5312,Academic structure is followed,valid,academics,neutral
+5313,Faculty conduct lessons,valid,academics,neutral
+5314,Subjects are divided across units,valid,academics,neutral
+5315,Assignments are submitted regularly,valid,academics,neutral
+5316,Exams are conducted for each subject,valid,academics,neutral
+5317,Classes are held as per routine,valid,academics,neutral
+5318,Students take part in activities,valid,academics,neutral
+5319,Academic work is continuous,valid,academics,neutral
+5320,Faculty support student learning,valid,academics,neutral
+5321,Subjects are explained clearly,valid,academics,neutral
+5322,Assignments are part of evaluation system,valid,academics,neutral
+5323,Exams measure academic progress,valid,academics,neutral
+5324,Classes involve teaching methods,valid,academics,neutral
+5325,Students attend regularly,valid,academics,neutral
+5326,Academic sessions include lectures,valid,academics,neutral
+5327,Faculty conduct academic sessions,valid,academics,neutral
+5328,Subjects are taught throughout semester,valid,academics,neutral
+5329,Assignments are collected for review,valid,academics,neutral
+5330,Exams are conducted under supervision,valid,academics,neutral
+5331,Classes are organized efficiently,valid,academics,neutral
+5332,Students complete assigned work,valid,academics,neutral
+5333,Academic system follows structure,valid,academics,neutral
+5334,Faculty provide instructions,valid,academics,neutral
+5335,Subjects are explained during class hours,valid,academics,neutral
+5336,Assignments are part of student work,valid,academics,neutral
+5337,Exams are conducted in sequence,valid,academics,neutral
+5338,Classes include lecture sessions,valid,academics,neutral
+5339,Students follow academic rules,valid,academics,neutral
+5340,Academic timetable is maintained,valid,academics,neutral
+5341,Faculty evaluate student answers,valid,academics,neutral
+5342,Subjects are taught according to syllabus,valid,academics,neutral
+5343,Assignments are part of course requirement,valid,academics,neutral
+5344,Exams are conducted regularly,valid,academics,neutral
+5345,Classes involve teaching and learning,valid,academics,neutral
+5346,Students participate in class activities,valid,academics,neutral
+5347,Academic sessions are structured,valid,academics,neutral
+5348,Faculty conduct teaching sessions,valid,academics,neutral
+5349,Subjects are explained in detail,valid,academics,neutral
+5350,Assignments are given for practice,valid,academics,neutral
+5351,Exams are part of assessment system,valid,academics,neutral
+5352,Classes are conducted as planned,valid,academics,neutral
+5353,Students follow academic guidelines,valid,academics,neutral
+5354,Academic process is maintained,valid,academics,neutral
+5355,Faculty guide coursework,valid,academics,neutral
+5356,Subjects are part of curriculum design,valid,academics,neutral
+5357,Assignments are submitted within time,valid,academics,neutral
+5358,Exams are conducted across subjects,valid,academics,neutral
+5359,Classes include subject explanation,valid,academics,neutral
+5360,Students attend lectures regularly,valid,academics,neutral
+5361,Academic activities are ongoing,valid,academics,neutral
+5362,Faculty provide academic guidance,valid,academics,neutral
+5363,Subjects are covered step by step,valid,academics,neutral
+5364,Assignments are checked by faculty,valid,academics,neutral
+5365,Exams are conducted properly,valid,academics,neutral
+5366,Classes involve structured teaching,valid,academics,neutral
+5367,Students complete study tasks,valid,academics,neutral
+5368,Academic system runs throughout year,valid,academics,neutral
+5369,Faculty monitor academic work,valid,academics,neutral
+5370,Subjects are part of regular study,valid,academics,neutral
+5371,Assignments are included in grading,valid,academics,neutral
+5372,Exams are held as per academic plan,valid,academics,neutral
+5373,Classes continue as scheduled,valid,academics,neutral
+5374,Academic lectures continue daily,valid,academics,neutral
+5375,Students attend subject classes,valid,academics,neutral
+5376,Faculty conduct regular sessions,valid,academics,neutral
+5377,Syllabus is followed in teaching,valid,academics,neutral
+5378,Assignments are given to students,valid,academics,neutral
+5379,Exams are part of academics,valid,academics,neutral
+5380,Classes are conducted regularly,valid,academics,neutral
+5381,Students complete academic tasks,valid,academics,neutral
+5382,Faculty evaluate assignments,valid,academics,neutral
+5383,Subjects are taught in class,valid,academics,neutral
+5384,Academic sessions follow timetable,valid,academics,neutral
+5385,Students participate in lectures,valid,academics,neutral
+5386,Assignments are part of coursework,valid,academics,neutral
+5387,Exams are conducted semester wise,valid,academics,neutral
+5388,Classes are part of academic routine,valid,academics,neutral
+5389,Administrative tasks are handled daily,valid,administration,neutral
+5390,Office staff manage student records,valid,administration,neutral
+5391,Administrative processes follow rules,valid,administration,neutral
+5392,Staff handle documentation work,valid,administration,neutral
+5393,Administrative office operates during hours,valid,administration,neutral
+5394,Records are maintained in office,valid,administration,neutral
+5395,Staff assist with administrative queries,valid,administration,neutral
+5396,Administrative procedures are followed,valid,administration,neutral
+5397,Office handles student requests,valid,administration,neutral
+5398,Administrative work is done regularly,valid,administration,neutral
+5399,Staff process forms submitted,valid,administration,neutral
+5400,Administrative system is in place,valid,administration,neutral
+5401,Office staff maintain records,valid,administration,neutral
+5402,Administrative work includes documentation,valid,administration,neutral
+5403,Staff assist in office operations,valid,administration,neutral
+5404,Administrative services are available,valid,administration,neutral
+5405,Office handles official communication,valid,administration,neutral
+5406,Administrative tasks follow guidelines,valid,administration,neutral
+5407,Staff manage student data,valid,administration,neutral
+5408,Office processes administrative requests,valid,administration,neutral
+5409,Administrative work is continuous,valid,administration,neutral
+5410,Staff maintain official records,valid,administration,neutral
+5411,Administrative office handles operations,valid,administration,neutral
+5412,Office staff assist students,valid,administration,neutral
+5413,Administrative procedures are implemented,valid,administration,neutral
+5414,Staff handle office responsibilities,valid,administration,neutral
+5415,Administrative system runs daily,valid,administration,neutral
+5416,Office manages documents,valid,administration,neutral
+5417,Administrative work includes record keeping,valid,administration,neutral
+5418,Staff process administrative data,valid,administration,neutral
+5419,Office operations follow structure,valid,administration,neutral
+5420,Administrative staff handle paperwork,valid,administration,neutral
+5421,Office maintains student files,valid,administration,neutral
+5422,Administrative services operate regularly,valid,administration,neutral
+5423,Staff assist with documentation,valid,administration,neutral
+5424,Administrative tasks are assigned,valid,administration,neutral
+5425,Office processes official forms,valid,administration,neutral
+5426,Administrative system manages data,valid,administration,neutral
+5427,Staff coordinate administrative work,valid,administration,neutral
+5428,Office staff handle daily tasks,valid,administration,neutral
+5429,Administrative operations are structured,valid,administration,neutral
+5430,Office handles institutional records,valid,administration,neutral
+5431,Staff assist with office tasks,valid,administration,neutral
+5432,Administrative procedures guide operations,valid,administration,neutral
+5433,Office manages official information,valid,administration,neutral
+5434,Administrative tasks involve documentation,valid,administration,neutral
+5435,Staff ensure smooth office work,valid,administration,neutral
+5436,Office maintains administrative records,valid,administration,neutral
+5437,Administrative services follow policy,valid,administration,neutral
+5438,Staff handle administrative duties,valid,administration,neutral
+5439,Office processes internal documents,valid,administration,neutral
+5440,Administrative system organizes data,valid,administration,neutral
+5441,Staff manage office operations,valid,administration,neutral
+5442,Office staff assist in record keeping,valid,administration,neutral
+5443,Administrative work includes handling forms,valid,administration,neutral
+5444,Staff maintain administrative workflow,valid,administration,neutral
+5445,Office ensures documentation is updated,valid,administration,neutral
+5446,Administrative tasks are managed efficiently,valid,administration,neutral
+5447,Staff support office activities,valid,administration,neutral
+5448,Office processes student documents,valid,administration,neutral
+5449,Administrative system supports operations,valid,administration,neutral
+5450,Staff manage paperwork tasks,valid,administration,neutral
+5451,Office staff handle communication tasks,valid,administration,neutral
+5452,Administrative processes are maintained,valid,administration,neutral
+5453,Staff assist in administrative work,valid,administration,neutral
+5454,Office handles daily administrative duties,valid,administration,neutral
+5455,Administrative records are updated regularly,valid,administration,neutral
+5456,Staff ensure proper documentation,valid,administration,neutral
+5457,Office operations are ongoing,valid,administration,neutral
+5458,Administrative tasks are distributed,valid,administration,neutral
+5459,Staff manage office files,valid,administration,neutral
+5460,Office processes institutional data,valid,administration,neutral
+5461,Administrative system supports staff,valid,administration,neutral
+5462,Staff handle official paperwork,valid,administration,neutral
+5463,Office ensures smooth operations,valid,administration,neutral
+5464,Administrative tasks involve coordination,valid,administration,neutral
+5465,Staff manage internal records,valid,administration,neutral
+5466,Office staff assist in operations,valid,administration,neutral
+5467,Administrative system organizes workflow,valid,administration,neutral
+5468,Staff process office documents,valid,administration,neutral
+5469,Office maintains administrative structure,valid,administration,neutral
+5470,Administrative work includes coordination,valid,administration,neutral
+5471,Staff assist with official tasks,valid,administration,neutral
+5472,Office handles administrative communication,valid,administration,neutral
+5473,Administrative system runs efficiently,valid,administration,neutral
+5474,Staff maintain office records,valid,administration,neutral
+5475,Office processes paperwork regularly,valid,administration,neutral
+5476,Administrative tasks are routine,valid,administration,neutral
+5477,Staff assist in document processing,valid,administration,neutral
+5478,Office manages administrative functions,valid,administration,neutral
+5479,Administrative system follows guidelines,valid,administration,neutral
+5480,Staff coordinate office duties,valid,administration,neutral
+5481,Office staff manage records daily,valid,administration,neutral
+5482,Administrative processes are followed properly,valid,administration,neutral
+5483,Staff ensure records are maintained,valid,administration,neutral
+5484,Office handles administrative workflow,valid,administration,neutral
+5485,Administrative tasks are organized,valid,administration,neutral
+5486,Staff assist in daily operations,valid,administration,neutral
+5487,Office maintains proper documentation,valid,administration,neutral
+5488,Administrative services are ongoing,valid,administration,neutral
+5489,Administrative office works daily,valid,administration,neutral
+5490,Staff handle office responsibilities regularly,valid,administration,neutral
+5491,Administrative system processes requests,valid,administration,neutral
+5492,Office maintains official files,valid,administration,neutral
+5493,Staff assist with administrative queries daily,valid,administration,neutral
+5494,Administrative tasks include data handling,valid,administration,neutral
+5495,Office processes student-related forms,valid,administration,neutral
+5496,Staff manage documentation tasks,valid,administration,neutral
+5497,Administrative procedures are followed consistently,valid,administration,neutral
+5498,Office ensures proper record maintenance,valid,administration,neutral
+5499,Staff support administrative operations,valid,administration,neutral
+5500,Administrative work involves coordination tasks,valid,administration,neutral
+5501,Office handles daily paperwork efficiently,valid,administration,neutral
+5502,Staff assist in maintaining files,valid,administration,neutral
+5503,Administrative system organizes office work,valid,administration,neutral
+5504,Office processes official communications,valid,administration,neutral
+5505,Staff manage office activities,valid,administration,neutral
+5506,Administrative work includes routine processes,valid,administration,neutral
+5507,Office staff maintain internal records,valid,administration,neutral
+5508,Staff assist in processing documents,valid,administration,neutral
+5509,Administrative tasks are handled by staff,valid,administration,neutral
+5510,Office manages institutional data,valid,administration,neutral
+5511,Staff coordinate administrative functions,valid,administration,neutral
+5512,Administrative procedures guide staff work,valid,administration,neutral
+5513,Office handles administrative queries,valid,administration,neutral
+5514,Staff manage paperwork efficiently,valid,administration,neutral
+5515,Administrative work supports operations,valid,administration,neutral
+5516,Office maintains documentation regularly,valid,administration,neutral
+5517,Staff assist with record keeping,valid,administration,neutral
+5518,Administrative system handles office tasks,valid,administration,neutral
+5519,Office processes administrative forms,valid,administration,neutral
+5520,Staff manage internal office work,valid,administration,neutral
+5521,Administrative procedures are implemented daily,valid,administration,neutral
+5522,Office handles communication tasks,valid,administration,neutral
+5523,Staff assist in documentation management,valid,administration,neutral
+5524,Administrative system ensures workflow,valid,administration,neutral
+5525,Office maintains institutional records properly,valid,administration,neutral
+5526,Staff coordinate office documentation,valid,administration,neutral
+5527,Administrative work includes managing files,valid,administration,neutral
+5528,Office processes internal data regularly,valid,administration,neutral
+5529,Staff assist with official records,valid,administration,neutral
+5530,Administrative procedures ensure smooth work,valid,administration,neutral
+5531,Office manages administrative responsibilities,valid,administration,neutral
+5532,Staff handle office documentation tasks,valid,administration,neutral
+5533,Administrative system maintains records,valid,administration,neutral
+5534,Office processes paperwork daily,valid,administration,neutral
+5535,Staff assist in office coordination,valid,administration,neutral
+5536,Administrative tasks involve handling information,valid,administration,neutral
+5537,Office ensures proper file management,valid,administration,neutral
+5538,Staff manage office communication,valid,administration,neutral
+5539,Administrative procedures are part of routine,valid,administration,neutral
+5540,Office handles institutional paperwork,valid,administration,neutral
+5541,Staff assist with administrative duties daily,valid,administration,neutral
+5542,Administrative system supports documentation,valid,administration,neutral
+5543,Office processes official records regularly,valid,administration,neutral
+5544,Staff coordinate administrative tasks efficiently,valid,administration,neutral
+5545,Administrative work includes managing office tasks,valid,administration,neutral
+5546,Office maintains proper administrative flow,valid,administration,neutral
+5547,Staff assist in daily documentation,valid,administration,neutral
+5548,Administrative procedures ensure proper workflow,valid,administration,neutral
+5549,Office manages student documentation,valid,administration,neutral
+5550,Staff handle administrative processes daily,valid,administration,neutral
+5551,Administrative system organizes records properly,valid,administration,neutral
+5552,Office processes paperwork in sequence,valid,administration,neutral
+5553,Staff assist with internal office work,valid,administration,neutral
+5554,Administrative tasks are part of office routine,valid,administration,neutral
+5555,Office ensures records are updated regularly,valid,administration,neutral
+5556,Staff manage administrative responsibilities effectively,valid,administration,neutral
+5557,Administrative work supports institutional operations,valid,administration,neutral
+5558,Office processes documentation efficiently,valid,administration,neutral
+5559,Staff assist in maintaining administrative files,valid,administration,neutral
+5560,Administrative procedures are followed in office,valid,administration,neutral
+5561,Office manages official tasks daily,valid,administration,neutral
+5562,Staff coordinate office operations regularly,valid,administration,neutral
+5563,Administrative system supports office workflow,valid,administration,neutral
+5564,Office handles administrative duties properly,valid,administration,neutral
+5565,Staff assist in processing institutional records,valid,administration,neutral
+5566,Administrative tasks involve managing documents,valid,administration,neutral
+5567,Office maintains workflow structure,valid,administration,neutral
+5568,Staff manage administrative coordination,valid,administration,neutral
+5569,Administrative procedures guide office work daily,valid,administration,neutral
+5570,Office ensures documentation is maintained properly,valid,administration,neutral
+5571,Staff assist with administrative processes,valid,administration,neutral
+5572,Administrative system runs throughout the day,valid,administration,neutral
+5573,Office handles all administrative functions,valid,administration,neutral
+5574,Campus infrastructure includes classrooms and buildings,valid,infrastructure,neutral
+5575,College has multiple academic blocks,valid,infrastructure,neutral
+5576,Infrastructure supports daily activities,valid,infrastructure,neutral
+5577,Buildings are used for different departments,valid,infrastructure,neutral
+5578,Campus has designated areas for classes,valid,infrastructure,neutral
+5579,Infrastructure includes lecture halls,valid,infrastructure,neutral
+5580,College provides physical facilities,valid,infrastructure,neutral
+5581,Buildings are maintained for usage,valid,infrastructure,neutral
+5582,Infrastructure includes basic amenities,valid,infrastructure,neutral
+5583,Campus has structured layout,valid,infrastructure,neutral
+5584,Buildings are allocated for departments,valid,infrastructure,neutral
+5585,Infrastructure includes corridors and rooms,valid,infrastructure,neutral
+5586,College campus includes multiple floors,valid,infrastructure,neutral
+5587,Buildings are used for academic purposes,valid,infrastructure,neutral
+5588,Infrastructure supports teaching environment,valid,infrastructure,neutral
+5589,Campus includes common areas,valid,infrastructure,neutral
+5590,Buildings are constructed for institutional use,valid,infrastructure,neutral
+5591,Infrastructure includes seating arrangements,valid,infrastructure,neutral
+5592,College has indoor facilities,valid,infrastructure,neutral
+5593,Buildings are designed for functionality,valid,infrastructure,neutral
+5594,Infrastructure includes hallways and entrances,valid,infrastructure,neutral
+5595,Campus has organized building structure,valid,infrastructure,neutral
+5596,Buildings are accessible to students,valid,infrastructure,neutral
+5597,Infrastructure includes utility spaces,valid,infrastructure,neutral
+5598,College provides structured facilities,valid,infrastructure,neutral
+5599,Buildings are maintained regularly,valid,infrastructure,neutral
+5600,Infrastructure includes physical resources,valid,infrastructure,neutral
+5601,Campus includes multiple infrastructure units,valid,infrastructure,neutral
+5602,Buildings serve academic and administrative needs,valid,infrastructure,neutral
+5603,Infrastructure supports institutional functions,valid,infrastructure,neutral
+5604,Campus has designated infrastructure areas,valid,infrastructure,neutral
+5605,Buildings include classrooms and offices,valid,infrastructure,neutral
+5606,Infrastructure includes entry and exit points,valid,infrastructure,neutral
+5607,College provides built environment facilities,valid,infrastructure,neutral
+5608,Buildings are structured for usage,valid,infrastructure,neutral
+5609,Infrastructure includes academic spaces,valid,infrastructure,neutral
+5610,Campus layout includes buildings and open areas,valid,infrastructure,neutral
+5611,Buildings are used for educational activities,valid,infrastructure,neutral
+5612,Infrastructure includes seating and desks,valid,infrastructure,neutral
+5613,College campus includes physical structures,valid,infrastructure,neutral
+5614,Buildings are maintained for student use,valid,infrastructure,neutral
+5615,Infrastructure includes rooms and halls,valid,infrastructure,neutral
+5616,Campus has defined infrastructure zones,valid,infrastructure,neutral
+5617,Buildings are arranged across campus,valid,infrastructure,neutral
+5618,Infrastructure includes support facilities,valid,infrastructure,neutral
+5619,College provides infrastructure for learning,valid,infrastructure,neutral
+5620,Buildings are used for multiple purposes,valid,infrastructure,neutral
+5621,Infrastructure includes study spaces,valid,infrastructure,neutral
+5622,Campus includes academic and non academic areas,valid,infrastructure,neutral
+5623,Buildings are accessible during working hours,valid,infrastructure,neutral
+5624,Infrastructure includes physical layout,valid,infrastructure,neutral
+5625,College campus includes building complexes,valid,infrastructure,neutral
+5626,Buildings are part of institutional setup,valid,infrastructure,neutral
+5627,Infrastructure includes functional spaces,valid,infrastructure,neutral
+5628,Campus has organized infrastructure system,valid,infrastructure,neutral
+5629,Buildings are distributed across campus,valid,infrastructure,neutral
+5630,Infrastructure includes essential facilities,valid,infrastructure,neutral
+5631,College provides infrastructure resources,valid,infrastructure,neutral
+5632,Buildings support academic operations,valid,infrastructure,neutral
+5633,Infrastructure includes usable spaces,valid,infrastructure,neutral
+5634,Campus layout is structured systematically,valid,infrastructure,neutral
+5635,Buildings are designed for educational needs,valid,infrastructure,neutral
+5636,Infrastructure includes structural facilities,valid,infrastructure,neutral
+5637,College has physical infrastructure system,valid,infrastructure,neutral
+5638,Buildings include various functional areas,valid,infrastructure,neutral
+5639,Infrastructure includes accessible spaces,valid,infrastructure,neutral
+5640,Campus has maintained infrastructure units,valid,infrastructure,neutral
+5641,Buildings are used for daily operations,valid,infrastructure,neutral
+5642,Infrastructure includes academic buildings,valid,infrastructure,neutral
+5643,College provides infrastructure support,valid,infrastructure,neutral
+5644,Buildings are part of campus environment,valid,infrastructure,neutral
+5645,Infrastructure includes classroom facilities,valid,infrastructure,neutral
+5646,Campus includes multiple building sections,valid,infrastructure,neutral
+5647,Buildings are structured across campus,valid,infrastructure,neutral
+5648,Infrastructure includes resource areas,valid,infrastructure,neutral
+5649,College campus includes infrastructure planning,valid,infrastructure,neutral
+5650,Buildings are used for institutional work,valid,infrastructure,neutral
+5651,Infrastructure includes learning spaces,valid,infrastructure,neutral
+5652,Campus layout includes structured buildings,valid,infrastructure,neutral
+5653,Buildings are maintained for operational use,valid,infrastructure,neutral
+5654,Infrastructure includes necessary amenities,valid,infrastructure,neutral
+5655,College provides infrastructure for students,valid,infrastructure,neutral
+5656,Buildings are part of campus facilities,valid,infrastructure,neutral
+5657,Infrastructure includes basic structural elements,valid,infrastructure,neutral
+5658,Campus includes infrastructure support systems,valid,infrastructure,neutral
+5659,Buildings are organized within campus,valid,infrastructure,neutral
+5660,Infrastructure includes indoor environments,valid,infrastructure,neutral
+5661,College campus has structured infrastructure,valid,infrastructure,neutral
+5662,Buildings are available for academic use,valid,infrastructure,neutral
+5663,Infrastructure includes operational facilities,valid,infrastructure,neutral
+5664,Campus has infrastructure for activities,valid,infrastructure,neutral
+5665,Buildings are part of institutional layout,valid,infrastructure,neutral
+5666,Infrastructure includes essential structures,valid,infrastructure,neutral
+5667,College provides infrastructure environment,valid,infrastructure,neutral
+5668,Buildings are used for student learning,valid,infrastructure,neutral
+5669,Infrastructure includes facility areas,valid,infrastructure,neutral
+5670,Campus layout supports infrastructure needs,valid,infrastructure,neutral
+5671,Buildings are maintained for daily use,valid,infrastructure,neutral
+5672,Infrastructure includes campus structures,valid,infrastructure,neutral
+5673,College infrastructure supports operations,valid,infrastructure,neutral
+5674,Infrastructure includes campus buildings and spaces,valid,infrastructure,neutral
+5675,College has infrastructure for academic use,valid,infrastructure,neutral
+5676,Buildings are part of daily campus operations,valid,infrastructure,neutral
+5677,Infrastructure includes structured facilities,valid,infrastructure,neutral
+5678,Campus provides infrastructure for students and staff,valid,infrastructure,neutral
+5679,Buildings are maintained for institutional activities,valid,infrastructure,neutral
+5680,Infrastructure includes classroom and office areas,valid,infrastructure,neutral
+5681,Campus layout includes physical infrastructure,valid,infrastructure,neutral
+5682,Buildings are arranged across different zones,valid,infrastructure,neutral
+5683,Infrastructure includes academic and support spaces,valid,infrastructure,neutral
+5684,College has facilities as part of infrastructure,valid,infrastructure,neutral
+5685,Buildings are accessible during college hours,valid,infrastructure,neutral
+5686,Infrastructure includes structural components,valid,infrastructure,neutral
+5687,Campus has organized infrastructure facilities,valid,infrastructure,neutral
+5688,Buildings are used for teaching and administration,valid,infrastructure,neutral
+5689,Infrastructure includes operational areas,valid,infrastructure,neutral
+5690,College infrastructure includes study spaces,valid,infrastructure,neutral
+5691,Buildings are maintained regularly for usage,valid,infrastructure,neutral
+5692,Infrastructure includes essential campus facilities,valid,infrastructure,neutral
+5693,Campus provides structured physical environment,valid,infrastructure,neutral
+5694,Buildings are part of institutional infrastructure,valid,infrastructure,neutral
+5695,Infrastructure includes common and functional spaces,valid,infrastructure,neutral
+5696,College has infrastructure to support activities,valid,infrastructure,neutral
+5697,Buildings are used for academic and office work,valid,infrastructure,neutral
+5698,Infrastructure includes usable campus areas,valid,infrastructure,neutral
+5699,Campus layout includes infrastructure elements,valid,infrastructure,neutral
+5700,Buildings are structured for student access,valid,infrastructure,neutral
+5701,Infrastructure includes indoor and outdoor facilities,valid,infrastructure,neutral
+5702,College provides infrastructure for operations,valid,infrastructure,neutral
+5703,Buildings are part of organized campus layout,valid,infrastructure,neutral
+5704,Infrastructure includes various campus units,valid,infrastructure,neutral
+5705,Campus includes infrastructure for academic sessions,valid,infrastructure,neutral
+5706,Buildings are maintained as per requirements,valid,infrastructure,neutral
+5707,Infrastructure includes seating and learning spaces,valid,infrastructure,neutral
+5708,College infrastructure includes multiple facilities,valid,infrastructure,neutral
+5709,Buildings are distributed systematically,valid,infrastructure,neutral
+5710,Infrastructure includes areas for student activities,valid,infrastructure,neutral
+5711,Campus layout supports infrastructure usage,valid,infrastructure,neutral
+5712,Buildings are part of campus planning,valid,infrastructure,neutral
+5713,Infrastructure includes essential campus resources,valid,infrastructure,neutral
+5714,College provides structured infrastructure system,valid,infrastructure,neutral
+5715,Buildings are used for institutional functions,valid,infrastructure,neutral
+5716,Infrastructure includes organized physical spaces,valid,infrastructure,neutral
+5717,Campus has infrastructure for academic operations,valid,infrastructure,neutral
+5718,Buildings are accessible for daily use,valid,infrastructure,neutral
+5719,Infrastructure includes functional learning areas,valid,infrastructure,neutral
+5720,College campus includes structured facilities,valid,infrastructure,neutral
+5721,Buildings are part of educational environment,valid,infrastructure,neutral
+5722,Infrastructure includes campus support systems,valid,infrastructure,neutral
+5723,Campus has infrastructure for student use,valid,infrastructure,neutral
+5724,Buildings are maintained for regular operations,valid,infrastructure,neutral
+5725,Infrastructure includes necessary campus structures,valid,infrastructure,neutral
+5726,College infrastructure includes multiple units,valid,infrastructure,neutral
+5727,Buildings are arranged for accessibility,valid,infrastructure,neutral
+5728,Infrastructure includes designated campus areas,valid,infrastructure,neutral
+5729,Campus layout includes various facilities,valid,infrastructure,neutral
+5730,Buildings are used for different academic purposes,valid,infrastructure,neutral
+5731,Infrastructure includes organized campus zones,valid,infrastructure,neutral
+5732,College provides infrastructure for daily activities,valid,infrastructure,neutral
+5733,Buildings are part of structured environment,valid,infrastructure,neutral
+5734,Infrastructure includes physical campus layout,valid,infrastructure,neutral
+5735,Campus has infrastructure for institutional work,valid,infrastructure,neutral
+5736,Buildings are maintained as part of campus facilities,valid,infrastructure,neutral
+5737,Infrastructure includes multiple facility areas,valid,infrastructure,neutral
+5738,College campus includes infrastructure planning and design,valid,infrastructure,neutral
+5739,Buildings are part of campus operations,valid,infrastructure,neutral
+5740,Infrastructure includes learning and support facilities,valid,infrastructure,neutral
+5741,Campus layout includes structured infrastructure units,valid,infrastructure,neutral
+5742,Buildings are used for academic and administrative tasks,valid,infrastructure,neutral
+5743,Infrastructure includes campus functional areas,valid,infrastructure,neutral
+5744,College provides infrastructure for educational needs,valid,infrastructure,neutral
+5745,Buildings are maintained for effective use,valid,infrastructure,neutral
+5746,Infrastructure includes structured campus spaces,valid,infrastructure,neutral
+5747,Campus includes infrastructure for student activities,valid,infrastructure,neutral
+5748,Buildings are part of institutional framework,valid,infrastructure,neutral
+5749,Infrastructure includes campus building systems,valid,infrastructure,neutral
+5750,College infrastructure supports daily operations,valid,infrastructure,neutral
+5751,Buildings are arranged within campus layout,valid,infrastructure,neutral
+5752,Infrastructure includes organized facility systems,valid,infrastructure,neutral
+5753,Campus has infrastructure for academic and non academic use,valid,infrastructure,neutral
+5754,Buildings are used for structured learning environment,valid,infrastructure,neutral
+5755,Infrastructure includes necessary institutional facilities,valid,infrastructure,neutral
+5756,College campus includes infrastructure resources,valid,infrastructure,neutral
+5757,Buildings are part of campus infrastructure system,valid,infrastructure,neutral
+5758,Infrastructure supports institutional workflow,valid,infrastructure,neutral
+5759,Transport services are available for students,valid,facilities,neutral
+5760,College buses operate on fixed routes,valid,facilities,neutral
+5761,Sports facilities are available on campus,valid,facilities,neutral
+5762,Maintenance staff handle campus upkeep,valid,facilities,neutral
+5763,Facilities include transportation services,valid,facilities,neutral
+5764,Sports grounds are used for activities,valid,facilities,neutral
+5765,Maintenance work is carried out regularly,valid,facilities,neutral
+5766,Transport facility is used by students,valid,facilities,neutral
+5767,Facilities include sports equipment,valid,facilities,neutral
+5768,Campus maintenance is managed by staff,valid,facilities,neutral
+5769,Transport buses run during college hours,valid,facilities,neutral
+5770,Sports areas are part of campus facilities,valid,facilities,neutral
+5771,Maintenance ensures campus cleanliness,valid,facilities,neutral
+5772,Facilities include transport and logistics,valid,facilities,neutral
+5773,Sports facilities support physical activities,valid,facilities,neutral
+5774,Maintenance tasks are handled daily,valid,facilities,neutral
+5775,Transport services follow scheduled timings,valid,facilities,neutral
+5776,Facilities include playground areas,valid,facilities,neutral
+5777,Maintenance staff manage repairs,valid,facilities,neutral
+5778,Transport system supports commuting,valid,facilities,neutral
+5779,Sports infrastructure is available for use,valid,facilities,neutral
+5780,Maintenance work includes equipment checks,valid,facilities,neutral
+5781,Facilities include campus transport options,valid,facilities,neutral
+5782,Sports grounds are maintained regularly,valid,facilities,neutral
+5783,Maintenance staff ensure proper functioning,valid,facilities,neutral
+5784,Transport services are organized for students,valid,facilities,neutral
+5785,Facilities include fitness and sports areas,valid,facilities,neutral
+5786,Maintenance includes building repairs,valid,facilities,neutral
+5787,Transport facility operates daily,valid,facilities,neutral
+5788,Sports equipment is used during activities,valid,facilities,neutral
+5789,Maintenance ensures infrastructure upkeep,valid,facilities,neutral
+5790,Facilities include outdoor sports areas,valid,facilities,neutral
+5791,Transport services are part of campus facilities,valid,facilities,neutral
+5792,Sports activities are conducted on campus grounds,valid,facilities,neutral
+5793,Maintenance staff handle campus issues,valid,facilities,neutral
+5794,Facilities include commuting options,valid,facilities,neutral
+5795,Sports facilities are used by students regularly,valid,facilities,neutral
+5796,Maintenance work ensures safety,valid,facilities,neutral
+5797,Transport system includes buses and routes,valid,facilities,neutral
+5798,Facilities include recreation areas,valid,facilities,neutral
+5799,Maintenance includes infrastructure checks,valid,facilities,neutral
+5800,Transport services help student travel,valid,facilities,neutral
+5801,Sports facilities include courts and fields,valid,facilities,neutral
+5802,Maintenance work is part of campus operations,valid,facilities,neutral
+5803,Facilities include activity areas,valid,facilities,neutral
+5804,Transport is provided for commuting students,valid,facilities,neutral
+5805,Sports grounds are used for practice,valid,facilities,neutral
+5806,Maintenance ensures proper environment,valid,facilities,neutral
+5807,Facilities include transport support systems,valid,facilities,neutral
+5808,Sports infrastructure includes courts,valid,facilities,neutral
+5809,Maintenance staff handle technical issues,valid,facilities,neutral
+5810,Transport system operates on schedule,valid,facilities,neutral
+5811,Facilities include student activity spaces,valid,facilities,neutral
+5812,Sports areas are available for games,valid,facilities,neutral
+5813,Maintenance includes equipment servicing,valid,facilities,neutral
+5814,Transport services support daily travel,valid,facilities,neutral
+5815,Facilities include indoor sports spaces,valid,facilities,neutral
+5816,Maintenance ensures campus functionality,valid,facilities,neutral
+5817,Transport buses are used by students,valid,facilities,neutral
+5818,Sports facilities include practice areas,valid,facilities,neutral
+5819,Maintenance staff manage repairs regularly,valid,facilities,neutral
+5820,Facilities include campus support services,valid,facilities,neutral
+5821,Transport system includes route management,valid,facilities,neutral
+5822,Sports grounds are used for events,valid,facilities,neutral
+5823,Maintenance ensures smooth operations,valid,facilities,neutral
+5824,Facilities include infrastructure support,valid,facilities,neutral
+5825,Transport services are available daily,valid,facilities,neutral
+5826,Sports facilities support training activities,valid,facilities,neutral
+5827,Maintenance staff monitor infrastructure,valid,facilities,neutral
+5828,Facilities include operational support areas,valid,facilities,neutral
+5829,Transport system is part of campus services,valid,facilities,neutral
+5830,Sports equipment is maintained regularly,valid,facilities,neutral
+5831,Maintenance includes campus upkeep tasks,valid,facilities,neutral
+5832,Facilities include transportation and logistics,valid,facilities,neutral
+5833,Transport services follow assigned routes,valid,facilities,neutral
+5834,Sports areas are used for student activities,valid,facilities,neutral
+5835,Maintenance ensures proper facility use,valid,facilities,neutral
+5836,Facilities include sports and transport systems,valid,facilities,neutral
+5837,Transport buses operate throughout the day,valid,facilities,neutral
+5838,Sports grounds are maintained for use,valid,facilities,neutral
+5839,Maintenance staff handle facility repairs,valid,facilities,neutral
+5840,Facilities include campus services and support,valid,facilities,neutral
+5841,Transport services are structured for students,valid,facilities,neutral
+5842,Sports infrastructure supports activities,valid,facilities,neutral
+5843,Maintenance includes checking campus systems,valid,facilities,neutral
+5844,Facilities include student service areas,valid,facilities,neutral
+5845,Transport system supports commuting needs,valid,facilities,neutral
+5846,Sports areas include courts and playgrounds,valid,facilities,neutral
+5847,Maintenance ensures infrastructure stability,valid,facilities,neutral
+5848,Facilities include campus utility services,valid,facilities,neutral
+5849,Transport services are used regularly,valid,facilities,neutral
+5850,Sports facilities are part of student activities,valid,facilities,neutral
+5851,Maintenance staff manage campus facilities,valid,facilities,neutral
+5852,Facilities include support for daily operations,valid,facilities,neutral
+5853,Transport system operates across routes,valid,facilities,neutral
+5854,Sports grounds are used for games and practice,valid,facilities,neutral
+5855,Maintenance ensures smooth campus functioning,valid,facilities,neutral
+5856,Facilities include operational infrastructure,valid,facilities,neutral
+5857,Transport services are maintained properly,valid,facilities,neutral
+5858,Sports facilities are accessible to students,valid,facilities,neutral
+5859,Transport services are part of campus operations,valid,facilities,neutral
+5860,Sports facilities are used for regular activities,valid,facilities,neutral
+5861,Maintenance staff handle campus upkeep daily,valid,facilities,neutral
+5862,Facilities include transport and sports systems,valid,facilities,neutral
+5863,Transport buses operate on scheduled routes,valid,facilities,neutral
+5864,Sports grounds are available for student use,valid,facilities,neutral
+5865,Maintenance work includes infrastructure repairs,valid,facilities,neutral
+5866,Facilities support campus services,valid,facilities,neutral
+5867,Transport system helps in daily commuting,valid,facilities,neutral
+5868,Sports facilities include courts and playgrounds,valid,facilities,neutral
+5869,Maintenance ensures facilities are functional,valid,facilities,neutral
+5870,Facilities include campus service units,valid,facilities,neutral
+5871,Transport services operate during working hours,valid,facilities,neutral
+5872,Sports areas are used for training sessions,valid,facilities,neutral
+5873,Maintenance staff manage infrastructure regularly,valid,facilities,neutral
+5874,Facilities include operational services,valid,facilities,neutral
+5875,Transport system supports student travel needs,valid,facilities,neutral
+5876,Sports grounds are maintained for activities,valid,facilities,neutral
+5877,Maintenance includes checking equipment,valid,facilities,neutral
+5878,Facilities include campus support infrastructure,valid,facilities,neutral
+5879,Transport services run on fixed timings,valid,facilities,neutral
+5880,Sports facilities support physical education,valid,facilities,neutral
+5881,Maintenance staff ensure infrastructure upkeep,valid,facilities,neutral
+5882,Facilities include utility and service areas,valid,facilities,neutral
+5883,Transport system operates efficiently,valid,facilities,neutral
+5884,Sports areas are used for college events,valid,facilities,neutral
+5885,Maintenance work ensures safety standards,valid,facilities,neutral
+5886,Facilities include service support systems,valid,facilities,neutral
+5887,Transport services are structured for campus use,valid,facilities,neutral
+5888,Sports grounds are accessible for students,valid,facilities,neutral
+5889,Maintenance staff handle facility issues,valid,facilities,neutral
+5890,Facilities include student support services,valid,facilities,neutral
+5891,Transport system includes buses for students,valid,facilities,neutral
+5892,Sports facilities are used for competitions,valid,facilities,neutral
+5893,Maintenance ensures smooth facility operation,valid,facilities,neutral
+5894,Facilities include campus operational systems,valid,facilities,neutral
+5895,Transport services support commuting system,valid,facilities,neutral
+5896,Sports grounds are used for regular practice,valid,facilities,neutral
+5897,Maintenance staff ensure proper infrastructure,valid,facilities,neutral
+5898,Facilities include functional campus areas,valid,facilities,neutral
+5899,Transport system is part of campus facilities,valid,facilities,neutral
+5900,Sports infrastructure supports games and training,valid,facilities,neutral
+5901,Maintenance includes routine checks,valid,facilities,neutral
+5902,Facilities include campus management systems,valid,facilities,neutral
+5903,Transport services operate for student convenience,valid,facilities,neutral
+5904,Sports facilities include activity zones,valid,facilities,neutral
+5905,Maintenance staff manage campus repairs,valid,facilities,neutral
+5906,Facilities include infrastructure support services,valid,facilities,neutral
+5907,Transport system supports daily commuting,valid,facilities,neutral
+5908,Sports grounds are maintained properly,valid,facilities,neutral
+5909,Maintenance ensures campus systems function,valid,facilities,neutral
+5910,Facilities include operational service areas,valid,facilities,neutral
+5911,Transport services are used by students daily,valid,facilities,neutral
+5912,Sports facilities are available for training,valid,facilities,neutral
+5913,Maintenance staff ensure smooth operations,valid,facilities,neutral
+5914,Facilities include campus activity infrastructure,valid,facilities,neutral
+5915,Transport system includes regular routes,valid,facilities,neutral
+5916,Sports grounds are used for student engagement,valid,facilities,neutral
+5917,Maintenance work includes regular upkeep,valid,facilities,neutral
+5918,Facilities include service infrastructure,valid,facilities,neutral
+5919,Transport services operate throughout the day,valid,facilities,neutral
+5920,Sports facilities support events and activities,valid,facilities,neutral
+5921,Maintenance ensures proper campus functioning,valid,facilities,neutral
+5922,Facilities include infrastructure for services,valid,facilities,neutral
+5923,Transport system supports institutional operations,valid,facilities,neutral
+5924,Sports areas are part of campus environment,valid,facilities,neutral
+5925,Maintenance staff handle infrastructure issues,valid,facilities,neutral
+5926,Facilities include daily operational services,valid,facilities,neutral
+5927,Transport services follow planned routes,valid,facilities,neutral
+5928,Sports facilities include grounds and courts,valid,facilities,neutral
+5929,Maintenance ensures facilities are maintained,valid,facilities,neutral
+5930,Facilities include campus support units,valid,facilities,neutral
+5931,Transport system operates within campus schedule,valid,facilities,neutral
+5932,Sports grounds are used for multiple activities,valid,facilities,neutral
+5933,Maintenance staff manage facility upkeep regularly,valid,facilities,neutral
+5934,Facilities include structured service systems,valid,facilities,neutral
+5935,Transport services support student movement,valid,facilities,neutral
+5936,Sports facilities are part of campus life,valid,facilities,neutral
+5937,Maintenance ensures infrastructure reliability,valid,facilities,neutral
+5938,Facilities include campus management support,valid,facilities,neutral
+5939,Transport system includes bus services,valid,facilities,neutral
+5940,Sports grounds are used for training and games,valid,facilities,neutral
+5941,Maintenance staff ensure proper facility condition,valid,facilities,neutral
+5942,Facilities include operational campus services,valid,facilities,neutral
+5943,Transport services are integrated into campus system,valid,facilities,neutral
+5944,Academic lectures are conducted regularly,valid,academics,neutral
+5945,Students attend classes as per schedule,valid,academics,neutral
+5946,Assignments are given during semester,valid,academics,neutral
+5947,Exams are part of academic process,valid,academics,neutral
+5948,Faculty teach subjects in class,valid,academics,neutral
+5949,Administrative staff handle office work,valid,administration,neutral
+5950,Office processes student requests,valid,administration,neutral
+5951,Administrative procedures are followed,valid,administration,neutral
+5952,Staff manage documentation tasks,valid,administration,neutral
+5953,Records are maintained in office,valid,administration,neutral
+5954,Facilities include transport and sports areas,valid,facilities,neutral
+5955,Transport services are available for students,valid,facilities,neutral
+5956,Sports facilities are used regularly,valid,facilities,neutral
+5957,Maintenance staff handle campus upkeep,valid,facilities,neutral
+5958,Facilities support student activities,valid,facilities,neutral
+5959,Library provides study materials,valid,library,neutral
+5960,Students use library for studying,valid,library,neutral
+5961,Library has seating arrangements,valid,library,neutral
+5962,Library resources are available,valid,library,neutral
+5963,Library is open during working hours,valid,library,neutral
+5964,Canteen serves food to students,valid,canteen,neutral
+5965,Students visit canteen during breaks,valid,canteen,neutral
+5966,Canteen operates daily,valid,canteen,neutral
+5967,Food is prepared in canteen,valid,canteen,neutral
+5968,Canteen provides snacks and meals,valid,canteen,neutral
+5969,Website provides college information,valid,website,neutral
+5970,Students access website for updates,valid,website,neutral
+5971,Website is used for academic purposes,valid,website,neutral
+5972,Academic lectures are not clear,valid,academics,negative
+5973,Students are not satisfied with teaching,valid,academics,negative
+5974,Assignments are not explained properly,valid,academics,negative
+5975,Exams are difficult to manage,valid,academics,negative
+5976,Faculty do not explain topics well,valid,academics,negative
+5977,Administrative staff respond slowly,valid,administration,negative
+5978,Office processes are confusing,valid,administration,negative
+5979,Administrative work is delayed,valid,administration,negative
+5980,Students face issues with documentation,valid,administration,negative
+5981,Office staff do not guide properly,valid,administration,negative
+5982,Facilities are not well maintained,valid,facilities,negative
+5983,Transport services are unreliable,valid,facilities,negative
+5984,Sports facilities are not sufficient,valid,facilities,negative
+5985,Maintenance work is delayed,valid,facilities,negative
+5986,Facilities do not meet student needs,valid,facilities,negative
+5987,Library does not have enough books,valid,library,negative
+5988,Library seating is insufficient,valid,library,negative
+5989,Library is too crowded,valid,library,negative
+5990,Library resources are limited,valid,library,negative
+5991,Library environment is not comfortable,valid,library,negative
+5992,Canteen food quality is poor,valid,canteen,negative
+5993,Canteen is overcrowded,valid,canteen,negative
+5994,Food prices are high in canteen,valid,canteen,negative
+5995,Canteen service is slow,valid,canteen,negative
+5996,Hygiene is not maintained in canteen,valid,canteen,negative
+5997,Website is not working properly,valid,website,negative
+5998,Website is slow to load,valid,website,negative
+5999,Students face issues accessing website,valid,website,negative
+6000,Website information is not updated,valid,website,negative

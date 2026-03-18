@@ -75,6 +75,8 @@ Rules:
   (canteen, library, admin, portal, syllabus, faculty, hostel, etc.)
 - Output ONLY the corrected sentence.
 
+
+
 If no correction is needed, return the input exactly.
 """
             },
@@ -173,7 +175,15 @@ except LookupError:
     nltk.download('vader_lexicon', quiet=True)
 
 
-STOPWORDS = nltk.corpus.stopwords.words('english')
+# Get stopwords
+STOPWORDS = set(stopwords.words('english'))
+
+# Keep important sentiment words
+NEGATION_WORDS = {'not', 'no', 'nor', 'too', 'very'}
+
+# Remove them from stopwords
+STOPWORDS = STOPWORDS - NEGATION_WORDS
+
 SENTIMENT_ANALYZER = SentimentIntensityAnalyzer()
 
 
@@ -216,10 +226,17 @@ class CollegeFeedbackPredictor:
     def clean_text(self, text):
         if pd.isna(text) or str(text).strip() == '':
             return 'empty'
+
         text = re.sub(r'[^\w\s]', '', str(text).lower())
-        words = [w for w in text.split() if w not in STOPWORDS and len(w) > 1]
-        words = [LEMMATIZER.lemmatize(w) for w in words]
-        return ' '.join(words) if words else 'empty'
+        words = text.split()
+
+        cleaned_words = []
+        for w in words:
+            if w not in STOPWORDS:
+                lemma = LEMMATIZER.lemmatize(w)
+                cleaned_words.append(lemma)
+
+        return ' '.join(cleaned_words) if cleaned_words else 'empty'
     
     # def keyword_boost(self, text, category):
     #     """Check if text contains category keywords"""
@@ -244,6 +261,13 @@ class CollegeFeedbackPredictor:
         df['sentiment'] = df['sentiment'].str.strip().str.lower()
 
         df['clean_feedback'] = df['feedback_message'].apply(self.clean_text)
+        # 🔥 Save preprocessed dataset
+        df_clean = df[['clean_feedback', 'valid_invalid', 'category', 'sentiment']]
+
+        df_clean.to_csv('data/preprocessed_training_data.csv', index=False)
+
+        print("💾 Clean-only dataset saved!")
+        print("💾 Preprocessed dataset saved as data/preprocessed_training_data.csv")
 
         # Map lowercase values
         df['valid_num'] = df['valid_invalid'].map({'valid': 1, 'invalid': 0}).fillna(0)
@@ -297,7 +321,11 @@ class CollegeFeedbackPredictor:
                 Xs, ys, test_size=0.2, random_state=42, stratify=ys
             )
             
-            self.sent_vec = TfidfVectorizer(max_features=800, ngram_range=(1,2))
+            self.sent_vec = TfidfVectorizer(
+                max_features=2000,
+                ngram_range=(1,3),   # VERY IMPORTANT
+                min_df=2
+            )
             Xs_train_tfidf = self.sent_vec.fit_transform(Xs_train)
             Xs_test_tfidf = self.sent_vec.transform(Xs_test)
             
@@ -383,6 +411,9 @@ class CollegeFeedbackPredictor:
             # Sentiment prediction
             sent_tfidf = self.sent_vec.transform([clean])
             sentiment = self.sent_model.predict(sent_tfidf)[0]
+
+            # 🔥 Fix negation meaning
+            sentiment = self.handle_negation_cases(sentence, sentiment)
             sent_prob = self.sent_model.predict_proba(sent_tfidf)[0].max()
 
             # Category prediction
@@ -475,6 +506,33 @@ class CollegeFeedbackPredictor:
                     final_sentences.append(final)
 
         return final_sentences if final_sentences else [text]  
+
+    def handle_negation_cases(self, sentence, predicted_sentiment):
+        text = sentence.lower()
+
+        # Positive negation patterns
+        positive_patterns = [
+            "not bad", "not worst", "not poor", "not terrible",
+            "not awful", "not disappointing"
+        ]
+
+        # Negative negation patterns
+        negative_patterns = [
+            "not good", "not nice", "not great",
+            "not fresh", "not clean", "not working"
+        ]
+
+        # Check positive meaning
+        for p in positive_patterns:
+            if p in text:
+                return "positive"
+
+        # Check negative meaning
+        for p in negative_patterns:
+            if p in text:
+                return "negative"
+
+        return predicted_sentiment
  
 
 if __name__ == "__main__":

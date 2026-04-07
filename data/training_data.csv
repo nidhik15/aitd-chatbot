@@ -3019,26 +3019,26 @@ id,feedback_message,valid_invalid,category,sentiment
 3018,No industry exposure in syllabus,valid,Academics,negative
 3019,Exams are not well organized,valid,Academics,negative
 3020,Academic planning is poor,valid,Academics,negative
-3021,Administration is very slow,valid,Admin,negative
-3022,Office staff is not helpful,valid,Admin,negative
-3023,Too much delay in processing forms,valid,Admin,negative
-3024,Management communication is unclear,valid,Admin,negative
-3025,Requests are ignored frequently,valid,Admin,negative
-3026,Administrative work is inefficient,valid,Admin,negative
-3027,No proper response from admin office,valid,Admin,negative
-3028,Approval process takes too long,valid,Admin,negative
-3029,Staff behavior is unprofessional,valid,Admin,negative
-3030,Too many unnecessary procedures,valid,Admin,negative
-3031,Admin support is unreliable,valid,Admin,negative
-3032,Complaint handling is poor,valid,Admin,negative
-3033,Documents get delayed often,valid,Admin,negative
-3034,Information provided is incorrect,valid,Admin,negative
-3035,No transparency in processes,valid,Admin,negative
-3036,Workload handling is inefficient,valid,Admin,negative
-3037,Staff is often unavailable,valid,Admin,negative
-3038,Requests are lost frequently,valid,Admin,negative
-3039,Communication gap is huge,valid,Admin,negative
-3040,Admin office is disorganized,valid,Admin,negative
+3021,Administration is very slow,valid,administration,negative
+3022,Office staff is not helpful,valid,administration,negative
+3023,Too much delay in processing forms,valid,administration,negative
+3024,Management communication is unclear,valid,administration,negative
+3025,Requests are ignored frequently,valid,administration,negative
+3026,Administrative work is inefficient,valid,administration,negative
+3027,No proper response from admin office,valid,administration,negative
+3028,Approval process takes too long,valid,administration,negative
+3029,Staff behavior is unprofessional,valid,administration,negative
+3030,Too many unnecessary procedures,valid,administration,negative
+3031,Admin support is unreliable,valid,administration,negative
+3032,Complaint handling is poor,valid,administration,negative
+3033,Documents get delayed often,valid,administration,negative
+3034,Information provided is incorrect,valid,administration,negative
+3035,No transparency in processes,valid,administration,negative
+3036,Workload handling is inefficient,valid,administration,negative
+3037,Staff is often unavailable,valid,administration,negative
+3038,Requests are lost frequently,valid,administration,negative
+3039,Communication gap is huge,valid,administration,negative
+3040,Admin office is disorganized,valid,administration,negative
 3041,Classrooms are poorly maintained,valid,Facilities,negative
 3042,Washrooms are very dirty,valid,Facilities,negative
 3043,WiFi is not working properly,valid,Facilities,negative
@@ -3139,26 +3139,26 @@ id,feedback_message,valid_invalid,category,sentiment
 3138,No industry exposure in syllabus,valid,Academics,negative
 3139,Exams are not well organized,valid,Academics,negative
 3140,Academic planning is poor,valid,Academics,negative
-3141,Administration is very slow,valid,Admin,negative
-3142,Office staff is not helpful,valid,Admin,negative
-3143,Too much delay in processing forms,valid,Admin,negative
-3144,Management communication is unclear,valid,Admin,negative
-3145,Requests are ignored frequently,valid,Admin,negative
-3146,Administrative work is inefficient,valid,Admin,negative
-3147,No proper response from admin office,valid,Admin,negative
-3148,Approval process takes too long,valid,Admin,negative
-3149,Staff behavior is unprofessional,valid,Admin,negative
-3150,Too many unnecessary procedures,valid,Admin,negative
-3151,Admin support is unreliable,valid,Admin,negative
-3152,Complaint handling is poor,valid,Admin,negative
-3153,Documents get delayed often,valid,Admin,negative
-3154,Information provided is incorrect,valid,Admin,negative
-3155,No transparency in processes,valid,Admin,negative
-3156,Workload handling is inefficient,valid,Admin,negative
-3157,Staff is often unavailable,valid,Admin,negative
-3158,Requests are lost frequently,valid,Admin,negative
-3159,Communication gap is huge,valid,Admin,negative
-3160,Admin office is disorganized,valid,Admin,negative
+3141,Administration is very slow,valid,administration,negative
+3142,Office staff is not helpful,valid,administration,negative
+3143,Too much delay in processing forms,valid,administration,negative
+3144,Management communication is unclear,valid,administration,negative
+3145,Requests are ignored frequently,valid,administration,negative
+3146,Administrative work is inefficient,valid,administration,negative
+3147,No proper response from admin office,valid,administration,negative
+3148,Approval process takes too long,valid,administration,negative
+3149,Staff behavior is unprofessional,valid,administration,negative
+3150,Too many unnecessary procedures,valid,administration,negative
+3151,Admin support is unreliable,valid,administration,negative
+3152,Complaint handling is poor,valid,administration,negative
+3153,Documents get delayed often,valid,administration,negative
+3154,Information provided is incorrect,valid,administration,negative
+3155,No transparency in processes,valid,administration,negative
+3156,Workload handling is inefficient,valid,administration,negative
+3157,Staff is often unavailable,valid,administration,negative
+3158,Requests are lost frequently,valid,administration,negative
+3159,Communication gap is huge,valid,administration,negative
+3160,Admin office is disorganized,valid,administration,negative
 3161,Classrooms are poorly maintained,valid,Facilities,negative
 3162,Washrooms are very dirty,valid,Facilities,negative
 3163,WiFi is not working properly,valid,Facilities,negative
@@ -3259,26 +3259,26 @@ id,feedback_message,valid_invalid,category,sentiment
 3258,No industry exposure in syllabus,valid,Academics,negative
 3259,Exams are not well organized,valid,Academics,negative
 3260,Academic planning is poor,valid,Academics,negative
-3261,Administration is very slow,valid,Admin,negative
-3262,Office staff is not helpful,valid,Admin,negative
-3263,Too much delay in processing forms,valid,Admin,negative
-3264,Management communication is unclear,valid,Admin,negative
-3265,Requests are ignored frequently,valid,Admin,negative
-3266,Administrative work is inefficient,valid,Admin,negative
-3267,No proper response from admin office,valid,Admin,negative
-3268,Approval process takes too long,valid,Admin,negative
-3269,Staff behavior is unprofessional,valid,Admin,negative
-3270,Too many unnecessary procedures,valid,Admin,negative
-3271,Admin support is unreliable,valid,Admin,negative
-3272,Complaint handling is poor,valid,Admin,negative
-3273,Documents get delayed often,valid,Admin,negative
-3274,Information provided is incorrect,valid,Admin,negative
-3275,No transparency in processes,valid,Admin,negative
-3276,Workload handling is inefficient,valid,Admin,negative
-3277,Staff is often unavailable,valid,Admin,negative
-3278,Requests are lost frequently,valid,Admin,negative
-3279,Communication gap is huge,valid,Admin,negative
-3280,Admin office is disorganized,valid,Admin,negative
+3261,Administration is very slow,valid,administration,negative
+3262,Office staff is not helpful,valid,administration,negative
+3263,Too much delay in processing forms,valid,administration,negative
+3264,Management communication is unclear,valid,administration,negative
+3265,Requests are ignored frequently,valid,administration,negative
+3266,Administrative work is inefficient,valid,administration,negative
+3267,No proper response from admin office,valid,administration,negative
+3268,Approval process takes too long,valid,administration,negative
+3269,Staff behavior is unprofessional,valid,administration,negative
+3270,Too many unnecessary procedures,valid,administration,negative
+3271,Admin support is unreliable,valid,administration,negative
+3272,Complaint handling is poor,valid,administration,negative
+3273,Documents get delayed often,valid,administration,negative
+3274,Information provided is incorrect,valid,administration,negative
+3275,No transparency in processes,valid,administration,negative
+3276,Workload handling is inefficient,valid,administration,negative
+3277,Staff is often unavailable,valid,administration,negative
+3278,Requests are lost frequently,valid,administration,negative
+3279,Communication gap is huge,valid,administration,negative
+3280,Admin office is disorganized,valid,administration,negative
 3281,Classrooms are poorly maintained,valid,Facilities,negative
 3282,Washrooms are very dirty,valid,Facilities,negative
 3283,WiFi is not working properly,valid,Facilities,negative
@@ -3379,26 +3379,26 @@ id,feedback_message,valid_invalid,category,sentiment
 3378,No industry exposure in syllabus,valid,Academics,negative
 3379,Exams are not well organized,valid,Academics,negative
 3380,Academic planning is poor,valid,Academics,negative
-3381,Administration is very slow,valid,Admin,negative
-3382,Office staff is not helpful,valid,Admin,negative
-3383,Too much delay in processing forms,valid,Admin,negative
-3384,Management communication is unclear,valid,Admin,negative
-3385,Requests are ignored frequently,valid,Admin,negative
-3386,Administrative work is inefficient,valid,Admin,negative
-3387,No proper response from admin office,valid,Admin,negative
-3388,Approval process takes too long,valid,Admin,negative
-3389,Staff behavior is unprofessional,valid,Admin,negative
-3390,Too many unnecessary procedures,valid,Admin,negative
-3391,Admin support is unreliable,valid,Admin,negative
-3392,Complaint handling is poor,valid,Admin,negative
-3393,Documents get delayed often,valid,Admin,negative
-3394,Information provided is incorrect,valid,Admin,negative
-3395,No transparency in processes,valid,Admin,negative
-3396,Workload handling is inefficient,valid,Admin,negative
-3397,Staff is often unavailable,valid,Admin,negative
-3398,Requests are lost frequently,valid,Admin,negative
-3399,Communication gap is huge,valid,Admin,negative
-3400,Admin office is disorganized,valid,Admin,negative
+3381,Administration is very slow,valid,administration,negative
+3382,Office staff is not helpful,valid,administration,negative
+3383,Too much delay in processing forms,valid,administration,negative
+3384,Management communication is unclear,valid,administration,negative
+3385,Requests are ignored frequently,valid,administration,negative
+3386,Administrative work is inefficient,valid,administration,negative
+3387,No proper response from admin office,valid,administration,negative
+3388,Approval process takes too long,valid,administration,negative
+3389,Staff behavior is unprofessional,valid,administration,negative
+3390,Too many unnecessary procedures,valid,administration,negative
+3391,Admin support is unreliable,valid,administration,negative
+3392,Complaint handling is poor,valid,administration,negative
+3393,Documents get delayed often,valid,administration,negative
+3394,Information provided is incorrect,valid,administration,negative
+3395,No transparency in processes,valid,administration,negative
+3396,Workload handling is inefficient,valid,administration,negative
+3397,Staff is often unavailable,valid,administration,negative
+3398,Requests are lost frequently,valid,administration,negative
+3399,Communication gap is huge,valid,administration,negative
+3400,Admin office is disorganized,valid,administration,negative
 3401,Classrooms are poorly maintained,valid,Facilities,negative
 3402,Washrooms are very dirty,valid,Facilities,negative
 3403,WiFi is not working properly,valid,Facilities,negative
@@ -3499,26 +3499,26 @@ id,feedback_message,valid_invalid,category,sentiment
 3498,No industry exposure in syllabus,valid,Academics,negative
 3499,Exams are not well organized,valid,Academics,negative
 3500,Academic planning is poor,valid,Academics,negative
-3501,Administration is very slow,valid,Admin,negative
-3502,Office staff is not helpful,valid,Admin,negative
-3503,Too much delay in processing forms,valid,Admin,negative
-3504,Management communication is unclear,valid,Admin,negative
-3505,Requests are ignored frequently,valid,Admin,negative
-3506,Administrative work is inefficient,valid,Admin,negative
-3507,No proper response from admin office,valid,Admin,negative
-3508,Approval process takes too long,valid,Admin,negative
-3509,Staff behavior is unprofessional,valid,Admin,negative
-3510,Too many unnecessary procedures,valid,Admin,negative
-3511,Admin support is unreliable,valid,Admin,negative
-3512,Complaint handling is poor,valid,Admin,negative
-3513,Documents get delayed often,valid,Admin,negative
-3514,Information provided is incorrect,valid,Admin,negative
-3515,No transparency in processes,valid,Admin,negative
-3516,Workload handling is inefficient,valid,Admin,negative
-3517,Staff is often unavailable,valid,Admin,negative
-3518,Requests are lost frequently,valid,Admin,negative
-3519,Communication gap is huge,valid,Admin,negative
-3520,Admin office is disorganized,valid,Admin,negative
+3501,Administration is very slow,valid,administration,negative
+3502,Office staff is not helpful,valid,administration,negative
+3503,Too much delay in processing forms,valid,administration,negative
+3504,Management communication is unclear,valid,administration,negative
+3505,Requests are ignored frequently,valid,administration,negative
+3506,Administrative work is inefficient,valid,administration,negative
+3507,No proper response from admin office,valid,administration,negative
+3508,Approval process takes too long,valid,administration,negative
+3509,Staff behavior is unprofessional,valid,administration,negative
+3510,Too many unnecessary procedures,valid,administration,negative
+3511,Admin support is unreliable,valid,administration,negative
+3512,Complaint handling is poor,valid,administration,negative
+3513,Documents get delayed often,valid,administration,negative
+3514,Information provided is incorrect,valid,administration,negative
+3515,No transparency in processes,valid,administration,negative
+3516,Workload handling is inefficient,valid,administration,negative
+3517,Staff is often unavailable,valid,administration,negative
+3518,Requests are lost frequently,valid,administration,negative
+3519,Communication gap is huge,valid,administration,negative
+3520,Admin office is disorganized,valid,administration,negative
 3521,Classrooms are poorly maintained,valid,Facilities,negative
 3522,Washrooms are very dirty,valid,Facilities,negative
 3523,WiFi is not working properly,valid,Facilities,negative
@@ -3619,26 +3619,26 @@ id,feedback_message,valid_invalid,category,sentiment
 3618,No industry exposure in syllabus,valid,Academics,negative
 3619,Exams are not well organized,valid,Academics,negative
 3620,Academic planning is poor,valid,Academics,negative
-3621,Administration is very slow,valid,Admin,negative
-3622,Office staff is not helpful,valid,Admin,negative
-3623,Too much delay in processing forms,valid,Admin,negative
-3624,Management communication is unclear,valid,Admin,negative
-3625,Requests are ignored frequently,valid,Admin,negative
-3626,Administrative work is inefficient,valid,Admin,negative
-3627,No proper response from admin office,valid,Admin,negative
-3628,Approval process takes too long,valid,Admin,negative
-3629,Staff behavior is unprofessional,valid,Admin,negative
-3630,Too many unnecessary procedures,valid,Admin,negative
-3631,Admin support is unreliable,valid,Admin,negative
-3632,Complaint handling is poor,valid,Admin,negative
-3633,Documents get delayed often,valid,Admin,negative
-3634,Information provided is incorrect,valid,Admin,negative
-3635,No transparency in processes,valid,Admin,negative
-3636,Workload handling is inefficient,valid,Admin,negative
-3637,Staff is often unavailable,valid,Admin,negative
-3638,Requests are lost frequently,valid,Admin,negative
-3639,Communication gap is huge,valid,Admin,negative
-3640,Admin office is disorganized,valid,Admin,negative
+3621,Administration is very slow,valid,administration,negative
+3622,Office staff is not helpful,valid,administration,negative
+3623,Too much delay in processing forms,valid,administration,negative
+3624,Management communication is unclear,valid,administration,negative
+3625,Requests are ignored frequently,valid,administration,negative
+3626,Administrative work is inefficient,valid,administration,negative
+3627,No proper response from admin office,valid,administration,negative
+3628,Approval process takes too long,valid,administration,negative
+3629,Staff behavior is unprofessional,valid,administration,negative
+3630,Too many unnecessary procedures,valid,administration,negative
+3631,Admin support is unreliable,valid,administration,negative
+3632,Complaint handling is poor,valid,administration,negative
+3633,Documents get delayed often,valid,administration,negative
+3634,Information provided is incorrect,valid,administration,negative
+3635,No transparency in processes,valid,administration,negative
+3636,Workload handling is inefficient,valid,administration,negative
+3637,Staff is often unavailable,valid,administration,negative
+3638,Requests are lost frequently,valid,administration,negative
+3639,Communication gap is huge,valid,administration,negative
+3640,Admin office is disorganized,valid,administration,negative
 3641,Classrooms are poorly maintained,valid,Facilities,negative
 3642,Washrooms are very dirty,valid,Facilities,negative
 3643,WiFi is not working properly,valid,Facilities,negative
@@ -3739,26 +3739,26 @@ id,feedback_message,valid_invalid,category,sentiment
 3738,No industry exposure in syllabus,valid,Academics,negative
 3739,Exams are not well organized,valid,Academics,negative
 3740,Academic planning is poor,valid,Academics,negative
-3741,Administration is very slow,valid,Admin,negative
-3742,Office staff is not helpful,valid,Admin,negative
-3743,Too much delay in processing forms,valid,Admin,negative
-3744,Management communication is unclear,valid,Admin,negative
-3745,Requests are ignored frequently,valid,Admin,negative
-3746,Administrative work is inefficient,valid,Admin,negative
-3747,No proper response from admin office,valid,Admin,negative
-3748,Approval process takes too long,valid,Admin,negative
-3749,Staff behavior is unprofessional,valid,Admin,negative
-3750,Too many unnecessary procedures,valid,Admin,negative
-3751,Admin support is unreliable,valid,Admin,negative
-3752,Complaint handling is poor,valid,Admin,negative
-3753,Documents get delayed often,valid,Admin,negative
-3754,Information provided is incorrect,valid,Admin,negative
-3755,No transparency in processes,valid,Admin,negative
-3756,Workload handling is inefficient,valid,Admin,negative
-3757,Staff is often unavailable,valid,Admin,negative
-3758,Requests are lost frequently,valid,Admin,negative
-3759,Communication gap is huge,valid,Admin,negative
-3760,Admin office is disorganized,valid,Admin,negative
+3741,Administration is very slow,valid,administration,negative
+3742,Office staff is not helpful,valid,administration,negative
+3743,Too much delay in processing forms,valid,administration,negative
+3744,Management communication is unclear,valid,administration,negative
+3745,Requests are ignored frequently,valid,administration,negative
+3746,Administrative work is inefficient,valid,administration,negative
+3747,No proper response from admin office,valid,administration,negative
+3748,Approval process takes too long,valid,administration,negative
+3749,Staff behavior is unprofessional,valid,administration,negative
+3750,Too many unnecessary procedures,valid,administration,negative
+3751,Admin support is unreliable,valid,administration,negative
+3752,Complaint handling is poor,valid,administration,negative
+3753,Documents get delayed often,valid,administration,negative
+3754,Information provided is incorrect,valid,administration,negative
+3755,No transparency in processes,valid,administration,negative
+3756,Workload handling is inefficient,valid,administration,negative
+3757,Staff is often unavailable,valid,administration,negative
+3758,Requests are lost frequently,valid,administration,negative
+3759,Communication gap is huge,valid,administration,negative
+3760,Admin office is disorganized,valid,administration,negative
 3761,Classrooms are poorly maintained,valid,Facilities,negative
 3762,Washrooms are very dirty,valid,Facilities,negative
 3763,WiFi is not working properly,valid,Facilities,negative
@@ -3859,26 +3859,26 @@ id,feedback_message,valid_invalid,category,sentiment
 3858,No industry exposure in syllabus,valid,Academics,negative
 3859,Exams are not well organized,valid,Academics,negative
 3860,Academic planning is poor,valid,Academics,negative
-3861,Administration is very slow,valid,Admin,negative
-3862,Office staff is not helpful,valid,Admin,negative
-3863,Too much delay in processing forms,valid,Admin,negative
-3864,Management communication is unclear,valid,Admin,negative
-3865,Requests are ignored frequently,valid,Admin,negative
-3866,Administrative work is inefficient,valid,Admin,negative
-3867,No proper response from admin office,valid,Admin,negative
-3868,Approval process takes too long,valid,Admin,negative
-3869,Staff behavior is unprofessional,valid,Admin,negative
-3870,Too many unnecessary procedures,valid,Admin,negative
-3871,Admin support is unreliable,valid,Admin,negative
-3872,Complaint handling is poor,valid,Admin,negative
-3873,Documents get delayed often,valid,Admin,negative
-3874,Information provided is incorrect,valid,Admin,negative
-3875,No transparency in processes,valid,Admin,negative
-3876,Workload handling is inefficient,valid,Admin,negative
-3877,Staff is often unavailable,valid,Admin,negative
-3878,Requests are lost frequently,valid,Admin,negative
-3879,Communication gap is huge,valid,Admin,negative
-3880,Admin office is disorganized,valid,Admin,negative
+3861,Administration is very slow,valid,administration,negative
+3862,Office staff is not helpful,valid,administration,negative
+3863,Too much delay in processing forms,valid,administration,negative
+3864,Management communication is unclear,valid,administration,negative
+3865,Requests are ignored frequently,valid,administration,negative
+3866,Administrative work is inefficient,valid,administration,negative
+3867,No proper response from admin office,valid,administration,negative
+3868,Approval process takes too long,valid,administration,negative
+3869,Staff behavior is unprofessional,valid,administration,negative
+3870,Too many unnecessary procedures,valid,administration,negative
+3871,Admin support is unreliable,valid,administration,negative
+3872,Complaint handling is poor,valid,administration,negative
+3873,Documents get delayed often,valid,administration,negative
+3874,Information provided is incorrect,valid,administration,negative
+3875,No transparency in processes,valid,administration,negative
+3876,Workload handling is inefficient,valid,administration,negative
+3877,Staff is often unavailable,valid,administration,negative
+3878,Requests are lost frequently,valid,administration,negative
+3879,Communication gap is huge,valid,administration,negative
+3880,Admin office is disorganized,valid,administration,negative
 3881,Classrooms are poorly maintained,valid,Facilities,negative
 3882,Washrooms are very dirty,valid,Facilities,negative
 3883,WiFi is not working properly,valid,Facilities,negative
@@ -3979,26 +3979,26 @@ id,feedback_message,valid_invalid,category,sentiment
 3978,No industry exposure in syllabus,valid,Academics,negative
 3979,Exams are not well organized,valid,Academics,negative
 3980,Academic planning is poor,valid,Academics,negative
-3981,Administration is very slow,valid,Admin,negative
-3982,Office staff is not helpful,valid,Admin,negative
-3983,Too much delay in processing forms,valid,Admin,negative
-3984,Management communication is unclear,valid,Admin,negative
-3985,Requests are ignored frequently,valid,Admin,negative
-3986,Administrative work is inefficient,valid,Admin,negative
-3987,No proper response from admin office,valid,Admin,negative
-3988,Approval process takes too long,valid,Admin,negative
-3989,Staff behavior is unprofessional,valid,Admin,negative
-3990,Too many unnecessary procedures,valid,Admin,negative
-3991,Admin support is unreliable,valid,Admin,negative
-3992,Complaint handling is poor,valid,Admin,negative
-3993,Documents get delayed often,valid,Admin,negative
-3994,Information provided is incorrect,valid,Admin,negative
-3995,No transparency in processes,valid,Admin,negative
-3996,Workload handling is inefficient,valid,Admin,negative
-3997,Staff is often unavailable,valid,Admin,negative
-3998,Requests are lost frequently,valid,Admin,negative
-3999,Communication gap is huge,valid,Admin,negative
-4000,Admin office is disorganized,valid,Admin,negative
+3981,Administration is very slow,valid,administration,negative
+3982,Office staff is not helpful,valid,administration,negative
+3983,Too much delay in processing forms,valid,administration,negative
+3984,Management communication is unclear,valid,administration,negative
+3985,Requests are ignored frequently,valid,administration,negative
+3986,Administrative work is inefficient,valid,administration,negative
+3987,No proper response from admin office,valid,administration,negative
+3988,Approval process takes too long,valid,administration,negative
+3989,Staff behavior is unprofessional,valid,administration,negative
+3990,Too many unnecessary procedures,valid,administration,negative
+3991,Admin support is unreliable,valid,administration,negative
+3992,Complaint handling is poor,valid,administration,negative
+3993,Documents get delayed often,valid,administration,negative
+3994,Information provided is incorrect,valid,administration,negative
+3995,No transparency in processes,valid,administration,negative
+3996,Workload handling is inefficient,valid,administration,negative
+3997,Staff is often unavailable,valid,administration,negative
+3998,Requests are lost frequently,valid,administration,negative
+3999,Communication gap is huge,valid,administration,negative
+4000,Admin office is disorganized,valid,administration,negative
 4001,Classrooms are poorly maintained,valid,Facilities,negative
 4002,Washrooms are very dirty,valid,Facilities,negative
 4003,WiFi is not working properly,valid,Facilities,negative
@@ -4099,26 +4099,26 @@ id,feedback_message,valid_invalid,category,sentiment
 4098,No industry exposure in syllabus,valid,Academics,negative
 4099,Exams are not well organized,valid,Academics,negative
 4100,Academic planning is poor,valid,Academics,negative
-4101,Administration is very slow,valid,Admin,negative
-4102,Office staff is not helpful,valid,Admin,negative
-4103,Too much delay in processing forms,valid,Admin,negative
-4104,Management communication is unclear,valid,Admin,negative
-4105,Requests are ignored frequently,valid,Admin,negative
-4106,Administrative work is inefficient,valid,Admin,negative
-4107,No proper response from admin office,valid,Admin,negative
-4108,Approval process takes too long,valid,Admin,negative
-4109,Staff behavior is unprofessional,valid,Admin,negative
-4110,Too many unnecessary procedures,valid,Admin,negative
-4111,Admin support is unreliable,valid,Admin,negative
-4112,Complaint handling is poor,valid,Admin,negative
-4113,Documents get delayed often,valid,Admin,negative
-4114,Information provided is incorrect,valid,Admin,negative
-4115,No transparency in processes,valid,Admin,negative
-4116,Workload handling is inefficient,valid,Admin,negative
-4117,Staff is often unavailable,valid,Admin,negative
-4118,Requests are lost frequently,valid,Admin,negative
-4119,Communication gap is huge,valid,Admin,negative
-4120,Admin office is disorganized,valid,Admin,negative
+4101,Administration is very slow,valid,administration,negative
+4102,Office staff is not helpful,valid,administration,negative
+4103,Too much delay in processing forms,valid,administration,negative
+4104,Management communication is unclear,valid,administration,negative
+4105,Requests are ignored frequently,valid,administration,negative
+4106,Administrative work is inefficient,valid,administration,negative
+4107,No proper response from admin office,valid,administration,negative
+4108,Approval process takes too long,valid,administration,negative
+4109,Staff behavior is unprofessional,valid,administration,negative
+4110,Too many unnecessary procedures,valid,administration,negative
+4111,Admin support is unreliable,valid,administration,negative
+4112,Complaint handling is poor,valid,administration,negative
+4113,Documents get delayed often,valid,administration,negative
+4114,Information provided is incorrect,valid,administration,negative
+4115,No transparency in processes,valid,administration,negative
+4116,Workload handling is inefficient,valid,administration,negative
+4117,Staff is often unavailable,valid,administration,negative
+4118,Requests are lost frequently,valid,administration,negative
+4119,Communication gap is huge,valid,administration,negative
+4120,Admin office is disorganized,valid,administration,negative
 4121,Classrooms need renovation,valid,Facilities,negative
 4122,Lab equipment is insufficient,valid,Facilities,negative
 4123,Campus maintenance is weak,valid,Facilities,negative
@@ -5572,191 +5572,191 @@ id,feedback_message,valid_invalid,category,sentiment
 5571,Staff assist with administrative processes,valid,administration,neutral
 5572,Administrative system runs throughout the day,valid,administration,neutral
 5573,Office handles all administrative functions,valid,administration,neutral
-5574,Campus infrastructure includes classrooms and buildings,valid,infrastructure,neutral
-5575,College has multiple academic blocks,valid,infrastructure,neutral
-5576,Infrastructure supports daily activities,valid,infrastructure,neutral
-5577,Buildings are used for different departments,valid,infrastructure,neutral
-5578,Campus has designated areas for classes,valid,infrastructure,neutral
-5579,Infrastructure includes lecture halls,valid,infrastructure,neutral
-5580,College provides physical facilities,valid,infrastructure,neutral
-5581,Buildings are maintained for usage,valid,infrastructure,neutral
-5582,Infrastructure includes basic amenities,valid,infrastructure,neutral
-5583,Campus has structured layout,valid,infrastructure,neutral
-5584,Buildings are allocated for departments,valid,infrastructure,neutral
-5585,Infrastructure includes corridors and rooms,valid,infrastructure,neutral
-5586,College campus includes multiple floors,valid,infrastructure,neutral
-5587,Buildings are used for academic purposes,valid,infrastructure,neutral
-5588,Infrastructure supports teaching environment,valid,infrastructure,neutral
-5589,Campus includes common areas,valid,infrastructure,neutral
-5590,Buildings are constructed for institutional use,valid,infrastructure,neutral
-5591,Infrastructure includes seating arrangements,valid,infrastructure,neutral
-5592,College has indoor facilities,valid,infrastructure,neutral
-5593,Buildings are designed for functionality,valid,infrastructure,neutral
-5594,Infrastructure includes hallways and entrances,valid,infrastructure,neutral
-5595,Campus has organized building structure,valid,infrastructure,neutral
-5596,Buildings are accessible to students,valid,infrastructure,neutral
-5597,Infrastructure includes utility spaces,valid,infrastructure,neutral
-5598,College provides structured facilities,valid,infrastructure,neutral
-5599,Buildings are maintained regularly,valid,infrastructure,neutral
-5600,Infrastructure includes physical resources,valid,infrastructure,neutral
-5601,Campus includes multiple infrastructure units,valid,infrastructure,neutral
-5602,Buildings serve academic and administrative needs,valid,infrastructure,neutral
-5603,Infrastructure supports institutional functions,valid,infrastructure,neutral
-5604,Campus has designated infrastructure areas,valid,infrastructure,neutral
-5605,Buildings include classrooms and offices,valid,infrastructure,neutral
-5606,Infrastructure includes entry and exit points,valid,infrastructure,neutral
-5607,College provides built environment facilities,valid,infrastructure,neutral
-5608,Buildings are structured for usage,valid,infrastructure,neutral
-5609,Infrastructure includes academic spaces,valid,infrastructure,neutral
-5610,Campus layout includes buildings and open areas,valid,infrastructure,neutral
-5611,Buildings are used for educational activities,valid,infrastructure,neutral
-5612,Infrastructure includes seating and desks,valid,infrastructure,neutral
-5613,College campus includes physical structures,valid,infrastructure,neutral
-5614,Buildings are maintained for student use,valid,infrastructure,neutral
-5615,Infrastructure includes rooms and halls,valid,infrastructure,neutral
-5616,Campus has defined infrastructure zones,valid,infrastructure,neutral
-5617,Buildings are arranged across campus,valid,infrastructure,neutral
-5618,Infrastructure includes support facilities,valid,infrastructure,neutral
-5619,College provides infrastructure for learning,valid,infrastructure,neutral
-5620,Buildings are used for multiple purposes,valid,infrastructure,neutral
-5621,Infrastructure includes study spaces,valid,infrastructure,neutral
-5622,Campus includes academic and non academic areas,valid,infrastructure,neutral
-5623,Buildings are accessible during working hours,valid,infrastructure,neutral
-5624,Infrastructure includes physical layout,valid,infrastructure,neutral
-5625,College campus includes building complexes,valid,infrastructure,neutral
-5626,Buildings are part of institutional setup,valid,infrastructure,neutral
-5627,Infrastructure includes functional spaces,valid,infrastructure,neutral
-5628,Campus has organized infrastructure system,valid,infrastructure,neutral
-5629,Buildings are distributed across campus,valid,infrastructure,neutral
-5630,Infrastructure includes essential facilities,valid,infrastructure,neutral
-5631,College provides infrastructure resources,valid,infrastructure,neutral
-5632,Buildings support academic operations,valid,infrastructure,neutral
-5633,Infrastructure includes usable spaces,valid,infrastructure,neutral
-5634,Campus layout is structured systematically,valid,infrastructure,neutral
-5635,Buildings are designed for educational needs,valid,infrastructure,neutral
-5636,Infrastructure includes structural facilities,valid,infrastructure,neutral
-5637,College has physical infrastructure system,valid,infrastructure,neutral
-5638,Buildings include various functional areas,valid,infrastructure,neutral
-5639,Infrastructure includes accessible spaces,valid,infrastructure,neutral
-5640,Campus has maintained infrastructure units,valid,infrastructure,neutral
-5641,Buildings are used for daily operations,valid,infrastructure,neutral
-5642,Infrastructure includes academic buildings,valid,infrastructure,neutral
-5643,College provides infrastructure support,valid,infrastructure,neutral
-5644,Buildings are part of campus environment,valid,infrastructure,neutral
-5645,Infrastructure includes classroom facilities,valid,infrastructure,neutral
-5646,Campus includes multiple building sections,valid,infrastructure,neutral
-5647,Buildings are structured across campus,valid,infrastructure,neutral
-5648,Infrastructure includes resource areas,valid,infrastructure,neutral
-5649,College campus includes infrastructure planning,valid,infrastructure,neutral
-5650,Buildings are used for institutional work,valid,infrastructure,neutral
-5651,Infrastructure includes learning spaces,valid,infrastructure,neutral
-5652,Campus layout includes structured buildings,valid,infrastructure,neutral
-5653,Buildings are maintained for operational use,valid,infrastructure,neutral
-5654,Infrastructure includes necessary amenities,valid,infrastructure,neutral
-5655,College provides infrastructure for students,valid,infrastructure,neutral
-5656,Buildings are part of campus facilities,valid,infrastructure,neutral
-5657,Infrastructure includes basic structural elements,valid,infrastructure,neutral
-5658,Campus includes infrastructure support systems,valid,infrastructure,neutral
-5659,Buildings are organized within campus,valid,infrastructure,neutral
-5660,Infrastructure includes indoor environments,valid,infrastructure,neutral
-5661,College campus has structured infrastructure,valid,infrastructure,neutral
-5662,Buildings are available for academic use,valid,infrastructure,neutral
-5663,Infrastructure includes operational facilities,valid,infrastructure,neutral
-5664,Campus has infrastructure for activities,valid,infrastructure,neutral
-5665,Buildings are part of institutional layout,valid,infrastructure,neutral
-5666,Infrastructure includes essential structures,valid,infrastructure,neutral
-5667,College provides infrastructure environment,valid,infrastructure,neutral
-5668,Buildings are used for student learning,valid,infrastructure,neutral
-5669,Infrastructure includes facility areas,valid,infrastructure,neutral
-5670,Campus layout supports infrastructure needs,valid,infrastructure,neutral
-5671,Buildings are maintained for daily use,valid,infrastructure,neutral
-5672,Infrastructure includes campus structures,valid,infrastructure,neutral
-5673,College infrastructure supports operations,valid,infrastructure,neutral
-5674,Infrastructure includes campus buildings and spaces,valid,infrastructure,neutral
-5675,College has infrastructure for academic use,valid,infrastructure,neutral
-5676,Buildings are part of daily campus operations,valid,infrastructure,neutral
-5677,Infrastructure includes structured facilities,valid,infrastructure,neutral
-5678,Campus provides infrastructure for students and staff,valid,infrastructure,neutral
-5679,Buildings are maintained for institutional activities,valid,infrastructure,neutral
-5680,Infrastructure includes classroom and office areas,valid,infrastructure,neutral
-5681,Campus layout includes physical infrastructure,valid,infrastructure,neutral
-5682,Buildings are arranged across different zones,valid,infrastructure,neutral
-5683,Infrastructure includes academic and support spaces,valid,infrastructure,neutral
-5684,College has facilities as part of infrastructure,valid,infrastructure,neutral
-5685,Buildings are accessible during college hours,valid,infrastructure,neutral
-5686,Infrastructure includes structural components,valid,infrastructure,neutral
-5687,Campus has organized infrastructure facilities,valid,infrastructure,neutral
-5688,Buildings are used for teaching and administration,valid,infrastructure,neutral
-5689,Infrastructure includes operational areas,valid,infrastructure,neutral
-5690,College infrastructure includes study spaces,valid,infrastructure,neutral
-5691,Buildings are maintained regularly for usage,valid,infrastructure,neutral
-5692,Infrastructure includes essential campus facilities,valid,infrastructure,neutral
-5693,Campus provides structured physical environment,valid,infrastructure,neutral
-5694,Buildings are part of institutional infrastructure,valid,infrastructure,neutral
-5695,Infrastructure includes common and functional spaces,valid,infrastructure,neutral
-5696,College has infrastructure to support activities,valid,infrastructure,neutral
-5697,Buildings are used for academic and office work,valid,infrastructure,neutral
-5698,Infrastructure includes usable campus areas,valid,infrastructure,neutral
-5699,Campus layout includes infrastructure elements,valid,infrastructure,neutral
-5700,Buildings are structured for student access,valid,infrastructure,neutral
-5701,Infrastructure includes indoor and outdoor facilities,valid,infrastructure,neutral
-5702,College provides infrastructure for operations,valid,infrastructure,neutral
-5703,Buildings are part of organized campus layout,valid,infrastructure,neutral
-5704,Infrastructure includes various campus units,valid,infrastructure,neutral
-5705,Campus includes infrastructure for academic sessions,valid,infrastructure,neutral
-5706,Buildings are maintained as per requirements,valid,infrastructure,neutral
-5707,Infrastructure includes seating and learning spaces,valid,infrastructure,neutral
-5708,College infrastructure includes multiple facilities,valid,infrastructure,neutral
-5709,Buildings are distributed systematically,valid,infrastructure,neutral
-5710,Infrastructure includes areas for student activities,valid,infrastructure,neutral
-5711,Campus layout supports infrastructure usage,valid,infrastructure,neutral
-5712,Buildings are part of campus planning,valid,infrastructure,neutral
-5713,Infrastructure includes essential campus resources,valid,infrastructure,neutral
-5714,College provides structured infrastructure system,valid,infrastructure,neutral
-5715,Buildings are used for institutional functions,valid,infrastructure,neutral
-5716,Infrastructure includes organized physical spaces,valid,infrastructure,neutral
-5717,Campus has infrastructure for academic operations,valid,infrastructure,neutral
-5718,Buildings are accessible for daily use,valid,infrastructure,neutral
-5719,Infrastructure includes functional learning areas,valid,infrastructure,neutral
-5720,College campus includes structured facilities,valid,infrastructure,neutral
-5721,Buildings are part of educational environment,valid,infrastructure,neutral
-5722,Infrastructure includes campus support systems,valid,infrastructure,neutral
-5723,Campus has infrastructure for student use,valid,infrastructure,neutral
-5724,Buildings are maintained for regular operations,valid,infrastructure,neutral
-5725,Infrastructure includes necessary campus structures,valid,infrastructure,neutral
-5726,College infrastructure includes multiple units,valid,infrastructure,neutral
-5727,Buildings are arranged for accessibility,valid,infrastructure,neutral
-5728,Infrastructure includes designated campus areas,valid,infrastructure,neutral
-5729,Campus layout includes various facilities,valid,infrastructure,neutral
-5730,Buildings are used for different academic purposes,valid,infrastructure,neutral
-5731,Infrastructure includes organized campus zones,valid,infrastructure,neutral
-5732,College provides infrastructure for daily activities,valid,infrastructure,neutral
-5733,Buildings are part of structured environment,valid,infrastructure,neutral
-5734,Infrastructure includes physical campus layout,valid,infrastructure,neutral
-5735,Campus has infrastructure for institutional work,valid,infrastructure,neutral
-5736,Buildings are maintained as part of campus facilities,valid,infrastructure,neutral
-5737,Infrastructure includes multiple facility areas,valid,infrastructure,neutral
-5738,College campus includes infrastructure planning and design,valid,infrastructure,neutral
-5739,Buildings are part of campus operations,valid,infrastructure,neutral
-5740,Infrastructure includes learning and support facilities,valid,infrastructure,neutral
-5741,Campus layout includes structured infrastructure units,valid,infrastructure,neutral
-5742,Buildings are used for academic and administrative tasks,valid,infrastructure,neutral
-5743,Infrastructure includes campus functional areas,valid,infrastructure,neutral
-5744,College provides infrastructure for educational needs,valid,infrastructure,neutral
-5745,Buildings are maintained for effective use,valid,infrastructure,neutral
-5746,Infrastructure includes structured campus spaces,valid,infrastructure,neutral
-5747,Campus includes infrastructure for student activities,valid,infrastructure,neutral
-5748,Buildings are part of institutional framework,valid,infrastructure,neutral
-5749,Infrastructure includes campus building systems,valid,infrastructure,neutral
-5750,College infrastructure supports daily operations,valid,infrastructure,neutral
-5751,Buildings are arranged within campus layout,valid,infrastructure,neutral
-5752,Infrastructure includes organized facility systems,valid,infrastructure,neutral
-5753,Campus has infrastructure for academic and non academic use,valid,infrastructure,neutral
-5754,Buildings are used for structured learning environment,valid,infrastructure,neutral
-5755,Infrastructure includes necessary institutional facilities,valid,infrastructure,neutral
-5756,College campus includes infrastructure resources,valid,infrastructure,neutral
-5757,Buildings are part of campus infrastructure system,valid,infrastructure,neutral
-5758,Infrastructure supports institutional workflow,valid,infrastructure,neutral
+5574,Campus infrastructure includes classrooms and buildings,valid,facilities,neutral
+5575,College has multiple academic blocks,valid,facilities,neutral
+5576,Infrastructure supports daily activities,valid,facilities,neutral
+5577,Buildings are used for different departments,valid,facilities,neutral
+5578,Campus has designated areas for classes,valid,facilities,neutral
+5579,Infrastructure includes lecture halls,valid,facilities,neutral
+5580,College provides physical facilities,valid,facilities,neutral
+5581,Buildings are maintained for usage,valid,facilities,neutral
+5582,Infrastructure includes basic amenities,valid,facilities,neutral
+5583,Campus has structured layout,valid,facilities,neutral
+5584,Buildings are allocated for departments,valid,facilities,neutral
+5585,Infrastructure includes corridors and rooms,valid,facilities,neutral
+5586,College campus includes multiple floors,valid,facilities,neutral
+5587,Buildings are used for academic purposes,valid,facilities,neutral
+5588,Infrastructure supports teaching environment,valid,facilities,neutral
+5589,Campus includes common areas,valid,facilities,neutral
+5590,Buildings are constructed for institutional use,valid,facilities,neutral
+5591,Infrastructure includes seating arrangements,valid,facilities,neutral
+5592,College has indoor facilities,valid,facilities,neutral
+5593,Buildings are designed for functionality,valid,facilities,neutral
+5594,Infrastructure includes hallways and entrances,valid,facilities,neutral
+5595,Campus has organized building structure,valid,facilities,neutral
+5596,Buildings are accessible to students,valid,facilities,neutral
+5597,Infrastructure includes utility spaces,valid,facilities,neutral
+5598,College provides structured facilities,valid,facilities,neutral
+5599,Buildings are maintained regularly,valid,facilities,neutral
+5600,Infrastructure includes physical resources,valid,facilities,neutral
+5601,Campus includes multiple infrastructure units,valid,facilities,neutral
+5602,Buildings serve academic and administrative needs,valid,facilities,neutral
+5603,Infrastructure supports institutional functions,valid,facilities,neutral
+5604,Campus has designated infrastructure areas,valid,facilities,neutral
+5605,Buildings include classrooms and offices,valid,facilities,neutral
+5606,Infrastructure includes entry and exit points,valid,facilities,neutral
+5607,College provides built environment facilities,valid,facilities,neutral
+5608,Buildings are structured for usage,valid,facilities,neutral
+5609,Infrastructure includes academic spaces,valid,facilities,neutral
+5610,Campus layout includes buildings and open areas,valid,facilities,neutral
+5611,Buildings are used for educational activities,valid,facilities,neutral
+5612,Infrastructure includes seating and desks,valid,facilities,neutral
+5613,College campus includes physical structures,valid,facilities,neutral
+5614,Buildings are maintained for student use,valid,facilities,neutral
+5615,Infrastructure includes rooms and halls,valid,facilities,neutral
+5616,Campus has defined infrastructure zones,valid,facilities,neutral
+5617,Buildings are arranged across campus,valid,facilities,neutral
+5618,Infrastructure includes support facilities,valid,facilities,neutral
+5619,College provides infrastructure for learning,valid,facilities,neutral
+5620,Buildings are used for multiple purposes,valid,facilities,neutral
+5621,Infrastructure includes study spaces,valid,facilities,neutral
+5622,Campus includes academic and non academic areas,valid,facilities,neutral
+5623,Buildings are accessible during working hours,valid,facilities,neutral
+5624,Infrastructure includes physical layout,valid,facilities,neutral
+5625,College campus includes building complexes,valid,facilities,neutral
+5626,Buildings are part of institutional setup,valid,facilities,neutral
+5627,Infrastructure includes functional spaces,valid,facilities,neutral
+5628,Campus has organized infrastructure system,valid,facilities,neutral
+5629,Buildings are distributed across campus,valid,facilities,neutral
+5630,Infrastructure includes essential facilities,valid,facilities,neutral
+5631,College provides infrastructure resources,valid,facilities,neutral
+5632,Buildings support academic operations,valid,facilities,neutral
+5633,Infrastructure includes usable spaces,valid,facilities,neutral
+5634,Campus layout is structured systematically,valid,facilities,neutral
+5635,Buildings are designed for educational needs,valid,facilities,neutral
+5636,Infrastructure includes structural facilities,valid,facilities,neutral
+5637,College has physical infrastructure system,valid,facilities,neutral
+5638,Buildings include various functional areas,valid,facilities,neutral
+5639,Infrastructure includes accessible spaces,valid,facilities,neutral
+5640,Campus has maintained infrastructure units,valid,facilities,neutral
+5641,Buildings are used for daily operations,valid,facilities,neutral
+5642,Infrastructure includes academic buildings,valid,facilities,neutral
+5643,College provides infrastructure support,valid,facilities,neutral
+5644,Buildings are part of campus environment,valid,facilities,neutral
+5645,Infrastructure includes classroom facilities,valid,facilities,neutral
+5646,Campus includes multiple building sections,valid,facilities,neutral
+5647,Buildings are structured across campus,valid,facilities,neutral
+5648,Infrastructure includes resource areas,valid,facilities,neutral
+5649,College campus includes infrastructure planning,valid,facilities,neutral
+5650,Buildings are used for institutional work,valid,facilities,neutral
+5651,Infrastructure includes learning spaces,valid,facilities,neutral
+5652,Campus layout includes structured buildings,valid,facilities,neutral
+5653,Buildings are maintained for operational use,valid,facilities,neutral
+5654,Infrastructure includes necessary amenities,valid,facilities,neutral
+5655,College provides infrastructure for students,valid,facilities,neutral
+5656,Buildings are part of campus facilities,valid,facilities,neutral
+5657,Infrastructure includes basic structural elements,valid,facilities,neutral
+5658,Campus includes infrastructure support systems,valid,facilities,neutral
+5659,Buildings are organized within campus,valid,facilities,neutral
+5660,Infrastructure includes indoor environments,valid,facilities,neutral
+5661,College campus has structured infrastructure,valid,facilities,neutral
+5662,Buildings are available for academic use,valid,facilities,neutral
+5663,Infrastructure includes operational facilities,valid,facilities,neutral
+5664,Campus has infrastructure for activities,valid,facilities,neutral
+5665,Buildings are part of institutional layout,valid,facilities,neutral
+5666,Infrastructure includes essential structures,valid,facilities,neutral
+5667,College provides infrastructure environment,valid,facilities,neutral
+5668,Buildings are used for student learning,valid,facilities,neutral
+5669,Infrastructure includes facility areas,valid,facilities,neutral
+5670,Campus layout supports infrastructure needs,valid,facilities,neutral
+5671,Buildings are maintained for daily use,valid,facilities,neutral
+5672,Infrastructure includes campus structures,valid,facilities,neutral
+5673,College infrastructure supports operations,valid,facilities,neutral
+5674,Infrastructure includes campus buildings and spaces,valid,facilities,neutral
+5675,College has infrastructure for academic use,valid,facilities,neutral
+5676,Buildings are part of daily campus operations,valid,facilities,neutral
+5677,Infrastructure includes structured facilities,valid,facilities,neutral
+5678,Campus provides infrastructure for students and staff,valid,facilities,neutral
+5679,Buildings are maintained for institutional activities,valid,facilities,neutral
+5680,Infrastructure includes classroom and office areas,valid,facilities,neutral
+5681,Campus layout includes physical infrastructure,valid,facilities,neutral
+5682,Buildings are arranged across different zones,valid,facilities,neutral
+5683,Infrastructure includes academic and support spaces,valid,facilities,neutral
+5684,College has facilities as part of infrastructure,valid,facilities,neutral
+5685,Buildings are accessible during college hours,valid,facilities,neutral
+5686,Infrastructure includes structural components,valid,facilities,neutral
+5687,Campus has organized infrastructure facilities,valid,facilities,neutral
+5688,Buildings are used for teaching and administration,valid,facilities,neutral
+5689,Infrastructure includes operational areas,valid,facilities,neutral
+5690,College infrastructure includes study spaces,valid,facilities,neutral
+5691,Buildings are maintained regularly for usage,valid,facilities,neutral
+5692,Infrastructure includes essential campus facilities,valid,facilities,neutral
+5693,Campus provides structured physical environment,valid,facilities,neutral
+5694,Buildings are part of institutional infrastructure,valid,facilities,neutral
+5695,Infrastructure includes common and functional spaces,valid,facilities,neutral
+5696,College has infrastructure to support activities,valid,facilities,neutral
+5697,Buildings are used for academic and office work,valid,facilities,neutral
+5698,Infrastructure includes usable campus areas,valid,facilities,neutral
+5699,Campus layout includes infrastructure elements,valid,facilities,neutral
+5700,Buildings are structured for student access,valid,facilities,neutral
+5701,Infrastructure includes indoor and outdoor facilities,valid,facilities,neutral
+5702,College provides infrastructure for operations,valid,facilities,neutral
+5703,Buildings are part of organized campus layout,valid,facilities,neutral
+5704,Infrastructure includes various campus units,valid,facilities,neutral
+5705,Campus includes infrastructure for academic sessions,valid,facilities,neutral
+5706,Buildings are maintained as per requirements,valid,facilities,neutral
+5707,Infrastructure includes seating and learning spaces,valid,facilities,neutral
+5708,College infrastructure includes multiple facilities,valid,facilities,neutral
+5709,Buildings are distributed systematically,valid,facilities,neutral
+5710,Infrastructure includes areas for student activities,valid,facilities,neutral
+5711,Campus layout supports infrastructure usage,valid,facilities,neutral
+5712,Buildings are part of campus planning,valid,facilities,neutral
+5713,Infrastructure includes essential campus resources,valid,facilities,neutral
+5714,College provides structured infrastructure system,valid,facilities,neutral
+5715,Buildings are used for institutional functions,valid,facilities,neutral
+5716,Infrastructure includes organized physical spaces,valid,facilities,neutral
+5717,Campus has infrastructure for academic operations,valid,facilities,neutral
+5718,Buildings are accessible for daily use,valid,facilities,neutral
+5719,Infrastructure includes functional learning areas,valid,facilities,neutral
+5720,College campus includes structured facilities,valid,facilities,neutral
+5721,Buildings are part of educational environment,valid,facilities,neutral
+5722,Infrastructure includes campus support systems,valid,facilities,neutral
+5723,Campus has infrastructure for student use,valid,facilities,neutral
+5724,Buildings are maintained for regular operations,valid,facilities,neutral
+5725,Infrastructure includes necessary campus structures,valid,facilities,neutral
+5726,College infrastructure includes multiple units,valid,facilities,neutral
+5727,Buildings are arranged for accessibility,valid,facilities,neutral
+5728,Infrastructure includes designated campus areas,valid,facilities,neutral
+5729,Campus layout includes various facilities,valid,facilities,neutral
+5730,Buildings are used for different academic purposes,valid,facilities,neutral
+5731,Infrastructure includes organized campus zones,valid,facilities,neutral
+5732,College provides infrastructure for daily activities,valid,facilities,neutral
+5733,Buildings are part of structured environment,valid,facilities,neutral
+5734,Infrastructure includes physical campus layout,valid,facilities,neutral
+5735,Campus has infrastructure for institutional work,valid,facilities,neutral
+5736,Buildings are maintained as part of campus facilities,valid,facilities,neutral
+5737,Infrastructure includes multiple facility areas,valid,facilities,neutral
+5738,College campus includes infrastructure planning and design,valid,facilities,neutral
+5739,Buildings are part of campus operations,valid,facilities,neutral
+5740,Infrastructure includes learning and support facilities,valid,facilities,neutral
+5741,Campus layout includes structured infrastructure units,valid,facilities,neutral
+5742,Buildings are used for academic and administrative tasks,valid,facilities,neutral
+5743,Infrastructure includes campus functional areas,valid,facilities,neutral
+5744,College provides infrastructure for educational needs,valid,facilities,neutral
+5745,Buildings are maintained for effective use,valid,facilities,neutral
+5746,Infrastructure includes structured campus spaces,valid,facilities,neutral
+5747,Campus includes infrastructure for student activities,valid,facilities,neutral
+5748,Buildings are part of institutional framework,valid,facilities,neutral
+5749,Infrastructure includes campus building systems,valid,facilities,neutral
+5750,College infrastructure supports daily operations,valid,facilities,neutral
+5751,Buildings are arranged within campus layout,valid,facilities,neutral
+5752,Infrastructure includes organized facility systems,valid,facilities,neutral
+5753,Campus has infrastructure for academic and non academic use,valid,facilities,neutral
+5754,Buildings are used for structured learning environment,valid,facilities,neutral
+5755,Infrastructure includes necessary institutional facilities,valid,facilities,neutral
+5756,College campus includes infrastructure resources,valid,facilities,neutral
+5757,Buildings are part of campus infrastructure system,valid,facilities,neutral
+5758,Infrastructure supports institutional workflow,valid,facilities,neutral
 5759,Transport services are available for students,valid,facilities,neutral
 5760,College buses operate on fixed routes,valid,facilities,neutral
 5761,Sports facilities are available on campus,valid,facilities,neutral

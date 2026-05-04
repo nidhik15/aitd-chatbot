@@ -117,7 +117,8 @@ def validate_with_gemma(text: str) -> str:
 Classify this college feedback as Valid or Invalid.
 
 Valid:
-- Meaningful college-related feedback
+- Any feedback related to college life
+- Includes food, facilities, staff, academics, or services
 - Complaint, suggestion, request, or observation
 
 Invalid:
@@ -210,6 +211,35 @@ COLLEGE_CONTEXT_KEYWORDS = {
     'admin', 'office', 'documentation', 'paperwork', 'fee', 'enrollment',
     'website', 'portal', 'login', 'app', 'online', 'browser', 'server',
     'transport', 'bus', 'vehicle', 'commute'
+}
+
+CATEGORY_KEYWORDS = {
+    "academics": {
+        'class', 'course', 'professor', 'teacher', 'exam', 'lecture', 'assignment',
+        'grade', 'subject', 'syllabus', 'study', 'academic', 'classroom'
+    },
+
+    "library": {
+        'library', 'book', 'reading', 'research', 'manuscript', 'shelf', 'borrow'
+    },
+
+    "canteen": {
+        'canteen', 'cafe', 'food', 'meal', 'lunch', 'dinner', 'menu', 'beverage'
+    },
+
+    "facilities": {
+        'maintenance', 'repair', 'broken', 'damaged', 'fix', 'cleaning', 'facility',
+        'plumbing', 'electrical', 'pipe', 'water', 'fan', 'ac', 'light', 'ceiling',
+        'transport', 'bus', 'vehicle', 'commute'
+    },
+
+    "administration": {
+        'admin', 'office', 'documentation', 'paperwork', 'fee', 'enrollment', 'staff', 'management'
+    },
+
+    "website": {
+        'website', 'portal', 'login', 'app', 'online', 'browser', 'server'
+    }
 }
 
 class CollegeFeedbackPredictor:
@@ -378,14 +408,36 @@ class CollegeFeedbackPredictor:
         ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         original = feedback_message
 
-        # 1️⃣ Gemma normalization
+        # 🔥 Step 0: Empty input check
+        if original is None or str(original).strip() == "":
+            return {
+                'original_text': original,
+                'corrected_text': '',
+                'valid_invalid': 'Invalid',
+                'results': [],
+                'message': 'Empty input not allowed',
+                'timestamp': ts
+            }
+
+        # 🔥 Step 1: Gemma normalization FIRST
         corrected = correct_with_gemma(original)
 
         if verbose:
             print(f"👩‍🎓 Original: '{original}'")
             print(f"✨ Corrected: '{corrected}'")
 
-        # 2️⃣ Validate full message
+        # 🔥 Step 2: Rule-based validation on CORRECTED text
+        if not self.rule_based_validation(corrected):
+            return {
+                'original_text': original,
+                'corrected_text': corrected,
+                'valid_invalid': 'Invalid',
+                'results': [],
+                'message': 'Failed rule-based validation',
+                'timestamp': ts
+            }
+
+        # 🔥 Step 3: LLM validation
         validation_result = validate_with_gemma(corrected)
 
         if validation_result == "Invalid":
@@ -397,13 +449,14 @@ class CollegeFeedbackPredictor:
                 'timestamp': ts
             }
 
-        # 3️⃣ Split into logical sentences
+        # 🔥 Step 4: Sentence processing
         sentences = self.split_into_sentences(corrected)
 
         results = []
 
         for sentence in sentences:
-            clean = self.clean_text(sentence)
+            clean_basic = self.clean_text(sentence)
+            clean = sentence.lower() + " " + clean_basic
 
             if clean == "empty":
                 continue
@@ -412,13 +465,16 @@ class CollegeFeedbackPredictor:
             sent_tfidf = self.sent_vec.transform([clean])
             sentiment = self.sent_model.predict(sent_tfidf)[0]
 
-            # 🔥 Fix negation meaning
+            # Negation handling
             sentiment = self.handle_negation_cases(sentence, sentiment)
             sent_prob = self.sent_model.predict_proba(sent_tfidf)[0].max()
 
-            # Category prediction
-            cat_tfidf = self.cat_vec.transform([clean])
-            category = self.cat_model.predict(cat_tfidf)[0]
+            # Category detection
+            category = self.rule_based_category(sentence)
+
+            if category is None:
+                cat_tfidf = self.cat_vec.transform([clean])
+                category = self.cat_model.predict(cat_tfidf)[0]
 
             results.append({
                 "sentence": sentence,
@@ -427,6 +483,17 @@ class CollegeFeedbackPredictor:
                 "confidence": f"{sent_prob:.2f}"
             })
 
+        # 🔥 Step 5: Final safeguard
+        if not results:
+            return {
+                'original_text': original,
+                'corrected_text': corrected,
+                'valid_invalid': 'Invalid',
+                'results': [],
+                'message': 'No meaningful sentences found',
+                'timestamp': ts
+            }
+
         return {
             'original_text': original,
             'corrected_text': corrected,
@@ -434,7 +501,6 @@ class CollegeFeedbackPredictor:
             'results': results,
             'timestamp': ts
         }
-
 
     def load_category_model(self):
         if os.path.exists("models/category_model.pkl"):
@@ -505,35 +571,110 @@ class CollegeFeedbackPredictor:
                 if len(final.split()) >= 3:
                     final_sentences.append(final)
 
-        return final_sentences if final_sentences else [text]  
+        return final_sentences
 
     def handle_negation_cases(self, sentence, predicted_sentiment):
         text = sentence.lower()
+        words = text.split()
 
-        # Positive negation patterns
-        positive_patterns = [
-            "not bad", "not worst", "not poor", "not terrible",
-            "not awful", "not disappointing"
+        # 🔥 Request/complaint detection
+        request_words = ["fix", "improve", "repair", "resolve", "update", "check", "look into"]
+        if any(word in text for word in request_words):
+            return "negative"
+
+        # ✅ Step 1: Handle SPECIAL phrases FIRST
+        positive_phrases = [
+            "not bad", "not worst", "not poor",
+            "not terrible", "not awful", "not disappointing"
         ]
 
-        # Negative negation patterns
-        negative_patterns = [
+        negative_phrases = [
             "not good", "not nice", "not great",
             "not fresh", "not clean", "not working"
         ]
 
-        # Check positive meaning
-        for p in positive_patterns:
+        for p in positive_phrases:
             if p in text:
                 return "positive"
 
-        # Check negative meaning
-        for p in negative_patterns:
+        for p in negative_phrases:
             if p in text:
                 return "negative"
 
+        # 🔥 NEW FIX: handle "not very clean", "not really good", etc.
+        positive_words = [
+            "good", "great", "excellent", "clean",
+            "fast", "helpful", "delicious",
+            "tasty", "fresh", "amazing"
+        ]
+
+        negative_words = [
+            "bad", "worst", "poor", "slow", "issue",
+            "problem", "delay", "dirty", "crowded",
+            "unhygienic", "disgusting", "tasteless",
+            "spoiled", "rotten", "awful"
+        ]
+
+        for i, word in enumerate(words):
+            if word == "not":
+                window = words[i:i+3]   # ['not', 'very', 'clean']
+
+                for w in window:
+                    if w in positive_words:
+                        return "negative"
+                    if w in negative_words:
+                        return "positive"
+
+        # ✅ Step 2: normal detection (FIXED → use words, not text)
+        if any(w in words for w in negative_words):
+            return "negative"
+
+        if any(w in words for w in positive_words):
+            return "positive"
+
         return predicted_sentiment
  
+    def rule_based_validation(self, text):
+        text_lower = text.lower().strip()
+
+        # Rule 2 + 4: Length check
+        if len(text_lower.split()) < 3:
+            return False
+
+        # Rule 5: Invalid phrases
+        if text_lower in INVALID_PHRASES:
+            return False
+
+        # Rule 3: Keyword presence
+        keyword_match = any(word in text_lower for word in COLLEGE_CONTEXT_KEYWORDS)
+
+        if not keyword_match:
+            # allow if sentence has meaningful structure
+            if len(text_lower.split()) >= 5:
+                return True
+            return False
+
+        return True
+
+
+    def rule_based_category(self, sentence):
+        words = set(sentence.lower().split())
+
+        category_scores = {}
+
+        # Count keyword matches for each category
+        for category, keywords in CATEGORY_KEYWORDS.items():
+            match_count = len(words & keywords)
+            if match_count > 0:
+                category_scores[category] = match_count
+
+        # Return category with highest matches
+        if category_scores:
+            return max(category_scores, key=category_scores.get)
+
+        return None
+
+
 
 if __name__ == "__main__":
     predictor = CollegeFeedbackPredictor()
